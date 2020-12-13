@@ -30,7 +30,7 @@ from scipy.spatial import distance
 import spacy
 from sentence_transformers import SentenceTransformer, util
 
-import lexical_metrics
+import utils.lexical_metrics as lexical_metrics
 
 
 # A window is a sequence of sentences that occurs either at the beginning
