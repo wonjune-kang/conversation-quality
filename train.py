@@ -102,6 +102,9 @@ def train(model, dataloader_info, device, iterations, criterion, optimizer,
         with torch.no_grad():
             val_loss = 0.0
             for X_val, y_val in val_loader:
+                X_val = torch.tensor(train_dataset.data_scaler.transform(X_val.cpu().detach().numpy())).float()
+                y_val = torch.tensor(train_dataset.labels_scaler.transform(y_val.cpu().detach().numpy())).float()
+
                 X_val = X_val.to(device)
                 y_val = y_val.to(device)
 
@@ -110,7 +113,7 @@ def train(model, dataloader_info, device, iterations, criterion, optimizer,
 
                 val_loss += loss.item()
                 val_mse = compute_mse_per_feat(y_val.cpu().detach().numpy(), y_pred_category.cpu().detach().numpy(),
-                                               val_dataset.labels_scaler)
+                                               train_dataset.labels_scaler)
 
         scheduler.step()
 
