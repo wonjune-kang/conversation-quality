@@ -12,7 +12,6 @@ class SingleRegressionLinear(nn.Module):
         x = self.fc_out(x)
         return x
 
-
 class MultipleRegressionLinear(nn.Module):
     def __init__(self, n_feats, n_out):
         super(SingleRegressionLinear, self).__init__()
@@ -21,7 +20,6 @@ class MultipleRegressionLinear(nn.Module):
     def forward(self, x):
         x = self.fc_out(x)
         return x
-
 
 class SingleRegressionNet(nn.Module):
     def __init__(self, n_feats, n_hidden):
@@ -40,7 +38,6 @@ class SingleRegressionNet(nn.Module):
         x = self.fc_out(x)
         return x
 
-
 class MultipleRegressionNet(nn.Module):
     def __init__(self, n_feats, n_hidden, n_out=4):
         super(MultipleRegressionNet, self).__init__()
@@ -57,3 +54,6 @@ class MultipleRegressionNet(nn.Module):
         x = self.dropout(x)
         x = self.fc_out(x)
         return x
+
+
+

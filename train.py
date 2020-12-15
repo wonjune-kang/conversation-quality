@@ -21,25 +21,18 @@ def get_single_metric_dataloaders(data_csv, labels_csv, pred_category, xval_idx=
     val_dataset = SingleMetricDataset(data_csv, labels_csv, pred_category,
                                       xval_idx=xval_idx, is_train=False, ablation_feat=ablation_feat)
 
-    if xval_idx == 9:
-        train_batch_size = 18
-        val_batch_size = 3
-    else:
-        train_batch_size = 19
-        val_batch_size = 2
-
     train_loader = torch.utils.data.DataLoader(train_dataset,
-                                               batch_size=train_batch_size,
+                                               batch_size=len(train_dataset),
                                                shuffle=True,
                                                num_workers=4,
                                                drop_last=True)
     val_loader = torch.utils.data.DataLoader(val_dataset,
-                                            batch_size=val_batch_size,
+                                            batch_size=len(val_dataset),
                                             shuffle=True,
                                             num_workers=4,
                                             drop_last=True)
 
-    return train_loader, val_loader, train_dataset, val_dataset, train_batch_size, val_batch_size
+    return train_loader, val_loader, train_dataset, val_dataset
 
 def get_full_metric_dataloaders(data_csv, labels_csv, xval_idx=0, ablation_feat=None):
     train_dataset = FullMetricDataset(data_csv, labels_csv, xval_idx=xval_idx,
@@ -47,31 +40,24 @@ def get_full_metric_dataloaders(data_csv, labels_csv, xval_idx=0, ablation_feat=
     val_dataset = FullMetricDataset(data_csv, labels_csv, xval_idx=xval_idx,
                                     is_train=False, ablation_feat=ablation_feat)
 
-    if xval_idx == 9:
-        train_batch_size = 18
-        val_batch_size = 3
-    else:
-        train_batch_size = 19
-        val_batch_size = 2
-
     train_loader = torch.utils.data.DataLoader(train_dataset,
-                                               batch_size=train_batch_size,
+                                               batch_size=len(train_dataset),
                                                shuffle=True,
                                                num_workers=1,
                                                drop_last=True)
     val_loader = torch.utils.data.DataLoader(val_dataset,
-                                            batch_size=val_batch_size,
+                                            batch_size=len(val_dataset),
                                             shuffle=True,
                                             num_workers=1,
                                             drop_last=True)
 
-    return train_loader, val_loader, train_dataset, val_dataset, train_batch_size, val_batch_size
+    return train_loader, val_loader, train_dataset, val_dataset
 
 
-def train(model, dataloader_info, device, iterations, criterion, optimizer,
+def train(model, dataloaders, device, iterations, criterion, optimizer,
           scheduler, ckpt_path, xval_idx, run_idx):
 
-    train_loader, val_loader, train_dataset, val_dataset, train_batch_size, val_batch_size = dataloader_info
+    train_loader, val_loader, train_dataset, val_dataset = dataloaders
 
     best_iter = -1
     best_val_loss = np.inf
@@ -117,8 +103,8 @@ def train(model, dataloader_info, device, iterations, criterion, optimizer,
 
         scheduler.step()
 
-        avg_train_loss = train_loss/train_batch_size
-        avg_val_loss = val_loss/val_batch_size
+        avg_train_loss = train_loss/len(train_dataset)
+        avg_val_loss = val_loss/len(val_dataset)
 
         if avg_val_loss < best_val_loss:
             best_iter = iteration
@@ -195,10 +181,10 @@ if __name__ == '__main__':
             for run_idx in range(1, args.runs_per_fold+1):
                 if args.mult_regression:
                     model = MultipleRegressionNet(n_feats, args.n_hidden)
-                    dataloader_info = get_full_metric_dataloaders(args.data_csv, args.labels_csv, xval_idx, ablation_feat)
+                    dataloaders = get_full_metric_dataloaders(args.data_csv, args.labels_csv, xval_idx, ablation_feat)
                 else:
                     model = SingleRegressionNet(n_feats, args.n_hidden)
-                    dataloader_info = get_single_metric_dataloaders(args.data_csv, args.labels_csv, args.pred_category, xval_idx, ablation_feat)
+                    dataloaders = get_single_metric_dataloaders(args.data_csv, args.labels_csv, args.pred_category, xval_idx, ablation_feat)
                 model = model.to(device)
 
                 criterion = torch.nn.MSELoss()
@@ -208,7 +194,7 @@ if __name__ == '__main__':
                             ], lr=args.lr)
                 scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=args.lr_step, gamma=0.5)
 
-                avg_val_mse = train(model, dataloader_info, device, args.iterations,
+                avg_val_mse = train(model, dataloaders, device, args.iterations,
                                     criterion, optimizer, scheduler, args.ckpt_path,
                                     xval_idx, run_idx)
 
@@ -218,5 +204,6 @@ if __name__ == '__main__':
     log_file.close()
 
         
+
 
 

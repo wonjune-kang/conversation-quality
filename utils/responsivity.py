@@ -4,7 +4,7 @@
 Computes a "responsivity" measure, the amount of semantic overlap between
 successive speaker turns in a transcribed conversation.
 Semantic overlap is measured using cosine distance between vectors
-produced by the Universal Sentence Encoder for pairs of sentences taken 
+produced by Sentence-BERT for pairs of sentences taken 
 near the boundary of the speaker turn.
 
 Outputs a JSON description of the speaker turns.
