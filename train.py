@@ -136,22 +136,22 @@ FEAT_NAMES = ["Words per hour", "Speech per turn", "Turn taking balance",
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description = "MultipleRegressionNet")
 
-    parser.add_argument('--data_csv',        type=str,   default='./data/csv/keeper_metrics_full.csv', help='Path to CSV file with pre-extracted features')
-    parser.add_argument('--labels_csv',      type=str,   default='./data/csv/keeper_survey_avg.csv',   help='Path to CSV file with labels')
+    parser.add_argument('--data_csv', type=str, default='./data/csv/keeper_metrics_full.csv', help='Path to CSV file with pre-extracted features')
+    parser.add_argument('--labels_csv', type=str, default='./data/csv/keeper_survey_labels.csv', help='Path to CSV file with labels')
 
-    parser.add_argument('--mult_regression', type=bool,  default=True,   help='Whether to predict all label categories simultaneously or not')
-    parser.add_argument('--pred_category',   type=str,                   help='Label category to predict if single regression')
-    parser.add_argument('--ablation',        type=bool,  default=False,  help='Whether to ablate a feature')
-    parser.add_argument('--ablation_feat',   type=str,                   help='Input feature to be ablated'), 
+    parser.add_argument('--single_regression', dest='single_regression', action='store_true', help='Whether to predict all label categories simultaneously or not')
+    parser.add_argument('--pred_category', type=str, help='Label category to predict if single regression')
+    parser.add_argument('--ablation', dest='ablation', action='store_true', help='Whether to ablate a feature')
+    parser.add_argument('--ablation_feat', type=str, help='Input feature to be ablated'), 
 
-    parser.add_argument('--iterations',      type=int,   default=2000,   help='Number of training iterations')
-    parser.add_argument('--lr',              type=float, default=0.0001, help='Learning rate')
-    parser.add_argument('--lr_step',         type=int,   default=400,    help='Learning rate scheduler step')
-    parser.add_argument('--n_hidden',        type=int,   default=10,     help='Number of hidden units for network')
-    parser.add_argument('--runs_per_fold',   type=int,   default=5,      help='Number of runs for each cross validation fold')
+    parser.add_argument('--iterations', type=int, default=2000, help='Number of training iterations')
+    parser.add_argument('--lr', type=float, default=0.0001, help='Learning rate')
+    parser.add_argument('--lr_step', type=int, default=400, help='Learning rate scheduler step')
+    parser.add_argument('--n_hidden', type=int, default=10, help='Number of hidden units for network')
+    parser.add_argument('--runs_per_fold', type=int, default=5, help='Number of runs for each cross validation fold')
 
-    parser.add_argument('--ckpt_path',       type=str,   default="./checkpoints",  help='Path to save model checkpoints')
-    parser.add_argument('--log_file',        type=str,   default="./logs/log.csv", help='Path to log file')
+    parser.add_argument('--ckpt_path', type=str, default="./checkpoints", help='Path to save model checkpoints')
+    parser.add_argument('--log_file', type=str, default="./log.csv", help='Path to log file')
 
     args = parser.parse_args()
 
@@ -165,7 +165,7 @@ if __name__ == '__main__':
 
     if args.ablation == True:
         if args.ablation_feat not in FEAT_NAMES:
-            raise Exception("Invalid feature name for ablation.")
+            raise Exception(f"Invalid feature name for ablation. Feature name must be one of {FEAT_NAMES}.")
         n_feats = 7
         ablation_feat = args.ablation_feat
         print(f"Ablating on feature: {ablation_feat}")
@@ -179,7 +179,7 @@ if __name__ == '__main__':
 
         for xval_idx in range(10):
             for run_idx in range(1, args.runs_per_fold+1):
-                if args.mult_regression:
+                if args.single_regression == False:
                     model = MultipleRegressionNet(n_feats, args.n_hidden)
                     dataloaders = get_full_metric_dataloaders(args.data_csv, args.labels_csv, xval_idx, ablation_feat)
                 else:
