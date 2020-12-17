@@ -2,6 +2,11 @@
 *.swp
 .ipynb_checkpoints
 *.tsx
+*.sh
 __pycache__
 checkpoints
 logs
+data/emotion_lexicons
+data/lvn
+data/transcripts*
+jupyter/playground.ipynb
