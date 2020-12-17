@@ -1,0 +1,542 @@
+[
+  {
+    "audio_start_offset": 0.0,
+    "audio_end_offset": 17.5,
+    "speaker_id": "Maggie",
+    "content": "All right, great job everybody. Great list. So now we can move on, just quickly, the next question is if you found yourself stranded on an island, an island without any civilization, a desert island, and you had time to grab one object, one practical thing, what would it be and why?"
+  },
+  {
+    "audio_start_offset": 18.0,
+    "audio_end_offset": 33.5,
+    "speaker_id": "Lauren",
+    "content": "Depending on the island, I think I'd want a water filter. If you didn't have a fresh water source then I think that would be the most crucial thing."
+  },
+  {
+    "audio_start_offset": 34.0,
+    "audio_end_offset": 41.5,
+    "speaker_id": "Veronica",
+    "content": "I guess if there's no civilization then flares wouldn't do much, but maybe a knife, like a Swiss Army knife."
+  },
+  {
+    "audio_start_offset": 42.0,
+    "audio_end_offset": 53.5,
+    "speaker_id": "Erin",
+    "content": "I'm terrible at this, I never know what to bring."
+  },
+  {
+    "audio_start_offset": 54.0,
+    "audio_end_offset": 54.5,
+    "speaker_id": "Lauren",
+    "content": "A book."
+  },
+  {
+    "audio_start_offset": 55.0,
+    "audio_end_offset": 82.5,
+    "speaker_id": "Erin",
+    "content": "Yeah. That's what I think of. The only other tool that comes to mind, I don't even know what it's called, my dad had one, and it's like a shovel, like a little short shovel and then at the base of the shovel where it connects to the handle, there's a little thing that you turn and the shovel can fold up and it's like a pick. That's the only thing I can think of. I don't know how useful that would be."
+  },
+  {
+    "audio_start_offset": 83.0,
+    "audio_end_offset": 89.5,
+    "speaker_id": "Lauren",
+    "content": "That's like one of those army... they do like the World War II army tools."
+  },
+  {
+    "audio_start_offset": 90.0,
+    "audio_end_offset": 95.5,
+    "speaker_id": "Erin",
+    "content": "Yeah, except we use it for like a fire poker."
+  },
+  {
+    "audio_start_offset": 96.0,
+    "audio_end_offset": 102.5,
+    "speaker_id": "Matt",
+    "content": "Can you completely pre-fabricate a house? Like is that a single object?"
+  },
+  {
+    "audio_start_offset": 103.0,
+    "audio_end_offset": 105.5,
+    "speaker_id": "Lauren",
+    "content": "Yeah, a miniature home. That's a great one."
+  },
+  {
+    "audio_start_offset": 106.0,
+    "audio_end_offset": 110.5,
+    "speaker_id": "Veronica",
+    "content": "Sure, we'll include that."
+  },
+  {
+    "audio_start_offset": 111.0,
+    "audio_end_offset": 116.5,
+    "speaker_id": "Lauren",
+    "content": "A helicopter."
+  },
+  {
+    "audio_start_offset": 117.0,
+    "audio_end_offset": 124.5,
+    "speaker_id": "Sophie",
+    "content": "I want to say my phone just because I'm so attached to it but it probably wouldn't do me much good."
+  },
+  {
+    "audio_start_offset": 125.0,
+    "audio_end_offset": 124.5,
+    "speaker_id": "Erin",
+    "content": "[crosstalk 00:26:39]."
+  },
+  {
+    "audio_start_offset": 125.0,
+    "audio_end_offset": 124.5,
+    "speaker_id": "Lauren",
+    "content": "[crosstalk 00:26:39] a satellite phone."
+  },
+  {
+    "audio_start_offset": 125.0,
+    "audio_end_offset": 125.5,
+    "speaker_id": "Erin",
+    "content": "Extension cord."
+  },
+  {
+    "audio_start_offset": 126.0,
+    "audio_end_offset": 129.5,
+    "speaker_id": "Sophie",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 130.0,
+    "audio_end_offset": 141.5,
+    "speaker_id": "Veronica",
+    "content": "Maybe something to make fire with like, I don't know flint or a fire starter."
+  },
+  {
+    "audio_start_offset": 142.0,
+    "audio_end_offset": 150.5,
+    "speaker_id": "Lauren",
+    "content": "Maybe a fishing hook, some line."
+  },
+  {
+    "audio_start_offset": 151.0,
+    "audio_end_offset": 169.5,
+    "speaker_id": "Maggie",
+    "content": "Okay great, good list again. So now could you just brainstorm for a few minutes about how if you all were on this island together, how you could use these objects in a strategic way to help in this survival effort?"
+  },
+  {
+    "audio_start_offset": 170.0,
+    "audio_end_offset": 171.5,
+    "speaker_id": "Erin",
+    "content": "We already have a house, that's a pretty good start."
+  },
+  {
+    "audio_start_offset": 172.0,
+    "audio_end_offset": 194.5,
+    "speaker_id": "Lauren",
+    "content": "Yeah, just sleep all day. I definitely, with the hook, one of the first things would be to figure out how to get your food source. Once you figure out fresh water and shelter, I guess food... those are the three essentials. I don't know, what would you do with the shovel pick tool?"
+  },
+  {
+    "audio_start_offset": 195.0,
+    "audio_end_offset": 202.5,
+    "speaker_id": "Erin",
+    "content": "Oh, like I said, we used it for like poking the fire, but obviously if you had to dig a hole, we have a shovel."
+  },
+  {
+    "audio_start_offset": 203.0,
+    "audio_end_offset": 205.5,
+    "speaker_id": "Lauren",
+    "content": "Yeah, my first thing I think would be digging a hole that's like for going to the bathroom."
+  },
+  {
+    "audio_start_offset": 206.0,
+    "audio_end_offset": 213.5,
+    "speaker_id": "Erin",
+    "content": "Yeah, like a latrine, but we have a house, so, I don't know, a trap."
+  },
+  {
+    "audio_start_offset": 214.0,
+    "audio_end_offset": 214.5,
+    "speaker_id": "Lauren",
+    "content": "The house has a bathroom."
+  },
+  {
+    "audio_start_offset": 215.0,
+    "audio_end_offset": 216.5,
+    "speaker_id": "Erin",
+    "content": "That's your other food source, trapping things."
+  },
+  {
+    "audio_start_offset": 217.0,
+    "audio_end_offset": 217.5,
+    "speaker_id": "Lauren",
+    "content": "Oh yeah."
+  },
+  {
+    "audio_start_offset": 218.0,
+    "audio_end_offset": 218.5,
+    "speaker_id": "Erin",
+    "content": "[crosstalk 00:28:12] fish."
+  },
+  {
+    "audio_start_offset": 219.0,
+    "audio_end_offset": 223.5,
+    "speaker_id": "Lauren",
+    "content": "Yeah, killing it. Pretty brutal."
+  },
+  {
+    "audio_start_offset": 224.0,
+    "audio_end_offset": 234.5,
+    "speaker_id": "Matt",
+    "content": "There would have to be a way to like distribute people's time on the phone."
+  },
+  {
+    "audio_start_offset": 235.0,
+    "audio_end_offset": 239.5,
+    "speaker_id": "Lauren",
+    "content": "The book would... what book would we choose? A survival book?"
+  },
+  {
+    "audio_start_offset": 240.0,
+    "audio_end_offset": 249.5,
+    "speaker_id": "Veronica",
+    "content": "Yeah. Whatever like... what's that guy? Man vs. Wild, Bear Grylls, I want his memoirs. Maybe we can get some tips."
+  },
+  {
+    "audio_start_offset": 250.0,
+    "audio_end_offset": 251.5,
+    "speaker_id": "Lauren",
+    "content": "Swiss Family Robinson."
+  },
+  {
+    "audio_start_offset": 252.0,
+    "audio_end_offset": 251.5,
+    "speaker_id": "Veronica",
+    "content": "Oh yeah."
+  },
+  {
+    "audio_start_offset": 252.0,
+    "audio_end_offset": 260.5,
+    "speaker_id": "Sophie",
+    "content": "Oh god."
+  },
+  {
+    "audio_start_offset": 261.0,
+    "audio_end_offset": 297.5,
+    "speaker_id": "Maggie",
+    "content": "All right, this looks great everybody. Thank you so much. So for the next question, I would like to know what meaningful object you would bring with you. And so the thought behind this is not necessarily that it's aiding your survival, but rather helping you emotionally or mentally survive on this island. And now as we transition to this part of the conversation, I invite you to use the talking piece as well."
+  },
+  {
+    "audio_start_offset": 298.0,
+    "audio_end_offset": 329.5,
+    "speaker_id": "Lauren",
+    "content": "I would bring something like... I was a Buddhist monk, so I would bring the Tripitaka, which is like the canon of all the teachings, because there would definitely be something that you could keep your mind simulated infinitely."
+  },
+  {
+    "audio_start_offset": 330.0,
+    "audio_end_offset": 346.5,
+    "speaker_id": "Matt",
+    "content": "This may be a little personal but I would probably have to bring certain prescriptions, otherwise I would lose my mind. I don't know, maybe that's closer to survival, but it would aid my mental health considerably."
+  },
+  {
+    "audio_start_offset": 347.0,
+    "audio_end_offset": 363.5,
+    "speaker_id": "Lauren",
+    "content": "That definitely sounds essential."
+  },
+  {
+    "audio_start_offset": 364.0,
+    "audio_end_offset": 385.5,
+    "speaker_id": "Erin",
+    "content": "I would have to say maybe like my iPod, that'd have to come with a contingency of endless battery, but so I could have music, then I'm pretty set."
+  },
+  {
+    "audio_start_offset": 386.0,
+    "audio_end_offset": 405.5,
+    "speaker_id": "Sophie",
+    "content": "I think I would want to have some photos to look at every once in a while, like photos of my friends and family."
+  },
+  {
+    "audio_start_offset": 406.0,
+    "audio_end_offset": 416.5,
+    "speaker_id": "Veronica",
+    "content": "Yeah, I was going to say like a photo album I think."
+  },
+  {
+    "audio_start_offset": 417.0,
+    "audio_end_offset": 452.5,
+    "speaker_id": "Maggie",
+    "content": "Great, thank you guys for this list as well. So now I'm curious about who you'd bring to the island with you? And again, this is... I wonder who you'd bring that's meaningful for you. So, definitely we might all want to bring Bear Grylls, but if you couldn't, if you could only bring somebody that had great meaning to you, who would you bring? And do you think you could tell a story about why you would bring them? Like, tell a story of a moment that might exemplify why they're important to you or why you would bring them."
+  },
+  {
+    "audio_start_offset": 453.0,
+    "audio_end_offset": 454.5,
+    "speaker_id": "Lauren",
+    "content": "Could it be anyone throughout history?"
+  },
+  {
+    "audio_start_offset": 455.0,
+    "audio_end_offset": 470.5,
+    "speaker_id": "Maggie",
+    "content": "Yeah, for sure."
+  },
+  {
+    "audio_start_offset": 471.0,
+    "audio_end_offset": 500.5,
+    "speaker_id": "Lauren",
+    "content": "I would... well, it's probably not the best thing, I would probably first take my girlfriend, but she's an outdoors person, and she definitely would be great at keeping us... taking care of us in the outdoors."
+  },
+  {
+    "audio_start_offset": 501.0,
+    "audio_end_offset": 528.5,
+    "speaker_id": "Veronica",
+    "content": "Not to copy you exactly, but I would also bring my boyfriend. I don't know if I have a particular story that exemplifies why, but I know that he would do anything for me and he would take good care of us, and he also happens to love the outdoors and loves camping and stuff like that. So he has many more outdoor skills than I do."
+  },
+  {
+    "audio_start_offset": 529.0,
+    "audio_end_offset": 585.5,
+    "speaker_id": "Matt",
+    "content": "I think I might be practical and I might bring one of these explorers who were the first to the North or South Pole and got stranded up there, because they have experience with this sort of thing, and know how to deal with it. So I guess somebody with past experience, being a previous strandee."
+  },
+  {
+    "audio_start_offset": 586.0,
+    "audio_end_offset": 593.5,
+    "speaker_id": "Maggie",
+    "content": "It looks like the talking piece might've jumped around a bit, does somebody else... yeah. There we go."
+  },
+  {
+    "audio_start_offset": 594.0,
+    "audio_end_offset": 627.5,
+    "speaker_id": "Sophie",
+    "content": "I think I would bring my mom because she's a very positive person and she's fun to be around, so I think she would keep the spirits high on the island."
+  },
+  {
+    "audio_start_offset": 628.0,
+    "audio_end_offset": 640.5,
+    "speaker_id": "Maggie",
+    "content": "Okay, great. And then can you think of something that you would miss? Like what do you think you would miss most and why? And maybe could you tell a quick story about maybe why you enjoy it or why you care about that thing?"
+  },
+  {
+    "audio_start_offset": 641.0,
+    "audio_end_offset": 662.5,
+    "speaker_id": "Maggie",
+    "content": "Erin, just flagging quickly that it's quite quiet. If you could get closer to the microphone or try to speak louder."
+  },
+  {
+    "audio_start_offset": 663.0,
+    "audio_end_offset": 676.5,
+    "speaker_id": "Erin",
+    "content": "Sorry, I would say since I can only bring one person. Can you not hear me anymore?"
+  },
+  {
+    "audio_start_offset": 677.0,
+    "audio_end_offset": 677.5,
+    "speaker_id": "Maggie",
+    "content": "No, we can hear you, I think you said-"
+  },
+  {
+    "audio_start_offset": 678.0,
+    "audio_end_offset": 678.5,
+    "speaker_id": "Erin",
+    "content": "Oh okay."
+  },
+  {
+    "audio_start_offset": 679.0,
+    "audio_end_offset": 680.5,
+    "speaker_id": "Maggie",
+    "content": "... yeah, sorry, that you'd bring somebody else?"
+  },
+  {
+    "audio_start_offset": 681.0,
+    "audio_end_offset": 694.5,
+    "speaker_id": "Erin",
+    "content": "Yeah, like I'd still miss my parents and I'd miss my best friend, but you can only bring one person."
+  },
+  {
+    "audio_start_offset": 695.0,
+    "audio_end_offset": 742.5,
+    "speaker_id": "Sophie",
+    "content": "Yeah, kind of in a similar vein I think I would miss gathering with people the most, and I think that's something that this whole pandemic has taught me about myself, is that I really need that social interaction more than I thought I did, and so I definitely would miss being able to just hang out with people and make plans and go out and do fun things with them."
+  },
+  {
+    "audio_start_offset": 743.0,
+    "audio_end_offset": 791.5,
+    "speaker_id": "Lauren",
+    "content": "How much I'd miss... I spent a year away from the world, just walking, and probably human interaction would be the thing that I would miss the most, but if I had one other human on the island, I think that would probably fulfill it. Yeah, there's a great freedom and peace in not having to go to project into the future when you're just on your own and really settle into just being in existence, which I really enjoy. I'm sure there's a lot of things that I enjoy, but I don't know if I would miss them. I think I could do without them, I've done without them. So maybe the most would be human interaction."
+  },
+  {
+    "audio_start_offset": 792.0,
+    "audio_end_offset": 835.5,
+    "speaker_id": "Matt",
+    "content": "I think I would miss the diversity of, I don't know, things you encounter on a day to day basis in real life. I don't know, I think there's a way... like, new things, structure, our sense of time, and I think that the same thing every day on the same island, I don't think I would have the brain power to... I don't know, I think I would lose my sense of time. I think I would miss new things, new people, new experiences."
+  },
+  {
+    "audio_start_offset": 836.0,
+    "audio_end_offset": 852.5,
+    "speaker_id": "Lauren",
+    "content": "I think I'd probably also miss, there'd be some nutritional elements that would be missed."
+  },
+  {
+    "audio_start_offset": 853.0,
+    "audio_end_offset": 879.5,
+    "speaker_id": "Veronica",
+    "content": "This is more of a lighthearted answer, but I guess I would miss... Yeah, diversity of food, baking and cooking I really enjoy. So I would just miss doing that."
+  },
+  {
+    "audio_start_offset": 880.0,
+    "audio_end_offset": 934.5,
+    "speaker_id": "Maggie",
+    "content": "Great, thank you everybody. And so I think people were tarting to talk about this a little bit already, but I assume that everybody has been living a little bit of a different version of their life than they're used to, these past few months especially with the quarantine in different states and COVID happening, and so I'd be curious about what is it like for you now... or I guess first, is this true? Have your lives had a slightly different taste to it these past few months? And if so, have you been communicating more remotely than in person? Has that balance shifted a little bit? And if it has, what has that been like for you, communicating more remotely than in person?"
+  },
+  {
+    "audio_start_offset": 935.0,
+    "audio_end_offset": 955.5,
+    "speaker_id": "Matt",
+    "content": "I really don't like it. I have been, but I don't do very well without face to face, in person queues. So, I've found the adjustment really quite difficult actually."
+  },
+  {
+    "audio_start_offset": 956.0,
+    "audio_end_offset": 1002.5,
+    "speaker_id": "Lauren",
+    "content": "I was on online school for the last two years, so I was already used to connecting remotely and being kind of socially isolated in some regards, but the minimal friends that I would go out with on a regular basis like once a week or something like that, that got taken away. But, I am connecting, you know, there is a lot more Zoom going on, like I go to a dance group that would've been in person and it's online. But other than that, it hasn't been that much of a change because I've been living this lifestyle of online school."
+  },
+  {
+    "audio_start_offset": 1003.0,
+    "audio_end_offset": 1034.5,
+    "speaker_id": "Veronica",
+    "content": "Yeah, I think it's definitely been a big adjustment, I think I talk to the people that I normally would talk to significantly less because it can be pretty exhausting to do long Zoom conversations or to take the time to set things up, so I think I just talk to people less. And I agree with what Matt said, that it's harder to read people's non-verbal queues when you're in an audio call or when you're in a video call, even. So that's been an adjustment as well."
+  },
+  {
+    "audio_start_offset": 1035.0,
+    "audio_end_offset": 1084.5,
+    "speaker_id": "Erin",
+    "content": "I actually am on a different spectrum, I would say my communication hasn't changed as much, my living has changed. I'm not living at my house anymore. So I guess I'm communicating with my parents differently, like FaceTime-ing more, but otherwise I'm talking to the same people, talking to them just the same way as I would. I also did online schooling, so it doesn't... the only thing that changed is not having a lab or clinical, and that's not something that we can control. But that was not the majority of my education either. So it doesn't change too, too much for me."
+  },
+  {
+    "audio_start_offset": 1085.0,
+    "audio_end_offset": 1147.5,
+    "speaker_id": "Sophie",
+    "content": "I think for me, I've also been doing remote school for the last couple of months, and that was a huge change for me. I don't think I realized how much I relied on my friends in school for support, because obviously it can get really stressful, and trying to deal with that by myself at the kitchen table, watching lectures on Zoom was a totally new experience, and I did not love it. And I also think that I have been talking to friends that I normally would talk to a lot, a lot less. And I'm glad that we have things like FaceTime and Zoom and Skype to be able to see people's faces as we're talking to them remotely, but it's definitely not the same. It's not as fun, it kind of feels like more work."
+  },
+  {
+    "audio_start_offset": 1148.0,
+    "audio_end_offset": 1185.5,
+    "speaker_id": "Sophie",
+    "content": "So, that's definitely something also that I have learned. I've been trying to kind of see the positives, though, and one of those is I moved back to my parents' house for a while and spent a lot of time with them. And that's time that I really never thought I would have with them for the rest of my life. And I've discovered fun new workouts on the internet, so that's a good change also. So yeah, it definitely has changed my life a lot."
+  },
+  {
+    "audio_start_offset": 1186.0,
+    "audio_end_offset": 1195.5,
+    "speaker_id": "Maggie",
+    "content": "Great, thanks everybody. I wonder as well, has anything been surprising for you about this?"
+  },
+  {
+    "audio_start_offset": 1196.0,
+    "audio_end_offset": 1229.5,
+    "speaker_id": "Lauren",
+    "content": "I was surprised that it actually, with parts of my family, it's got even closer by having these regular Zoom meetings and having everyone come together at the same time, which wasn't happening before, so that was a huge benefit."
+  },
+  {
+    "audio_start_offset": 1230.0,
+    "audio_end_offset": 1250.5,
+    "speaker_id": "Maggie",
+    "content": "Great, and then just the final question, have you learned anything new about yourself in this time? In these past few months, and how did you learn it?"
+  },
+  {
+    "audio_start_offset": 1251.0,
+    "audio_end_offset": 1303.5,
+    "speaker_id": "Sophie",
+    "content": "Something that I've learned, and I kind of talked about this a little before, but I have always thought of myself as an introvert, and I mean, I still am, but I've always really valued my alone time, and I kind of need it to be able to feel refreshed and be able to go back out into the world and interact with people, and that's definitely still going to be important for me, but I've realized that having time to socialize with others is more important than I thought it was, and that I need to have a balance of the two. I'm trying to end my turn, and it won't let me."
+  },
+  {
+    "audio_start_offset": 1304.0,
+    "audio_end_offset": 1344.5,
+    "speaker_id": "Erin",
+    "content": "I would kind of agree, I never felt like I went out that much, but now I really, really, really want to go to certain restaurants and go out to eat. I've also realized how much I depended on a routine, and if I don't have a routine, I'm just kind of like... I feel a little lost at first until I can figure out what I'm going to do, but without it, like I said, I just feel lost and I can't figure out what I'm supposed to do with myself."
+  },
+  {
+    "audio_start_offset": 1345.0,
+    "audio_end_offset": 1347.5,
+    "speaker_id": "Matt",
+    "content": "Well with [crosstalk 00:47:02]-"
+  },
+  {
+    "audio_start_offset": 1348.0,
+    "audio_end_offset": 1347.5,
+    "speaker_id": "Lauren",
+    "content": "[crosstalk 00:47:02], go ahead."
+  },
+  {
+    "audio_start_offset": 1348.0,
+    "audio_end_offset": 1425.5,
+    "speaker_id": "Matt",
+    "content": "Oh, we kind of... I think I agree with a lot of what Sophie said, but I've also spent a lot of time living alone, probably not anywhere near as much as you Lauren, but I was surprised kind of, at the start, how much difficulty a lot of people were having with the solitude and I realized that even though I need more social interaction than I thought, that also I guess my propensity for solitude was also kind of a strength, I don't know, that I had just acquired over the years, and that in a situation like this, I'm trying to look on the bright side, but it was a benefit, or is a benefit. I don't know. So it's kind of a mixture of that and what Sophie said."
+  },
+  {
+    "audio_start_offset": 1426.0,
+    "audio_end_offset": 1450.5,
+    "speaker_id": "Veronica",
+    "content": "I think, as a student, I always thought I was pretty busy all the time, but kind of having taken away from you and having to start creating your own routine, it forces you to look at your priorities a little differently, so I think that's something that I've learned about myself, like what do I enjoy doing and how I spend my time."
+  },
+  {
+    "audio_start_offset": 1451.0,
+    "audio_end_offset": 1498.5,
+    "speaker_id": "Lauren",
+    "content": "I think that before this, I was dead set on, like I was done with any online classes and that I had to be in person, and then since corona I realized, maybe it's not so bad. I can handle online if connection, although I definitely would prefer in person. I think I would be okay with it, to be able to have access to a remote school on the other side of the country without actually having all the costs of moving there and changing one's lifestyle, I think is actually... that would be a gift."
+  },
+  {
+    "audio_start_offset": 1499.0,
+    "audio_end_offset": 1542.5,
+    "speaker_id": "Maggie",
+    "content": "Great. So that's the end of our time. Thank you everybody so much for participating, it was really great to hear about your experiences and your ideas and just hearing about your similarities and differences as well. It's been great talking to you all, I'm sending now the post survey and the chat on Zoom. So you should be able to follow that link and fill out that post survey and then we'll be done. I'll get the Amazon gift cards to you by the end of the week, but if you're experiencing some urgency or need them sooner, feel free to email me and we can figure something out to get that to you as soon as possible. And then once you get that link, you should feel free to hop off the Zoom call. Thank you all so much for participating, it was great talking to you."
+  },
+  {
+    "audio_start_offset": 1543.0,
+    "audio_end_offset": 1542.5,
+    "speaker_id": "Sophie",
+    "content": "Thank you."
+  },
+  {
+    "audio_start_offset": 1543.0,
+    "audio_end_offset": 1544.5,
+    "speaker_id": "Lauren",
+    "content": "Thank you."
+  },
+  {
+    "audio_start_offset": 1545.0,
+    "audio_end_offset": 1545.5,
+    "speaker_id": "Matt",
+    "content": "Thanks."
+  },
+  {
+    "audio_start_offset": 1546.0,
+    "audio_end_offset": 1595.5,
+    "speaker_id": "Veronica",
+    "content": "Thank you."
+  },
+  {
+    "audio_start_offset": 1596.0,
+    "audio_end_offset": 1599.5,
+    "speaker_id": "Maggie",
+    "content": "Erin and Lauren, were you guys able to access the post survey all right?"
+  },
+  {
+    "audio_start_offset": 1600.0,
+    "audio_end_offset": 1602.5,
+    "speaker_id": "Lauren",
+    "content": "Yes, should we leave the Zoom now?"
+  },
+  {
+    "audio_start_offset": 1603.0,
+    "audio_end_offset": 1606.5,
+    "speaker_id": "Maggie",
+    "content": "Yeah, no worries. I'll remove you. I just didn't want to do it too soon before you could access it."
+  },
+  {
+    "audio_start_offset": 1607.0,
+    "audio_end_offset": 1606.5,
+    "speaker_id": "Lauren",
+    "content": "Okay, yeah."
+  },
+  {
+    "audio_start_offset": 1607.0,
+    "audio_end_offset": 1610.0,
+    "speaker_id": "Maggie",
+    "content": "All right, thanks so much."
+  }
+]

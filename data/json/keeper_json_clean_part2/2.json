@@ -1,0 +1,338 @@
+[
+  {
+    "audio_start_offset": 0.0,
+    "audio_end_offset": 26.5,
+    "speaker_id": "Meeting Coordinator",
+    "content": "All right. Great, so now we're going to move on to the next thing. This question is around being on a deserted island or a desert island. If you were asked to bring one practical thing to help you survive, you only have one thing to bring, what would you bring and why? And what inspired you to choose that?"
+  },
+  {
+    "audio_start_offset": 27.0,
+    "audio_end_offset": 74.5,
+    "speaker_id": "Kate",
+    "content": "I would probably say a piece of infinite flint or whatever it's called that could be like a fire starter that would never run out because you can do, you can use it for safety reasons of like creating fire, to fend of animals, but also to like boil water and get the bacteria out so that you can hydrate yourself, and also then cooking food if you."
+  },
+  {
+    "audio_start_offset": 75.0,
+    "audio_end_offset": 107.5,
+    "speaker_id": "Luke",
+    "content": "I'd think I'd bring one of those multi-tool axes, that are part shovel, part ax, and part blade. Just so... as many functions as possible because I would assume the first thing would be making something that could easily collect water, and something that could to collect stuff for shelter. I just think that would be the most broad thing. I'm hoping there's trees on this island."
+  },
+  {
+    "audio_start_offset": 108.0,
+    "audio_end_offset": 127.5,
+    "speaker_id": "Afren",
+    "content": "Yeah I would bring that, I forget what it's called, but it's like that tap that you put into a tree to make water come out of it, like the sap. That way you could get access to fresh water."
+  },
+  {
+    "audio_start_offset": 128.0,
+    "audio_end_offset": 141.5,
+    "speaker_id": "Speaker 6",
+    "content": "I would probably also bring some kind of tool probably like a knife or a multi-tool thing so I could use it to fend of predators and also build whatever I would need."
+  },
+  {
+    "audio_start_offset": 142.0,
+    "audio_end_offset": 161.5,
+    "speaker_id": "Priya",
+    "content": "Yeah, I think I'd probably bring some, yeah like a knife or something to be able to get food, and cut, I don't know, vegetables or something."
+  },
+  {
+    "audio_start_offset": 162.0,
+    "audio_end_offset": 180.5,
+    "speaker_id": "Meeting Coordinator",
+    "content": "Nice, okay next. Can you think of one meaningful thing you would bring? Why would you bring that? So it doesn't have to be practical, but something that's meaningful for you."
+  },
+  {
+    "audio_start_offset": 181.0,
+    "audio_end_offset": 196.5,
+    "speaker_id": "Priya",
+    "content": "I have this box of momentos of things that I've accomplished throughout my life. I would bring that little box with if I could."
+  },
+  {
+    "audio_start_offset": 197.0,
+    "audio_end_offset": 201.5,
+    "speaker_id": "Speaker 6",
+    "content": "I would probably just bring a picture of my family to have."
+  },
+  {
+    "audio_start_offset": 202.0,
+    "audio_end_offset": 222.5,
+    "speaker_id": "Kate",
+    "content": "I would probably bring a family heirloom jewelry piece or something that wouldn't erode with water."
+  },
+  {
+    "audio_start_offset": 223.0,
+    "audio_end_offset": 228.5,
+    "speaker_id": "Luke",
+    "content": "I think I'd bring a dog. I think that's a nice companion, and I've never had a dog and I've always wanted one."
+  },
+  {
+    "audio_start_offset": 229.0,
+    "audio_end_offset": 259.5,
+    "speaker_id": "Afren",
+    "content": "I think would bring my ipod. It's like an old ipod. It has songs that my brother had when he had it and it also has songs that I have. I don't know, because I like music so..."
+  },
+  {
+    "audio_start_offset": 260.0,
+    "audio_end_offset": 282.5,
+    "speaker_id": "Meeting Coordinator",
+    "content": "Okay great, and then could tell a story of how you got that object, why its meaningful for you, or something in more detail as well about why you chose to bring that meaningful thing?"
+  },
+  {
+    "audio_start_offset": 283.0,
+    "audio_end_offset": 311.5,
+    "speaker_id": "Priya",
+    "content": "So like for me, like I said, I just kind of been collecting all these things that people have been writing letters and just important pieces throughout my life so it's meaningful because it will kind of help me remember the life that I had in a way."
+  },
+  {
+    "audio_start_offset": 312.0,
+    "audio_end_offset": 335.5,
+    "speaker_id": "Speaker 6",
+    "content": "I don't know exactly what picture I would choose if I were to bring a picture of my family but I would want to bring it just because it would be meaningful, it would remind me of the important people in my life that I'd think about while I'm there."
+  },
+  {
+    "audio_start_offset": 336.0,
+    "audio_end_offset": 372.5,
+    "speaker_id": "Luke",
+    "content": "I don't know, I guess a dog because, I don't know, I don't think I have any attachment to any specific object and just all my life I've always wanted a dog, and I always hung out with friend's dogs as much as I could. So if I could bring one to be a companion, someone to keep company, I'd pick that over something that I have around my house."
+  },
+  {
+    "audio_start_offset": 373.0,
+    "audio_end_offset": 411.5,
+    "speaker_id": "Afren",
+    "content": "I would bring my ipod because, well I got it when I was going to middle school so I guess it was like my first technology thing. My brother gave it to me so I guess that's meaningful to me."
+  },
+  {
+    "audio_start_offset": 412.0,
+    "audio_end_offset": 416.5,
+    "speaker_id": "Kate",
+    "content": "I think my audio might have spaced out when you asked that question. Can you just repeat that last one?"
+  },
+  {
+    "audio_start_offset": 417.0,
+    "audio_end_offset": 429.5,
+    "speaker_id": "Meeting Coordinator",
+    "content": "Yeah, just why, either tell a story of why the object is meaningful for you, why it would be important to have it, or just elaborate on why you would bring that object."
+  },
+  {
+    "audio_start_offset": 430.0,
+    "audio_end_offset": 468.5,
+    "speaker_id": "Kate",
+    "content": "My grandparents, my grandfather used to work in a factory and he one day was going through stones and ended up finding a very precious sapphire stone in it, and then it was coincidental that he called my grandmother \"sapphire,\" like her nickname. So it just became very sentimental in our family and ended up being worth a lot but it's just like a very significant memento of my family history."
+  },
+  {
+    "audio_start_offset": 469.0,
+    "audio_end_offset": 487.5,
+    "speaker_id": "Meeting Coordinator",
+    "content": "Great, thanks you guys. Next, if you could bring one person who would you bring and why?"
+  },
+  {
+    "audio_start_offset": 488.0,
+    "audio_end_offset": 510.5,
+    "speaker_id": "Kate",
+    "content": "I think I would probably bring my partner because he's very tactile and very good at problem solving, but also I think I just work best with him under pressure rather than like anyone in my family or anything."
+  },
+  {
+    "audio_start_offset": 511.0,
+    "audio_end_offset": 522.5,
+    "speaker_id": "Speaker 6",
+    "content": "I would probably bring my boyfriend just because he's very resourceful and very good at managing problems and I feel like we would make a good team."
+  },
+  {
+    "audio_start_offset": 523.0,
+    "audio_end_offset": 550.5,
+    "speaker_id": "Luke",
+    "content": "I would probably bring my best friend because she basically knows the exact opposite of what I know so we cover a pretty wide swath of stuff. She's probably the smartest person I know, so we'd definitely make a good pair on an island."
+  },
+  {
+    "audio_start_offset": 551.0,
+    "audio_end_offset": 562.5,
+    "speaker_id": "Afren",
+    "content": "I'd probably bring my friend, too, because she knows a lot more practical skills than me."
+  },
+  {
+    "audio_start_offset": 563.0,
+    "audio_end_offset": 576.5,
+    "speaker_id": "Priya",
+    "content": "I agree. I'd probably bring a friend who I know is very in tune with nature and having good overall survival skills."
+  },
+  {
+    "audio_start_offset": 577.0,
+    "audio_end_offset": 585.5,
+    "speaker_id": "Meeting Coordinator",
+    "content": "So next, what do you think you would miss the most and why?"
+  },
+  {
+    "audio_start_offset": 586.0,
+    "audio_end_offset": 601.5,
+    "speaker_id": "Priya",
+    "content": "I think I would probably miss being able to see my family and my friends, that's the biggest thing."
+  },
+  {
+    "audio_start_offset": 602.0,
+    "audio_end_offset": 611.5,
+    "speaker_id": "Speaker 6",
+    "content": "[crosstalk 00:26:12] Oh sorry, I was just going to say I agree. I think I would miss seeing my family and my friends and my pets."
+  },
+  {
+    "audio_start_offset": 612.0,
+    "audio_end_offset": 628.5,
+    "speaker_id": "Kate",
+    "content": "I think I would miss both the socialization, but also like the inability to, I guess the inability to use technology for both socialization, but also problem solving in scenarios that I don't have the answer to."
+  },
+  {
+    "audio_start_offset": 629.0,
+    "audio_end_offset": 642.5,
+    "speaker_id": "Afren",
+    "content": "Yeah, I think I'd miss my family and friends."
+  },
+  {
+    "audio_start_offset": 643.0,
+    "audio_end_offset": 657.5,
+    "speaker_id": "Kate",
+    "content": "Yeah, probably family and friends because right now isolation is not the best. So I could definitely see how it'd be even worse on a deserted island with no electricity."
+  },
+  {
+    "audio_start_offset": 658.0,
+    "audio_end_offset": 692.5,
+    "speaker_id": "Meeting Coordinator",
+    "content": "Great, so kind of building of that last point as well, assuming that most people are in a period where they're participating in more online conversations or more remote conversations, is that true for you? Have you been experiencing or participating in more online conversations or remote conversations lately? And if so, what has been surprising about that for you about participating in online conversations?"
+  },
+  {
+    "audio_start_offset": 693.0,
+    "audio_end_offset": 720.5,
+    "speaker_id": "Kate",
+    "content": "The ability, or I guess the advancement of technology that's made it so easy for online conversations to be really realistic, and be able to be so instantaneous and I guess it's kind of interesting that I never really thought I would have to physical interaction through a screen. So I guess it's pretty impressive, the level we were able to get it to with certain applications."
+  },
+  {
+    "audio_start_offset": 721.0,
+    "audio_end_offset": 770.5,
+    "speaker_id": "Luke",
+    "content": "I don't know, I try to appreciate it more than what it seems to be because I don't particularly like talking online because it's not the same. It's much harder to make new friends and things like that, and it's just a hard level of disconnect, but back in the day people had to wait months for letters to show up, and barely even had phones and things like that. I just to remind myself that it's pretty amazing the lengths technology has gone for connectivity, especially nowadays."
+  },
+  {
+    "audio_start_offset": 771.0,
+    "audio_end_offset": 800.5,
+    "speaker_id": "Speaker 6",
+    "content": "I agree. I've definitely had to participate in more online conversations as of late with everything going on. I am very grateful for it, especially in these times and there is so much you can do with it, but there are limits to it, like for example my lab that I work in, we can't really get a lot done over video calls. There are limits to it, but I am grateful for it and for the advancements we made with everything going on."
+  },
+  {
+    "audio_start_offset": 801.0,
+    "audio_end_offset": 831.5,
+    "speaker_id": "Priya",
+    "content": "I think, personally, again it does have its benefits and its disadvantages. In terms of socialization with friends and stuff, I think it is really beneficial because you can just call them at any point. However, when it comes to school or something educational, I feel like its been more of a challenge because I feel like I'm not learning as much or as properly through online."
+  },
+  {
+    "audio_start_offset": 832.0,
+    "audio_end_offset": 925.5,
+    "speaker_id": "Afren",
+    "content": "Yeah, I agree. I think it's definitely great that online communication can, it makes it easier to connect people at the same time even if they're in different places. It allows for easier scheduling I guess, because you don't have to all meet in one place, but at the same time it's not the same as in-person communication because sometimes it's harder to complete tasks and, for example, I do math tutoring so when I tutor students it's harder to, it takes longer to demonstrate problems when it's online than over, in-person, where I can see a person's expression and see if they're confused. I can also write things out more in detail. It does allow... I still watch movies with friends online so it still allows that connection."
+  },
+  {
+    "audio_start_offset": 926.0,
+    "audio_end_offset": 947.5,
+    "speaker_id": "Meeting Coordinator",
+    "content": "Great. Thank, you guys. Has there been anything new that you've learned about yourself in these past few months, especially as we've gone more remote?"
+  },
+  {
+    "audio_start_offset": 948.0,
+    "audio_end_offset": 984.5,
+    "speaker_id": "Kate",
+    "content": "I've definitely learned that I would like to be better at being consistent and maintaining communication with people. I think I found that I will reside to just not really talking to other people that much if I don't need to, and I don't really like it."
+  },
+  {
+    "audio_start_offset": 985.0,
+    "audio_end_offset": 1016.5,
+    "speaker_id": "Meeting Coordinator",
+    "content": "I learned that I would have never survived home school. It's just way to difficult because it just, I need the social aspect. I didn't know how much of a big part, I knew it had some sort of factor, but I just didn't know the extent. Now I realize how big of a deal it is to, even to just get into the routine of walking to class, even when you don't want to because you do really want to when you're stuck at home."
+  },
+  {
+    "audio_start_offset": 1017.0,
+    "audio_end_offset": 1042.5,
+    "speaker_id": "Priya",
+    "content": "Yeah, I completely agree. I feel like I learned how much of the social person I really was and how much I really needed that factor of socialization in my life. I feel like I've learned that I also can be a very independent thinker, and I like my independence sometimes when I need it."
+  },
+  {
+    "audio_start_offset": 1043.0,
+    "audio_end_offset": 1074.5,
+    "speaker_id": "Speaker 6",
+    "content": "I agree. I think this has taught me how much of an extrovert I really am in some senses because I've always felt that I'm an introvert, but spending so much time away from people has been difficult. I think I also learned that I could never do a remote job full time. I'm studying to be a vet student and I definitely learned that I definitely couldn't be a radiologist or whatever and sit at home all day at a desk. I have to be doing things and have a routine."
+  },
+  {
+    "audio_start_offset": 1075.0,
+    "audio_end_offset": 1135.5,
+    "speaker_id": "Afren",
+    "content": "Yeah, I also found that, being able to meet people in person, meet a lot of people in person like I do on college campuses, college is something I miss a lot. Now, even meeting online, it's like everyone has to take initiative to schedule meetings and say, \"Oh, were all meeting at this time online.\" You don't meet as many people as you do on campus, in person. I realized I have to take initiative sometimes to maintain friendships and stuff."
+  },
+  {
+    "audio_start_offset": 1136.0,
+    "audio_end_offset": 1158.5,
+    "speaker_id": "Meeting Coordinator",
+    "content": "Great, so then we're going to start finishing up and I'll send you a post-survey after this, but I'm curious about initial thoughts around communicating and meeting people in this medium, which is just audio. So initial thoughts and reactions."
+  },
+  {
+    "audio_start_offset": 1159.0,
+    "audio_end_offset": 1200.5,
+    "speaker_id": "Luke",
+    "content": "It's good. I mean it's just like any other phone call, when you have the problem of someone speaks while another person speaks and there's a couple seconds of lag of alternating who's going to speak. But other than that, I think it's pretty effective. It definitely, me personally video is a big first step, but it's also not too big of a deal because I've been in a bunch of classes where everyone just has their video on, so it's kind of like... meeting new people, but I definitely feel like the pressure is taken off, not like pressure, but the feeling of formality is decreased when you don't have video on in this kind of medium."
+  },
+  {
+    "audio_start_offset": 1201.0,
+    "audio_end_offset": 1229.5,
+    "speaker_id": "Speaker 6",
+    "content": "Yeah, I agree. I feel like audio is a great way to be able to hear someone's voice and kind of be personable with them, but I do feel that if there was also video that it would be even personable in a sense that you would actually be able to see each other and able to see each other's environment, so I feel like that would also be a little bit more personable."
+  },
+  {
+    "audio_start_offset": 1230.0,
+    "audio_end_offset": 1245.5,
+    "speaker_id": "Kate",
+    "content": "Yeah, I agree. I think it's nice because you don't really have to worry about too much, but its also definitely less of a personal experience."
+  },
+  {
+    "audio_start_offset": 1246.0,
+    "audio_end_offset": 1271.5,
+    "speaker_id": "Priya",
+    "content": "I also agree. I think that video is kind of the best way to have a connection with people because you can see their environment and stuff, but I think you are still able to hold a good conversation just audio. It's definitely much better than just typing in a chat. I think it still is effective."
+  },
+  {
+    "audio_start_offset": 1272.0,
+    "audio_end_offset": 1314.5,
+    "speaker_id": "Afren",
+    "content": "I also agree that having audio calls easier than typing in chat because it's faster and easier for people to interject at different times versus in a chat you might not see when people are talking at different times. I guess having the video off, I guess it was okay because we were still able to have a conversation."
+  },
+  {
+    "audio_start_offset": 1315.0,
+    "audio_end_offset": 1340.5,
+    "speaker_id": "Priya",
+    "content": "Great, all right. Thank you, you guys. So what I'm going to do is I'm going to post the link to the survey, the post-survey in the chat, and then once you click it and get access to it you can feel free to log off or hangout. Thank you so much for participating today. You should get as well gift card if not this week, before the end of next week, but thanks so much you guys."
+  },
+  {
+    "audio_start_offset": 1341.0,
+    "audio_end_offset": 1340.5,
+    "speaker_id": "Luke",
+    "content": "Great. Thank you."
+  },
+  {
+    "audio_start_offset": 1341.0,
+    "audio_end_offset": 1340.5,
+    "speaker_id": "Kate",
+    "content": "Thank you."
+  },
+  {
+    "audio_start_offset": 1341.0,
+    "audio_end_offset": 1340.5,
+    "speaker_id": "Speaker 6",
+    "content": "Yeah, thank you."
+  },
+  {
+    "audio_start_offset": 1341.0,
+    "audio_end_offset": 1340.5,
+    "speaker_id": "Afren",
+    "content": "Thanks."
+  },
+  {
+    "audio_start_offset": 1341.0,
+    "audio_end_offset": 1342.2,
+    "speaker_id": "Priya",
+    "content": "Thank you."
+  }
+]

@@ -1,0 +1,2330 @@
+[
+  {
+    "audio_start_offset": 0.0,
+    "audio_end_offset": 22.5,
+    "speaker_id": "Maggie",
+    "content": "So just for a quick explanation, we're going to have a conversation to start. We might do a few small, collaborative activities, and then we're just going to talk a little bit, answer questions. And so, just before we get going, if you could say your name and where you are in the world, just for a quick introduction."
+  },
+  {
+    "audio_start_offset": 23.0,
+    "audio_end_offset": 30.5,
+    "speaker_id": "Lydia",
+    "content": "Okay. I'll go first. I'm Lydia. I am currently in the Bronx, in New York."
+  },
+  {
+    "audio_start_offset": 31.0,
+    "audio_end_offset": 35.5,
+    "speaker_id": "Naman",
+    "content": "Hello everyone, I'm Naman, and I'm currently in Boston."
+  },
+  {
+    "audio_start_offset": 36.0,
+    "audio_end_offset": 39.5,
+    "speaker_id": "Jeffrey",
+    "content": "Hi, I'm Jeffrey. I am also in Boston."
+  },
+  {
+    "audio_start_offset": 40.0,
+    "audio_end_offset": 85.5,
+    "speaker_id": "Maggie",
+    "content": "Great. And I'm Maggie and I'm also in Boston. Perfect. So to start, we're just going to do a quick activity. This is based in trying to find out what we have in common and what differences we share. So to start, could you guys, as a group, try to find things that you all share in common. This can be things that you enjoy, that you do, components of yourself. We're going to try to keep away from physical things though. So nothing like we all have, noses or things like that. And then as we find these commonalities, could you type them and send them into the chat so we can see them."
+  },
+  {
+    "audio_start_offset": 86.0,
+    "audio_end_offset": 89.5,
+    "speaker_id": "Maggie",
+    "content": "All right, go ahead."
+  },
+  {
+    "audio_start_offset": 90.0,
+    "audio_end_offset": 92.5,
+    "speaker_id": "Jeffrey",
+    "content": "So I'm sure we've all been stuck inside recently."
+  },
+  {
+    "audio_start_offset": 93.0,
+    "audio_end_offset": 93.5,
+    "speaker_id": "Naman",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 94.0,
+    "audio_end_offset": 96.5,
+    "speaker_id": "Lydia",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 97.0,
+    "audio_end_offset": 106.5,
+    "speaker_id": "Jeffrey",
+    "content": "I think we've all been watching TV lately. I'm sure we might be able to have some shows in common."
+  },
+  {
+    "audio_start_offset": 107.0,
+    "audio_end_offset": 109.5,
+    "speaker_id": "Naman",
+    "content": "Yeah. Maybe. [crosstalk 00:01:51]."
+  },
+  {
+    "audio_start_offset": 110.0,
+    "audio_end_offset": 114.5,
+    "speaker_id": "Jeffrey",
+    "content": "[crosstalk 00:01:50] if that's the case."
+  },
+  {
+    "audio_start_offset": 115.0,
+    "audio_end_offset": 118.5,
+    "speaker_id": "Lydia",
+    "content": "What have I watched recently?"
+  },
+  {
+    "audio_start_offset": 119.0,
+    "audio_end_offset": 121.5,
+    "speaker_id": "Jeffrey",
+    "content": "I am usually a very big Jeopardy! guy."
+  },
+  {
+    "audio_start_offset": 122.0,
+    "audio_end_offset": 124.5,
+    "speaker_id": "Lydia",
+    "content": "Oh, I did watch Jeopardy! recently."
+  },
+  {
+    "audio_start_offset": 125.0,
+    "audio_end_offset": 132.5,
+    "speaker_id": "Naman",
+    "content": "I didn't see that."
+  },
+  {
+    "audio_start_offset": 133.0,
+    "audio_end_offset": 136.5,
+    "speaker_id": "Lydia",
+    "content": "What about The Office?"
+  },
+  {
+    "audio_start_offset": 137.0,
+    "audio_end_offset": 140.5,
+    "speaker_id": "Jeffrey",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 141.0,
+    "audio_end_offset": 143.5,
+    "speaker_id": "Naman",
+    "content": "I just graduated last Friday."
+  },
+  {
+    "audio_start_offset": 144.0,
+    "audio_end_offset": 144.5,
+    "speaker_id": "Lydia",
+    "content": "Oh, nice. Congratulations."
+  },
+  {
+    "audio_start_offset": 145.0,
+    "audio_end_offset": 146.5,
+    "speaker_id": "Naman",
+    "content": "Yeah. Thanks."
+  },
+  {
+    "audio_start_offset": 147.0,
+    "audio_end_offset": 147.5,
+    "speaker_id": "Jeffrey",
+    "content": "Congrats."
+  },
+  {
+    "audio_start_offset": 148.0,
+    "audio_end_offset": 150.5,
+    "speaker_id": "Lydia",
+    "content": "That was going to be what I was thinking too was ... I'm a student."
+  },
+  {
+    "audio_start_offset": 151.0,
+    "audio_end_offset": 155.5,
+    "speaker_id": "Naman",
+    "content": "Mm-hmm (affirmative)."
+  },
+  {
+    "audio_start_offset": 156.0,
+    "audio_end_offset": 157.5,
+    "speaker_id": "Jeffrey",
+    "content": "Where are you guys students at?"
+  },
+  {
+    "audio_start_offset": 158.0,
+    "audio_end_offset": 185.5,
+    "speaker_id": "Maggie",
+    "content": "Oh, sorry guys. It looks like we have one added person and I'm going to let this include you Vic just really quickly. What we're doing now is having a conversation about what everybody has in common. Trying to find things that everybody shares, but trying to stay away from things that are physical. People having noses or things like that. And so if you could just quickly say your name and where you are in the world and then we'll keep going."
+  },
+  {
+    "audio_start_offset": 186.0,
+    "audio_end_offset": 194.5,
+    "speaker_id": "Victoria",
+    "content": "Okay. My name's Victoria. I'm in Central Jersey right now. I just graduated from Rutgers University."
+  },
+  {
+    "audio_start_offset": 195.0,
+    "audio_end_offset": 194.5,
+    "speaker_id": "Jeffrey",
+    "content": "Congratulations."
+  },
+  {
+    "audio_start_offset": 195.0,
+    "audio_end_offset": 198.5,
+    "speaker_id": "Naman",
+    "content": "Congrats."
+  },
+  {
+    "audio_start_offset": 199.0,
+    "audio_end_offset": 205.5,
+    "speaker_id": "Maggie",
+    "content": "Great. And then could somebody just summarize what you've found in common so far and tell Vic, and then we can keep going."
+  },
+  {
+    "audio_start_offset": 206.0,
+    "audio_end_offset": 220.5,
+    "speaker_id": "Lydia",
+    "content": "Well we haven't found anything yet. It looks like two out of four have just recently graduated. Jeffrey, are you an undergrad? Are you a student or not?"
+  },
+  {
+    "audio_start_offset": 221.0,
+    "audio_end_offset": 225.5,
+    "speaker_id": "Jeffrey",
+    "content": "I'm an undergrad right now."
+  },
+  {
+    "audio_start_offset": 226.0,
+    "audio_end_offset": 225.5,
+    "speaker_id": "Lydia",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 226.0,
+    "audio_end_offset": 226.5,
+    "speaker_id": "Jeffrey",
+    "content": "I go to WPI."
+  },
+  {
+    "audio_start_offset": 227.0,
+    "audio_end_offset": 236.5,
+    "speaker_id": "Victoria",
+    "content": "Oh okay. Let's see. Any shows you guys have been watching during the lockdown? [crosstalk 00:04:00]."
+  },
+  {
+    "audio_start_offset": 237.0,
+    "audio_end_offset": 240.5,
+    "speaker_id": "Lydia",
+    "content": "That's what we were trying to figure out."
+  },
+  {
+    "audio_start_offset": 241.0,
+    "audio_end_offset": 244.5,
+    "speaker_id": "Victoria",
+    "content": "[crosstalk 00:04:01] Netflix."
+  },
+  {
+    "audio_start_offset": 245.0,
+    "audio_end_offset": 245.5,
+    "speaker_id": "Naman",
+    "content": "Money Heist."
+  },
+  {
+    "audio_start_offset": 246.0,
+    "audio_end_offset": 248.5,
+    "speaker_id": "Victoria",
+    "content": "I watched a few episodes of that."
+  },
+  {
+    "audio_start_offset": 249.0,
+    "audio_end_offset": 262.5,
+    "speaker_id": "Lydia",
+    "content": "That's on my list, but I haven't seen it yet. We are all in the Northeastearn U.S. right now."
+  },
+  {
+    "audio_start_offset": 263.0,
+    "audio_end_offset": 266.5,
+    "speaker_id": "Victoria",
+    "content": "That's not bad. That's kind of physical though, but I don't know."
+  },
+  {
+    "audio_start_offset": 267.0,
+    "audio_end_offset": 272.5,
+    "speaker_id": "Naman",
+    "content": "I am from L.A. basically. But I am stuck in Boston."
+  },
+  {
+    "audio_start_offset": 273.0,
+    "audio_end_offset": 280.5,
+    "speaker_id": "Lydia",
+    "content": "Oh okay. The weather is probably a lot better in L.A. right now?"
+  },
+  {
+    "audio_start_offset": 281.0,
+    "audio_end_offset": 280.5,
+    "speaker_id": "Naman",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 281.0,
+    "audio_end_offset": 282.5,
+    "speaker_id": "Victoria",
+    "content": "But the beaches are crowded. So ..."
+  },
+  {
+    "audio_start_offset": 283.0,
+    "audio_end_offset": 284.5,
+    "speaker_id": "Naman",
+    "content": "Yeah, that's a risk."
+  },
+  {
+    "audio_start_offset": 285.0,
+    "audio_end_offset": 293.5,
+    "speaker_id": "Jeffrey",
+    "content": "Didn't they close beaches? [crosstalk 00:04:51]. I thought California closed all of its beaches?."
+  },
+  {
+    "audio_start_offset": 294.0,
+    "audio_end_offset": 298.5,
+    "speaker_id": "Victoria",
+    "content": "They're starting to reopen some, in New Jersey. They're starting to reopen some."
+  },
+  {
+    "audio_start_offset": 299.0,
+    "audio_end_offset": 306.5,
+    "speaker_id": "Lydia",
+    "content": "And even if, I guess the parking lot is closed so there's no lifeguards. You could still physically, I guess go in some of the places."
+  },
+  {
+    "audio_start_offset": 307.0,
+    "audio_end_offset": 311.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. In some, in New Jersey. It's, some of the beaches you can't sit down on, you can only walk through."
+  },
+  {
+    "audio_start_offset": 312.0,
+    "audio_end_offset": 321.5,
+    "speaker_id": "Jeffrey",
+    "content": "That's just so odd. That's something in common, we all hate this pandemic right now."
+  },
+  {
+    "audio_start_offset": 322.0,
+    "audio_end_offset": 325.5,
+    "speaker_id": "Victoria",
+    "content": "[crosstalk 00:05:25]. I think that's something in common we have with most of the world."
+  },
+  {
+    "audio_start_offset": 326.0,
+    "audio_end_offset": 329.5,
+    "speaker_id": "Naman",
+    "content": "We all want this to end quickly, as soon as possible."
+  },
+  {
+    "audio_start_offset": 330.0,
+    "audio_end_offset": 343.5,
+    "speaker_id": "Jeffrey",
+    "content": "Yeah. Because it's not necessarily, I think the most dangerous part isn't necessarily the pandemic itself. I think the most dangerous part is what we're doing because of it."
+  },
+  {
+    "audio_start_offset": 344.0,
+    "audio_end_offset": 348.5,
+    "speaker_id": "Lydia",
+    "content": "Yeah. It's the human part of it. Is the... Yeah."
+  },
+  {
+    "audio_start_offset": 349.0,
+    "audio_end_offset": 352.5,
+    "speaker_id": "Jeffrey",
+    "content": "Some people would just overreact to stuff."
+  },
+  {
+    "audio_start_offset": 353.0,
+    "audio_end_offset": 358.5,
+    "speaker_id": "Naman",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 359.0,
+    "audio_end_offset": 359.5,
+    "speaker_id": "Lydia",
+    "content": "What else?"
+  },
+  {
+    "audio_start_offset": 360.0,
+    "audio_end_offset": 364.5,
+    "speaker_id": "Victoria",
+    "content": "Do you guys like to read?"
+  },
+  {
+    "audio_start_offset": 365.0,
+    "audio_end_offset": 365.5,
+    "speaker_id": "Lydia",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 366.0,
+    "audio_end_offset": 366.5,
+    "speaker_id": "Jeffrey",
+    "content": "Not really."
+  },
+  {
+    "audio_start_offset": 367.0,
+    "audio_end_offset": 369.5,
+    "speaker_id": "Naman",
+    "content": "No."
+  },
+  {
+    "audio_start_offset": 370.0,
+    "audio_end_offset": 374.5,
+    "speaker_id": "Victoria",
+    "content": "You guys like to play video games?"
+  },
+  {
+    "audio_start_offset": 375.0,
+    "audio_end_offset": 376.5,
+    "speaker_id": "Jeffrey",
+    "content": "Oh yeah. I do. [crosstalk 00:06:18]."
+  },
+  {
+    "audio_start_offset": 377.0,
+    "audio_end_offset": 378.5,
+    "speaker_id": "Victoria",
+    "content": "I do too. Lydia, do you?"
+  },
+  {
+    "audio_start_offset": 379.0,
+    "audio_end_offset": 381.5,
+    "speaker_id": "Lydia",
+    "content": "I might not be a good contender on that one."
+  },
+  {
+    "audio_start_offset": 382.0,
+    "audio_end_offset": 389.5,
+    "speaker_id": "Victoria",
+    "content": "[crosstalk 00:06:27]. Any kinds of video games doesn't have to be League of Legends or anything?"
+  },
+  {
+    "audio_start_offset": 390.0,
+    "audio_end_offset": 392.5,
+    "speaker_id": "Lydia",
+    "content": "I did just download Civilization VI today-"
+  },
+  {
+    "audio_start_offset": 393.0,
+    "audio_end_offset": 392.5,
+    "speaker_id": "Victoria",
+    "content": "Ooh."
+  },
+  {
+    "audio_start_offset": 393.0,
+    "audio_end_offset": 395.5,
+    "speaker_id": "Lydia",
+    "content": "Because I found out it's free this week."
+  },
+  {
+    "audio_start_offset": 396.0,
+    "audio_end_offset": 398.5,
+    "speaker_id": "Victoria",
+    "content": "I have Civilization V downloaded."
+  },
+  {
+    "audio_start_offset": 399.0,
+    "audio_end_offset": 401.5,
+    "speaker_id": "Lydia",
+    "content": "Yeah. I used to play that in college. So I was, \"Ooh\"."
+  },
+  {
+    "audio_start_offset": 402.0,
+    "audio_end_offset": 403.5,
+    "speaker_id": "Victoria",
+    "content": "Ooh. That's-"
+  },
+  {
+    "audio_start_offset": 404.0,
+    "audio_end_offset": 405.5,
+    "speaker_id": "Naman",
+    "content": "Do we all have Facebook?"
+  },
+  {
+    "audio_start_offset": 406.0,
+    "audio_end_offset": 406.5,
+    "speaker_id": "Lydia",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 407.0,
+    "audio_end_offset": 406.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 407.0,
+    "audio_end_offset": 406.5,
+    "speaker_id": "Jeffrey",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 407.0,
+    "audio_end_offset": 409.5,
+    "speaker_id": "Naman",
+    "content": "Okay. That's something in common-"
+  },
+  {
+    "audio_start_offset": 410.0,
+    "audio_end_offset": 409.5,
+    "speaker_id": "Lydia",
+    "content": "That's something. Yeah."
+  },
+  {
+    "audio_start_offset": 410.0,
+    "audio_end_offset": 410.5,
+    "speaker_id": "Naman",
+    "content": "We got that."
+  },
+  {
+    "audio_start_offset": 411.0,
+    "audio_end_offset": 414.5,
+    "speaker_id": "Jeffrey",
+    "content": "You know what? After this let's just find each other. Let's just keep talking."
+  },
+  {
+    "audio_start_offset": 415.0,
+    "audio_end_offset": 419.5,
+    "speaker_id": "Victoria",
+    "content": "Is that how lonely you are in lockdown?"
+  },
+  {
+    "audio_start_offset": 420.0,
+    "audio_end_offset": 427.5,
+    "speaker_id": "Jeffrey",
+    "content": "Maybe. Maybe not. You don't get to know."
+  },
+  {
+    "audio_start_offset": 428.0,
+    "audio_end_offset": 432.5,
+    "speaker_id": "Jeffrey",
+    "content": "Oh, are we supposed to add it to the chat you said? [crosstalk 00:07:15]."
+  },
+  {
+    "audio_start_offset": 433.0,
+    "audio_end_offset": 440.5,
+    "speaker_id": "Victoria",
+    "content": "Oh okay. I just started. [crosstalk 00:07:16]."
+  },
+  {
+    "audio_start_offset": 441.0,
+    "audio_end_offset": 445.5,
+    "speaker_id": "Jeffrey",
+    "content": "What are you studying? What are y'all studying? Or its graduated from?"
+  },
+  {
+    "audio_start_offset": 446.0,
+    "audio_end_offset": 448.5,
+    "speaker_id": "Lydia",
+    "content": "Biology."
+  },
+  {
+    "audio_start_offset": 449.0,
+    "audio_end_offset": 450.5,
+    "speaker_id": "Jeffrey",
+    "content": "Biomedical engineering."
+  },
+  {
+    "audio_start_offset": 451.0,
+    "audio_end_offset": 452.5,
+    "speaker_id": "Naman",
+    "content": "Computer science."
+  },
+  {
+    "audio_start_offset": 453.0,
+    "audio_end_offset": 453.5,
+    "speaker_id": "Victoria",
+    "content": "English."
+  },
+  {
+    "audio_start_offset": 454.0,
+    "audio_end_offset": 456.5,
+    "speaker_id": "Jeffrey",
+    "content": "Damn it! There was going to be"
+  },
+  {
+    "audio_start_offset": 457.0,
+    "audio_end_offset": 458.5,
+    "speaker_id": "Victoria",
+    "content": "in Biology."
+  },
+  {
+    "audio_start_offset": 459.0,
+    "audio_end_offset": 463.5,
+    "speaker_id": "Naman",
+    "content": "I was doing my master's."
+  },
+  {
+    "audio_start_offset": 464.0,
+    "audio_end_offset": 466.5,
+    "speaker_id": "Lydia",
+    "content": "I'm actually a PhD student."
+  },
+  {
+    "audio_start_offset": 467.0,
+    "audio_end_offset": 466.5,
+    "speaker_id": "Naman",
+    "content": "Oh."
+  },
+  {
+    "audio_start_offset": 467.0,
+    "audio_end_offset": 470.5,
+    "speaker_id": "Victoria",
+    "content": "Ooh!"
+  },
+  {
+    "audio_start_offset": 471.0,
+    "audio_end_offset": 476.5,
+    "speaker_id": "Jeffrey",
+    "content": "Oh God! I could never get a PhD. It's just too much work."
+  },
+  {
+    "audio_start_offset": 477.0,
+    "audio_end_offset": 478.5,
+    "speaker_id": "Lydia",
+    "content": "It is."
+  },
+  {
+    "audio_start_offset": 479.0,
+    "audio_end_offset": 486.5,
+    "speaker_id": "Jeffrey",
+    "content": "I'm sure [crosstalk 00:08:01]."
+  },
+  {
+    "audio_start_offset": 487.0,
+    "audio_end_offset": 497.5,
+    "speaker_id": "Jeffrey",
+    "content": "No. We're all cautious. No one sleeps."
+  },
+  {
+    "audio_start_offset": 498.0,
+    "audio_end_offset": 501.5,
+    "speaker_id": "Naman",
+    "content": "Any outdoor sport that you like?"
+  },
+  {
+    "audio_start_offset": 502.0,
+    "audio_end_offset": 504.5,
+    "speaker_id": "Jeffrey",
+    "content": "Not outdoor. I do MMA."
+  },
+  {
+    "audio_start_offset": 505.0,
+    "audio_end_offset": 505.5,
+    "speaker_id": "Naman",
+    "content": "Oh, nice."
+  },
+  {
+    "audio_start_offset": 506.0,
+    "audio_end_offset": 505.5,
+    "speaker_id": "Victoria",
+    "content": "Cool."
+  },
+  {
+    "audio_start_offset": 506.0,
+    "audio_end_offset": 511.5,
+    "speaker_id": "Jeffrey",
+    "content": "I'm going to find you and I'm going to break your arms."
+  },
+  {
+    "audio_start_offset": 512.0,
+    "audio_end_offset": 514.5,
+    "speaker_id": "Lydia",
+    "content": "Oh. Don't doubt it. [crosstalk 00:08:43]."
+  },
+  {
+    "audio_start_offset": 515.0,
+    "audio_end_offset": 520.5,
+    "speaker_id": "Jeffrey",
+    "content": "I'm not that violent. No."
+  },
+  {
+    "audio_start_offset": 521.0,
+    "audio_end_offset": 522.5,
+    "speaker_id": "Lydia",
+    "content": "I like hiking, swimming."
+  },
+  {
+    "audio_start_offset": 523.0,
+    "audio_end_offset": 523.5,
+    "speaker_id": "Naman",
+    "content": "I like hiking too."
+  },
+  {
+    "audio_start_offset": 524.0,
+    "audio_end_offset": 532.5,
+    "speaker_id": "Victoria",
+    "content": "I like hiking. I'm really bad at swimming. [crosstalk 00:08:51] Just not very well."
+  },
+  {
+    "audio_start_offset": 533.0,
+    "audio_end_offset": 534.5,
+    "speaker_id": "Jeffrey",
+    "content": "Hmm. What's your favorite place to hike?"
+  },
+  {
+    "audio_start_offset": 535.0,
+    "audio_end_offset": 542.5,
+    "speaker_id": "Lydia",
+    "content": "There some good state parks in New York state, that I-"
+  },
+  {
+    "audio_start_offset": 543.0,
+    "audio_end_offset": 546.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. I'm in Jersey. So I usually go North New Jersey or South New York."
+  },
+  {
+    "audio_start_offset": 547.0,
+    "audio_end_offset": 556.5,
+    "speaker_id": "Naman",
+    "content": "I mostly go to the Malibu side in L.A. I'm not from here, Boston. So, literally I just came for a visit and I got stuck."
+  },
+  {
+    "audio_start_offset": 557.0,
+    "audio_end_offset": 560.5,
+    "speaker_id": "Victoria",
+    "content": "Oh, where are you staying? If you were just visiting?"
+  },
+  {
+    "audio_start_offset": 561.0,
+    "audio_end_offset": 567.5,
+    "speaker_id": "Naman",
+    "content": "I was visiting my friend. So I'm staying at her place."
+  },
+  {
+    "audio_start_offset": 568.0,
+    "audio_end_offset": 571.5,
+    "speaker_id": "Victoria",
+    "content": "Oh okay. At least you have a place. That sucks though."
+  },
+  {
+    "audio_start_offset": 572.0,
+    "audio_end_offset": 578.5,
+    "speaker_id": "Naman",
+    "content": "Jeffrey, do you also like hiking?"
+  },
+  {
+    "audio_start_offset": 579.0,
+    "audio_end_offset": 587.5,
+    "speaker_id": "Jeffrey",
+    "content": "I'm not a very big forest guy. I mean, I will be honest. I have never necessarily gone camping."
+  },
+  {
+    "audio_start_offset": 588.0,
+    "audio_end_offset": 592.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. I've never gone camping you either."
+  },
+  {
+    "audio_start_offset": 593.0,
+    "audio_end_offset": 620.5,
+    "speaker_id": "Jeffrey",
+    "content": "Well, I've never gone willingly. The only time I've ever been sort of camping is during ROTC. We went, one of the military bases, Fort Devens, for a field training. That was technically the first time I've ever slept under a tent rather than a roof."
+  },
+  {
+    "audio_start_offset": 621.0,
+    "audio_end_offset": 624.5,
+    "speaker_id": "Lydia",
+    "content": "[crosstalk 00:10:21] At least once right?"
+  },
+  {
+    "audio_start_offset": 625.0,
+    "audio_end_offset": 627.5,
+    "speaker_id": "Jeffrey",
+    "content": "I didn't like it. I didn't like it at all."
+  },
+  {
+    "audio_start_offset": 628.0,
+    "audio_end_offset": 633.5,
+    "speaker_id": "Naman",
+    "content": "What about day hikes? Just a day hike? Not necessarily camping."
+  },
+  {
+    "audio_start_offset": 634.0,
+    "audio_end_offset": 635.5,
+    "speaker_id": "Jeffrey",
+    "content": "Yeah. Sure. Maybe."
+  },
+  {
+    "audio_start_offset": 636.0,
+    "audio_end_offset": 637.5,
+    "speaker_id": "Lydia",
+    "content": "The purpose of this exercise-"
+  },
+  {
+    "audio_start_offset": 638.0,
+    "audio_end_offset": 640.5,
+    "speaker_id": "Victoria",
+    "content": "thing. Escalated walk through nature?"
+  },
+  {
+    "audio_start_offset": 641.0,
+    "audio_end_offset": 651.5,
+    "speaker_id": "Naman",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 652.0,
+    "audio_end_offset": 658.5,
+    "speaker_id": "Lydia",
+    "content": "Well here, I guess that, do you guys like math?"
+  },
+  {
+    "audio_start_offset": 659.0,
+    "audio_end_offset": 659.5,
+    "speaker_id": "Naman",
+    "content": "I like it."
+  },
+  {
+    "audio_start_offset": 660.0,
+    "audio_end_offset": 662.5,
+    "speaker_id": "Jeffrey",
+    "content": "It is my favorite subject."
+  },
+  {
+    "audio_start_offset": 663.0,
+    "audio_end_offset": 664.5,
+    "speaker_id": "Naman",
+    "content": "There's a fifty-fifty chance."
+  },
+  {
+    "audio_start_offset": 665.0,
+    "audio_end_offset": 667.5,
+    "speaker_id": "Victoria",
+    "content": "I mean it's okay. But I'm the English major. So..."
+  },
+  {
+    "audio_start_offset": 668.0,
+    "audio_end_offset": 675.5,
+    "speaker_id": "Lydia",
+    "content": "No. I don't like math either. I was, but they have mechanical engineering. So maybe..."
+  },
+  {
+    "audio_start_offset": 676.0,
+    "audio_end_offset": 681.5,
+    "speaker_id": "Victoria",
+    "content": "I don't know. I took what? I took up to Calculus 2. That was fine. I guess."
+  },
+  {
+    "audio_start_offset": 682.0,
+    "audio_end_offset": 686.5,
+    "speaker_id": "Lydia",
+    "content": "I mean, that's more than, I think a lot of other people have to do so..."
+  },
+  {
+    "audio_start_offset": 687.0,
+    "audio_end_offset": 696.5,
+    "speaker_id": "Victoria",
+    "content": "Definitely it wasn't the worst subject. Worse subject was biochemistry. That was annoying."
+  },
+  {
+    "audio_start_offset": 697.0,
+    "audio_end_offset": 698.5,
+    "speaker_id": "Jeffrey",
+    "content": "Or just chemistry."
+  },
+  {
+    "audio_start_offset": 699.0,
+    "audio_end_offset": 709.5,
+    "speaker_id": "Victoria",
+    "content": "Chemistry is fine. [crosstalk 00:11:43] Biochemistry was the worst."
+  },
+  {
+    "audio_start_offset": 710.0,
+    "audio_end_offset": 710.5,
+    "speaker_id": "Maggie",
+    "content": "Okay. Thank you for this guys."
+  },
+  {
+    "audio_start_offset": 711.0,
+    "audio_end_offset": 711.5,
+    "speaker_id": "Jeffrey",
+    "content": "[crosstalk 00:11:51] Oh. Sorry, Maggie."
+  },
+  {
+    "audio_start_offset": 712.0,
+    "audio_end_offset": 713.5,
+    "speaker_id": "Maggie",
+    "content": "No. It's all good."
+  },
+  {
+    "audio_start_offset": 714.0,
+    "audio_end_offset": 735.5,
+    "speaker_id": "Maggie",
+    "content": "So just moving on. Next question maybe will be easier. Can you find something that you have unique in to this group? And so something that you only have, or you're a characteristic of yourself or something that no one else in this group has. And can we try to find at least two for each person?"
+  },
+  {
+    "audio_start_offset": 736.0,
+    "audio_end_offset": 740.5,
+    "speaker_id": "Jeffrey",
+    "content": "Physical or non-physical?"
+  },
+  {
+    "audio_start_offset": 741.0,
+    "audio_end_offset": 747.5,
+    "speaker_id": "Maggie",
+    "content": "I guess we'll try this stay non-physical but if it's, you can play in the physical space is fine as well."
+  },
+  {
+    "audio_start_offset": 748.0,
+    "audio_end_offset": 751.5,
+    "speaker_id": "Jeffrey",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 752.0,
+    "audio_end_offset": 756.5,
+    "speaker_id": "Lydia",
+    "content": "All right. Well we know one is that we all had different majors."
+  },
+  {
+    "audio_start_offset": 757.0,
+    "audio_end_offset": 757.5,
+    "speaker_id": "Naman",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 758.0,
+    "audio_end_offset": 759.5,
+    "speaker_id": "Victoria",
+    "content": "True."
+  },
+  {
+    "audio_start_offset": 760.0,
+    "audio_end_offset": 762.5,
+    "speaker_id": "Naman",
+    "content": "And I think I'm the only master's."
+  },
+  {
+    "audio_start_offset": 763.0,
+    "audio_end_offset": 767.5,
+    "speaker_id": "Lydia",
+    "content": "That's true."
+  },
+  {
+    "audio_start_offset": 768.0,
+    "audio_end_offset": 768.5,
+    "speaker_id": "Jeffrey",
+    "content": "Yeah. You're the only master's."
+  },
+  {
+    "audio_start_offset": 769.0,
+    "audio_end_offset": 777.5,
+    "speaker_id": "Lydia",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 778.0,
+    "audio_end_offset": 787.5,
+    "speaker_id": "Jeffrey",
+    "content": "How did we all find this study? for MIT studies?"
+  },
+  {
+    "audio_start_offset": 788.0,
+    "audio_end_offset": 802.5,
+    "speaker_id": "Victoria",
+    "content": "Well, I've done some studies for my own school, Rutgers. And then I used to do some for Princeton, because I'm not too far away. And then I was in lockdown and bored and I was, \"Hey, I wonder if there are other schools that will pay me money.\""
+  },
+  {
+    "audio_start_offset": 803.0,
+    "audio_end_offset": 807.5,
+    "speaker_id": "Lydia",
+    "content": "Yeah. I did it through, I did some at Columbia and they have the same Sona system-"
+  },
+  {
+    "audio_start_offset": 808.0,
+    "audio_end_offset": 809.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. Everyone uses Sona."
+  },
+  {
+    "audio_start_offset": 810.0,
+    "audio_end_offset": 811.5,
+    "speaker_id": "Lydia",
+    "content": "...So that's how I found this."
+  },
+  {
+    "audio_start_offset": 812.0,
+    "audio_end_offset": 820.5,
+    "speaker_id": "Naman",
+    "content": "Same. I used to do at Marshall at USC and, then I found out-"
+  },
+  {
+    "audio_start_offset": 821.0,
+    "audio_end_offset": 843.5,
+    "speaker_id": "Jeffrey",
+    "content": "I never did a Sona before until last year. I actually did figure it out through my school. It was actually, if you take the T in Boston, there's actually ads on the trains. And it just said, \"Hey, you should probably join this Sona thing."
+  },
+  {
+    "audio_start_offset": 844.0,
+    "audio_end_offset": 845.5,
+    "speaker_id": "Lydia",
+    "content": "Oh, that's funny. It was on a train? That's weird."
+  },
+  {
+    "audio_start_offset": 846.0,
+    "audio_end_offset": 849.5,
+    "speaker_id": "Jeffrey",
+    "content": "Yeah. A train ad. That's how I figured [crosstalk 00:14:10]."
+  },
+  {
+    "audio_start_offset": 850.0,
+    "audio_end_offset": 850.5,
+    "speaker_id": "Lydia",
+    "content": "...The ads were great."
+  },
+  {
+    "audio_start_offset": 851.0,
+    "audio_end_offset": 853.5,
+    "speaker_id": "Jeffrey",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 854.0,
+    "audio_end_offset": 856.5,
+    "speaker_id": "Victoria",
+    "content": "Any of you guys play instruments?"
+  },
+  {
+    "audio_start_offset": 857.0,
+    "audio_end_offset": 860.5,
+    "speaker_id": "Lydia",
+    "content": "Maybe we all play different ones."
+  },
+  {
+    "audio_start_offset": 861.0,
+    "audio_end_offset": 861.5,
+    "speaker_id": "Jeffrey",
+    "content": "Guitar."
+  },
+  {
+    "audio_start_offset": 862.0,
+    "audio_end_offset": 866.5,
+    "speaker_id": "Victoria",
+    "content": "Guitar? I don't play guitar. I play piano."
+  },
+  {
+    "audio_start_offset": 867.0,
+    "audio_end_offset": 869.5,
+    "speaker_id": "Lydia",
+    "content": "I can play the saxophone."
+  },
+  {
+    "audio_start_offset": 870.0,
+    "audio_end_offset": 871.5,
+    "speaker_id": "Naman",
+    "content": "I don't play anything."
+  },
+  {
+    "audio_start_offset": 872.0,
+    "audio_end_offset": 871.5,
+    "speaker_id": "Victoria",
+    "content": "Oh. [crosstalk 00:14:33]"
+  },
+  {
+    "audio_start_offset": 872.0,
+    "audio_end_offset": 877.5,
+    "speaker_id": "Lydia",
+    "content": "I think still counts as..."
+  },
+  {
+    "audio_start_offset": 878.0,
+    "audio_end_offset": 877.5,
+    "speaker_id": "Naman",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 878.0,
+    "audio_end_offset": 886.5,
+    "speaker_id": "Jeffrey",
+    "content": "The man can sing. He has his voice, his beautiful voice."
+  },
+  {
+    "audio_start_offset": 887.0,
+    "audio_end_offset": 887.5,
+    "speaker_id": "Naman",
+    "content": "Oh, no."
+  },
+  {
+    "audio_start_offset": 888.0,
+    "audio_end_offset": 893.5,
+    "speaker_id": "Victoria",
+    "content": "I actually did do that. I was an acapella in my college."
+  },
+  {
+    "audio_start_offset": 894.0,
+    "audio_end_offset": 894.5,
+    "speaker_id": "Lydia",
+    "content": "Nice."
+  },
+  {
+    "audio_start_offset": 895.0,
+    "audio_end_offset": 896.5,
+    "speaker_id": "Jeffrey",
+    "content": "Sing for us."
+  },
+  {
+    "audio_start_offset": 897.0,
+    "audio_end_offset": 899.5,
+    "speaker_id": "Victoria",
+    "content": "No, I just woke up."
+  },
+  {
+    "audio_start_offset": 900.0,
+    "audio_end_offset": 902.5,
+    "speaker_id": "Jeffrey",
+    "content": "Oh yeah. Same. I just woke up at 11:00."
+  },
+  {
+    "audio_start_offset": 903.0,
+    "audio_end_offset": 904.5,
+    "speaker_id": "Victoria",
+    "content": "I set an alarm at 11:55 for this."
+  },
+  {
+    "audio_start_offset": 905.0,
+    "audio_end_offset": 904.5,
+    "speaker_id": "Jeffrey",
+    "content": "Oh."
+  },
+  {
+    "audio_start_offset": 905.0,
+    "audio_end_offset": 913.5,
+    "speaker_id": "Lydia",
+    "content": "I think."
+  },
+  {
+    "audio_start_offset": 914.0,
+    "audio_end_offset": 916.5,
+    "speaker_id": "Victoria",
+    "content": "Oh yeah. I guess that is unique if you don't play any."
+  },
+  {
+    "audio_start_offset": 917.0,
+    "audio_end_offset": 925.5,
+    "speaker_id": "Lydia",
+    "content": "How about, where are we born? In what state or what country? [crosstalk 00:15:25] I was born in New Jersey."
+  },
+  {
+    "audio_start_offset": 926.0,
+    "audio_end_offset": 928.5,
+    "speaker_id": "Lydia",
+    "content": "Actually, that might not be a good one then."
+  },
+  {
+    "audio_start_offset": 929.0,
+    "audio_end_offset": 936.5,
+    "speaker_id": "Naman",
+    "content": "I was born in India."
+  },
+  {
+    "audio_start_offset": 937.0,
+    "audio_end_offset": 939.5,
+    "speaker_id": "Lydia",
+    "content": "Because Victoria, you were also born in New Jersey probably, right?"
+  },
+  {
+    "audio_start_offset": 940.0,
+    "audio_end_offset": 941.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 942.0,
+    "audio_end_offset": 943.5,
+    "speaker_id": "Jeffrey",
+    "content": "New Jersey."
+  },
+  {
+    "audio_start_offset": 944.0,
+    "audio_end_offset": 945.5,
+    "speaker_id": "Lydia",
+    "content": "The best place on earth."
+  },
+  {
+    "audio_start_offset": 946.0,
+    "audio_end_offset": 956.5,
+    "speaker_id": "Victoria",
+    "content": "I was born in New Brunswick, where Rutgers is. And then I went to Rutgers. So I always think that the displacement of my life was zero."
+  },
+  {
+    "audio_start_offset": 957.0,
+    "audio_end_offset": 958.5,
+    "speaker_id": "Lydia",
+    "content": "And you hopefully become a professor there or something [crosstalk 00:00:16:00]."
+  },
+  {
+    "audio_start_offset": 959.0,
+    "audio_end_offset": 965.5,
+    "speaker_id": "Victoria",
+    "content": "Oh my God! Maybe-"
+  },
+  {
+    "audio_start_offset": 966.0,
+    "audio_end_offset": 971.5,
+    "speaker_id": "Jeffrey",
+    "content": "What do we all plan to be after? What do we want to do with our degrees?"
+  },
+  {
+    "audio_start_offset": 972.0,
+    "audio_end_offset": 975.5,
+    "speaker_id": "Victoria",
+    "content": "I'm looking for jobs and technical writing or editing."
+  },
+  {
+    "audio_start_offset": 976.0,
+    "audio_end_offset": 976.5,
+    "speaker_id": "Jeffrey",
+    "content": "Mm-hmm (affirmative)."
+  },
+  {
+    "audio_start_offset": 977.0,
+    "audio_end_offset": 985.5,
+    "speaker_id": "Lydia",
+    "content": "What about, what's your favorite pizza topping?"
+  },
+  {
+    "audio_start_offset": 986.0,
+    "audio_end_offset": 991.5,
+    "speaker_id": "Naman",
+    "content": "Olives, jalapenos."
+  },
+  {
+    "audio_start_offset": 992.0,
+    "audio_end_offset": 994.5,
+    "speaker_id": "Jeffrey",
+    "content": "I just like all of them. Give me all of them. Give me pineapple, I'll take it."
+  },
+  {
+    "audio_start_offset": 995.0,
+    "audio_end_offset": 995.5,
+    "speaker_id": "Naman",
+    "content": "Oh, no."
+  },
+  {
+    "audio_start_offset": 996.0,
+    "audio_end_offset": 995.5,
+    "speaker_id": "Jeffrey",
+    "content": "I know it's controversial."
+  },
+  {
+    "audio_start_offset": 996.0,
+    "audio_end_offset": 998.5,
+    "speaker_id": "Lydia",
+    "content": "I hope you said pineapple. I do like pineapple in pizza."
+  },
+  {
+    "audio_start_offset": 999.0,
+    "audio_end_offset": 1004.5,
+    "speaker_id": "Victoria",
+    "content": "Pineapple is fine. I like margarita pizza."
+  },
+  {
+    "audio_start_offset": 1005.0,
+    "audio_end_offset": 1004.5,
+    "speaker_id": "Jeffrey",
+    "content": "Oh, wow."
+  },
+  {
+    "audio_start_offset": 1005.0,
+    "audio_end_offset": 1006.5,
+    "speaker_id": "Lydia",
+    "content": "I was going to say it's plain, but it's not really plain. Because it can have."
+  },
+  {
+    "audio_start_offset": 1007.0,
+    "audio_end_offset": 1006.5,
+    "speaker_id": "Victoria",
+    "content": "Fancier."
+  },
+  {
+    "audio_start_offset": 1007.0,
+    "audio_end_offset": 1019.5,
+    "speaker_id": "Naman",
+    "content": "[crosstalk 00:17:01]. Spicy or something like that."
+  },
+  {
+    "audio_start_offset": 1020.0,
+    "audio_end_offset": 1028.5,
+    "speaker_id": "Victoria",
+    "content": "Have we all been to different countries maybe? Naman was born in India. So he's obviously been to India-"
+  },
+  {
+    "audio_start_offset": 1029.0,
+    "audio_end_offset": 1029.5,
+    "speaker_id": "Lydia",
+    "content": "What's the most niche country you've ever been to?"
+  },
+  {
+    "audio_start_offset": 1030.0,
+    "audio_end_offset": 1034.5,
+    "speaker_id": "Victoria",
+    "content": "I've been to the Philippines 10 times."
+  },
+  {
+    "audio_start_offset": 1035.0,
+    "audio_end_offset": 1038.5,
+    "speaker_id": "Lydia",
+    "content": "Nice. Either between Philippines or India."
+  },
+  {
+    "audio_start_offset": 1039.0,
+    "audio_end_offset": 1042.5,
+    "speaker_id": "Victoria",
+    "content": "Have you been to another country that other people have not been to?"
+  },
+  {
+    "audio_start_offset": 1043.0,
+    "audio_end_offset": 1059.5,
+    "speaker_id": "Naman",
+    "content": "I have been to three or four other countries. Canada, Czech Republic-"
+  },
+  {
+    "audio_start_offset": 1060.0,
+    "audio_end_offset": 1059.5,
+    "speaker_id": "Victoria",
+    "content": "That's, everyone has been to Canada. [crosstalk 00:17:36]."
+  },
+  {
+    "audio_start_offset": 1060.0,
+    "audio_end_offset": 1060.5,
+    "speaker_id": "Jeffrey",
+    "content": "Germany and Italy."
+  },
+  {
+    "audio_start_offset": 1061.0,
+    "audio_end_offset": 1060.5,
+    "speaker_id": "Victoria",
+    "content": "Oh, cool. [crosstalk 00:17:41] [crosstalk 00:17:41]"
+  },
+  {
+    "audio_start_offset": 1061.0,
+    "audio_end_offset": 1070.5,
+    "speaker_id": "Lydia",
+    "content": "This one might be a good one. I've been to the UK. I've been to Germany. You've been there though. I've been to Saudi Arabia."
+  },
+  {
+    "audio_start_offset": 1071.0,
+    "audio_end_offset": 1071.5,
+    "speaker_id": "Victoria",
+    "content": "Oh cool."
+  },
+  {
+    "audio_start_offset": 1072.0,
+    "audio_end_offset": 1072.5,
+    "speaker_id": "Naman",
+    "content": "No, thanks."
+  },
+  {
+    "audio_start_offset": 1073.0,
+    "audio_end_offset": 1076.5,
+    "speaker_id": "Victoria",
+    "content": "We all have at least one country that's unique that we've been to."
+  },
+  {
+    "audio_start_offset": 1077.0,
+    "audio_end_offset": 1077.5,
+    "speaker_id": "Lydia",
+    "content": "That's definitely a good one."
+  },
+  {
+    "audio_start_offset": 1078.0,
+    "audio_end_offset": 1082.5,
+    "speaker_id": "Naman",
+    "content": "I've been to 18, 19 countries so- [crosstalk 00:18:03]."
+  },
+  {
+    "audio_start_offset": 1083.0,
+    "audio_end_offset": 1085.5,
+    "speaker_id": "Lydia",
+    "content": "You definitely got more."
+  },
+  {
+    "audio_start_offset": 1086.0,
+    "audio_end_offset": 1089.5,
+    "speaker_id": "Naman",
+    "content": "I've been to Africa. Kenya, Mozambique and all."
+  },
+  {
+    "audio_start_offset": 1090.0,
+    "audio_end_offset": 1091.5,
+    "speaker_id": "Lydia",
+    "content": "Oh, very nice."
+  },
+  {
+    "audio_start_offset": 1092.0,
+    "audio_end_offset": 1117.5,
+    "speaker_id": "Maggie",
+    "content": "Great. Okay. Thanks you guys. So moving on to the next question. Assuming that everybody gets deserted on an island, but you had time to grab one thing practically. What practical thing would you grab and why?"
+  },
+  {
+    "audio_start_offset": 1118.0,
+    "audio_end_offset": 1119.5,
+    "speaker_id": "Naman",
+    "content": "Practical?"
+  },
+  {
+    "audio_start_offset": 1120.0,
+    "audio_end_offset": 1127.5,
+    "speaker_id": "Maggie",
+    "content": "Yeah. So useful. And when you think of it, you can type it in the chat as well. That'd be great."
+  },
+  {
+    "audio_start_offset": 1128.0,
+    "audio_end_offset": 1128.5,
+    "speaker_id": "Naman",
+    "content": "Are we together when we are deserted?"
+  },
+  {
+    "audio_start_offset": 1129.0,
+    "audio_end_offset": 1131.5,
+    "speaker_id": "Maggie",
+    "content": "So first, as if you were alone."
+  },
+  {
+    "audio_start_offset": 1132.0,
+    "audio_end_offset": 1133.5,
+    "speaker_id": "Victoria",
+    "content": "Oh."
+  },
+  {
+    "audio_start_offset": 1134.0,
+    "audio_end_offset": 1134.5,
+    "speaker_id": "Naman",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 1135.0,
+    "audio_end_offset": 1141.5,
+    "speaker_id": "Lydia",
+    "content": "Cool."
+  },
+  {
+    "audio_start_offset": 1142.0,
+    "audio_end_offset": 1144.5,
+    "speaker_id": "Lydia",
+    "content": "I guess it's something you have to grab. So kind of, I was going to say-"
+  },
+  {
+    "audio_start_offset": 1145.0,
+    "audio_end_offset": 1144.5,
+    "speaker_id": "Victoria",
+    "content": "A book?"
+  },
+  {
+    "audio_start_offset": 1145.0,
+    "audio_end_offset": 1154.5,
+    "speaker_id": "Lydia",
+    "content": "Some kind of device loaded with hundreds of ebooks about different topics. But I don't have that on right now. So... You can grab?"
+  },
+  {
+    "audio_start_offset": 1155.0,
+    "audio_end_offset": 1157.5,
+    "speaker_id": "Jeffrey",
+    "content": "There's no internet though."
+  },
+  {
+    "audio_start_offset": 1158.0,
+    "audio_end_offset": 1160.5,
+    "speaker_id": "Victoria",
+    "content": "If they're all downloaded. You have to download all the books first."
+  },
+  {
+    "audio_start_offset": 1161.0,
+    "audio_end_offset": 1167.5,
+    "speaker_id": "Lydia",
+    "content": "Instead of encyclopedias?"
+  },
+  {
+    "audio_start_offset": 1168.0,
+    "audio_end_offset": 1169.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 1170.0,
+    "audio_end_offset": 1178.5,
+    "speaker_id": "Jeffrey",
+    "content": "If there's anything you need for survival if I could show you, I think I saw this once. I think you actually are going to need a knife."
+  },
+  {
+    "audio_start_offset": 1179.0,
+    "audio_end_offset": 1179.5,
+    "speaker_id": "Victoria",
+    "content": "A knife seems pretty important."
+  },
+  {
+    "audio_start_offset": 1180.0,
+    "audio_end_offset": 1183.5,
+    "speaker_id": "Jeffrey",
+    "content": "Carrying a knife is the most important survival tool."
+  },
+  {
+    "audio_start_offset": 1184.0,
+    "audio_end_offset": 1192.5,
+    "speaker_id": "Victoria",
+    "content": "But can't you always, I don't know, going off movies, sharpen a wooden stick with a rock or something?"
+  },
+  {
+    "audio_start_offset": 1193.0,
+    "audio_end_offset": 1198.5,
+    "speaker_id": "Jeffrey",
+    "content": "I think that one versus what I think, I think one is going to cut more efficiently than the other."
+  },
+  {
+    "audio_start_offset": 1199.0,
+    "audio_end_offset": 1199.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 1200.0,
+    "audio_end_offset": 1204.5,
+    "speaker_id": "Naman",
+    "content": "I don't think finding a word in a desert is a good idea."
+  },
+  {
+    "audio_start_offset": 1205.0,
+    "audio_end_offset": 1224.5,
+    "speaker_id": "Lydia",
+    "content": "Oh, that's true too. You don't know what kind of Island it is truly. Yeah. And things like, I was going to say something like matches or a lighter, but you don't need that because you can figure out how to get that. You could make your own fire more than some of the other stuff."
+  },
+  {
+    "audio_start_offset": 1225.0,
+    "audio_end_offset": 1227.5,
+    "speaker_id": "Naman",
+    "content": "I think a compass, so that I can go to the right direction."
+  },
+  {
+    "audio_start_offset": 1228.0,
+    "audio_end_offset": 1231.5,
+    "speaker_id": "Jeffrey",
+    "content": "We don't know."
+  },
+  {
+    "audio_start_offset": 1232.0,
+    "audio_end_offset": 1235.5,
+    "speaker_id": "Victoria",
+    "content": "What if I bring salt so that everything would taste better?"
+  },
+  {
+    "audio_start_offset": 1236.0,
+    "audio_end_offset": 1237.5,
+    "speaker_id": "Lydia",
+    "content": "Or you can preserve stuff with it too."
+  },
+  {
+    "audio_start_offset": 1238.0,
+    "audio_end_offset": 1239.5,
+    "speaker_id": "Victoria",
+    "content": "Oh, true. There's the word, practical."
+  },
+  {
+    "audio_start_offset": 1240.0,
+    "audio_end_offset": 1246.5,
+    "speaker_id": "Lydia",
+    "content": "You bring 30 pounds of salt. [crosstalk 00:20:42]."
+  },
+  {
+    "audio_start_offset": 1247.0,
+    "audio_end_offset": 1249.5,
+    "speaker_id": "Jeffrey",
+    "content": "Or you can just find it in the salt water."
+  },
+  {
+    "audio_start_offset": 1250.0,
+    "audio_end_offset": 1253.5,
+    "speaker_id": "Lydia",
+    "content": "It's true. You could just evaporate the water."
+  },
+  {
+    "audio_start_offset": 1254.0,
+    "audio_end_offset": 1254.5,
+    "speaker_id": "Victoria",
+    "content": "Oh, true."
+  },
+  {
+    "audio_start_offset": 1255.0,
+    "audio_end_offset": 1258.5,
+    "speaker_id": "Jeffrey",
+    "content": "That's going to take a while though."
+  },
+  {
+    "audio_start_offset": 1259.0,
+    "audio_end_offset": 1259.5,
+    "speaker_id": "Jeffrey",
+    "content": "It's going to take a while."
+  },
+  {
+    "audio_start_offset": 1260.0,
+    "audio_end_offset": 1264.5,
+    "speaker_id": "Victoria",
+    "content": "You don't need that much salt that quickly."
+  },
+  {
+    "audio_start_offset": 1265.0,
+    "audio_end_offset": 1274.5,
+    "speaker_id": "Jeffrey",
+    "content": "And I hear it takes a while for desalination plants to work. You're in the most efficient, I think the most efficient ones are in Israel. But it takes [crosstalk 00:21:17]."
+  },
+  {
+    "audio_start_offset": 1275.0,
+    "audio_end_offset": 1280.5,
+    "speaker_id": "Lydia",
+    "content": "And if it's desert island, it's pretty hot. So there might not be... [crosstalk 00:21:25]."
+  },
+  {
+    "audio_start_offset": 1281.0,
+    "audio_end_offset": 1293.5,
+    "speaker_id": "Victoria",
+    "content": "There's definetly a much smaller scale. You don't have to be that. I don't need that much salt."
+  },
+  {
+    "audio_start_offset": 1294.0,
+    "audio_end_offset": 1297.5,
+    "speaker_id": "Lydia",
+    "content": "I think a knife is definitely the top."
+  },
+  {
+    "audio_start_offset": 1298.0,
+    "audio_end_offset": 1301.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. But I feel [crosstalk 00:21:38]."
+  },
+  {
+    "audio_start_offset": 1302.0,
+    "audio_end_offset": 1303.5,
+    "speaker_id": "Jeffrey",
+    "content": "Wait. No. We need to be able to get help. So we need to contact people. [crosstalk 00:21:52]."
+  },
+  {
+    "audio_start_offset": 1304.0,
+    "audio_end_offset": 1310.5,
+    "speaker_id": "Jeffrey",
+    "content": "You read my mind."
+  },
+  {
+    "audio_start_offset": 1311.0,
+    "audio_end_offset": 1316.5,
+    "speaker_id": "Lydia",
+    "content": "You could just do where they take a lot of rocks and you write a giant word so that when the people fly over in planes, they can see you."
+  },
+  {
+    "audio_start_offset": 1317.0,
+    "audio_end_offset": 1323.5,
+    "speaker_id": "Victoria",
+    "content": "What if no one flies over my island? What if my island is in the middle of the Bermuda triangle?"
+  },
+  {
+    "audio_start_offset": 1324.0,
+    "audio_end_offset": 1327.5,
+    "speaker_id": "Jeffrey",
+    "content": "I think that's just a superstition."
+  },
+  {
+    "audio_start_offset": 1328.0,
+    "audio_end_offset": 1328.5,
+    "speaker_id": "Naman",
+    "content": "Maybe [crosstalk 00:22:10]."
+  },
+  {
+    "audio_start_offset": 1329.0,
+    "audio_end_offset": 1350.5,
+    "speaker_id": "Lydia",
+    "content": "There was this article recently about this real life Lord of the Flies, but where instead of all being [crosstalk 00:22:17] ,they all went together. And they got of boys got stranded on an island in maybe off of Australia or something. And they ended up getting rescued years later. And they had, yeah, it was nice positive, human story."
+  },
+  {
+    "audio_start_offset": 1351.0,
+    "audio_end_offset": 1357.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. Was it about the guy going back to the island he was stranded in?"
+  },
+  {
+    "audio_start_offset": 1358.0,
+    "audio_end_offset": 1358.5,
+    "speaker_id": "Lydia",
+    "content": "I think they might've, I don't know."
+  },
+  {
+    "audio_start_offset": 1359.0,
+    "audio_end_offset": 1363.5,
+    "speaker_id": "Victoria",
+    "content": "All right. One article I saw it was about that. And the guy was going back to it, now that he was an adult."
+  },
+  {
+    "audio_start_offset": 1364.0,
+    "audio_end_offset": 1364.5,
+    "speaker_id": "Lydia",
+    "content": "Oh yes. Yeah. You're right."
+  },
+  {
+    "audio_start_offset": 1365.0,
+    "audio_end_offset": 1378.5,
+    "speaker_id": "Victoria",
+    "content": "Yes. Well, can I bring a friend?"
+  },
+  {
+    "audio_start_offset": 1379.0,
+    "audio_end_offset": 1391.5,
+    "speaker_id": "Maggie",
+    "content": "So actually let's move on to the next question with that. If you could bring one person who would you bring and why?"
+  },
+  {
+    "audio_start_offset": 1392.0,
+    "audio_end_offset": 1405.5,
+    "speaker_id": "Naman",
+    "content": "[crosstalk 00:23:12] I don't want to drag anyone into my situation. [crosstalk 00:23:21]."
+  },
+  {
+    "audio_start_offset": 1406.0,
+    "audio_end_offset": 1411.5,
+    "speaker_id": "Victoria",
+    "content": "I would bring one of those guys that does the TV shows where they survive in the wild."
+  },
+  {
+    "audio_start_offset": 1412.0,
+    "audio_end_offset": 1413.5,
+    "speaker_id": "Lydia",
+    "content": "They're like bear gorillas?"
+  },
+  {
+    "audio_start_offset": 1414.0,
+    "audio_end_offset": 1415.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. I don't remember any of their names. Yeah. That's the one."
+  },
+  {
+    "audio_start_offset": 1416.0,
+    "audio_end_offset": 1422.5,
+    "speaker_id": "Lydia",
+    "content": "That would be a good one."
+  },
+  {
+    "audio_start_offset": 1423.0,
+    "audio_end_offset": 1427.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. I was going to say my boyfriend, but this one, of these people would be a lot more useful, so..."
+  },
+  {
+    "audio_start_offset": 1428.0,
+    "audio_end_offset": 1428.5,
+    "speaker_id": "Lydia",
+    "content": "Oh, a tent is a good idea."
+  },
+  {
+    "audio_start_offset": 1429.0,
+    "audio_end_offset": 1432.5,
+    "speaker_id": "Naman",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 1433.0,
+    "audio_end_offset": 1434.5,
+    "speaker_id": "Jeffrey",
+    "content": "your boyfriend Victoria?"
+  },
+  {
+    "audio_start_offset": 1435.0,
+    "audio_end_offset": 1442.5,
+    "speaker_id": "Victoria",
+    "content": "No, I mean, I love him. I was, I'll bring him because I want him there. But then I was, then we'll just both die. What's the fun in that?"
+  },
+  {
+    "audio_start_offset": 1443.0,
+    "audio_end_offset": 1444.5,
+    "speaker_id": "Jeffrey",
+    "content": "God! He's useless. He can't even take care of me."
+  },
+  {
+    "audio_start_offset": 1445.0,
+    "audio_end_offset": 1446.5,
+    "speaker_id": "Victoria",
+    "content": "Weird."
+  },
+  {
+    "audio_start_offset": 1447.0,
+    "audio_end_offset": 1453.5,
+    "speaker_id": "Lydia",
+    "content": "Oh, I'm if this was the case. You both just be stranded on the desert island."
+  },
+  {
+    "audio_start_offset": 1454.0,
+    "audio_end_offset": 1459.5,
+    "speaker_id": "Victoria",
+    "content": "Exactly. I'd read rather get out quickly with one of the guys that survives in the wild."
+  },
+  {
+    "audio_start_offset": 1460.0,
+    "audio_end_offset": 1459.5,
+    "speaker_id": "Naman",
+    "content": "I think a hunter or a poacher."
+  },
+  {
+    "audio_start_offset": 1460.0,
+    "audio_end_offset": 1459.5,
+    "speaker_id": "Lydia",
+    "content": "Yeah. Hunter would be good too."
+  },
+  {
+    "audio_start_offset": 1460.0,
+    "audio_end_offset": 1468.5,
+    "speaker_id": "Naman",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 1469.0,
+    "audio_end_offset": 1473.5,
+    "speaker_id": "Lydia",
+    "content": "Because also I would assume most people that are hunters are also, then they know a lot of stuff in general."
+  },
+  {
+    "audio_start_offset": 1474.0,
+    "audio_end_offset": 1482.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. They're probably used to surviving out there for a bit."
+  },
+  {
+    "audio_start_offset": 1483.0,
+    "audio_end_offset": 1497.5,
+    "speaker_id": "Lydia",
+    "content": "Because there's also the stereotypical desert island with one palm tree and one coconut versus an actual probable island that would have, I don't know, wild boars trying to get you or something in it..."
+  },
+  {
+    "audio_start_offset": 1498.0,
+    "audio_end_offset": 1516.5,
+    "speaker_id": "Naman",
+    "content": "Maybe it can be a on a hilly region or a forest? to survive in-"
+  },
+  {
+    "audio_start_offset": 1517.0,
+    "audio_end_offset": 1527.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. No island has enough to meet our basic needs, a few steps in the ecosystem and can take advantage of it."
+  },
+  {
+    "audio_start_offset": 1528.0,
+    "audio_end_offset": 1538.5,
+    "speaker_id": "Maggie",
+    "content": "So thank you guys for all your answers. Next question. What would you miss the most?"
+  },
+  {
+    "audio_start_offset": 1539.0,
+    "audio_end_offset": 1540.5,
+    "speaker_id": "Naman",
+    "content": "Family."
+  },
+  {
+    "audio_start_offset": 1541.0,
+    "audio_end_offset": 1541.5,
+    "speaker_id": "Victoria",
+    "content": "People."
+  },
+  {
+    "audio_start_offset": 1542.0,
+    "audio_end_offset": 1542.5,
+    "speaker_id": "Lydia",
+    "content": "Yeah. Other people."
+  },
+  {
+    "audio_start_offset": 1543.0,
+    "audio_end_offset": 1548.5,
+    "speaker_id": "Jeffrey",
+    "content": "Civilization."
+  },
+  {
+    "audio_start_offset": 1549.0,
+    "audio_end_offset": 1567.5,
+    "speaker_id": "Lydia",
+    "content": "It could be right. The civilization part too, that comes, that could be even, I don't know. I would count that plumbing or all that. That's a really broad... I'm saying that encompasses a lot of stuff."
+  },
+  {
+    "audio_start_offset": 1568.0,
+    "audio_end_offset": 1571.5,
+    "speaker_id": "Jeffrey",
+    "content": "We need to think about the things that we take most for granted."
+  },
+  {
+    "audio_start_offset": 1572.0,
+    "audio_end_offset": 1576.5,
+    "speaker_id": "Lydia",
+    "content": "Right."
+  },
+  {
+    "audio_start_offset": 1577.0,
+    "audio_end_offset": 1577.5,
+    "speaker_id": "Victoria",
+    "content": "Great."
+  },
+  {
+    "audio_start_offset": 1578.0,
+    "audio_end_offset": 1584.5,
+    "speaker_id": "Lydia",
+    "content": "A cold drink. It would be something I'd miss a lot."
+  },
+  {
+    "audio_start_offset": 1585.0,
+    "audio_end_offset": 1590.5,
+    "speaker_id": "Jeffrey",
+    "content": "Using my phone. I'm so addicted to this phone."
+  },
+  {
+    "audio_start_offset": 1591.0,
+    "audio_end_offset": 1593.5,
+    "speaker_id": "Lydia",
+    "content": "Being able to see when it's dark outside, lights."
+  },
+  {
+    "audio_start_offset": 1594.0,
+    "audio_end_offset": 1594.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. Electricity."
+  },
+  {
+    "audio_start_offset": 1595.0,
+    "audio_end_offset": 1595.5,
+    "speaker_id": "Lydia",
+    "content": "You can have fire, but..."
+  },
+  {
+    "audio_start_offset": 1596.0,
+    "audio_end_offset": 1611.5,
+    "speaker_id": "Maggie",
+    "content": "Okay. [crosstalk 00:26:53]"
+  },
+  {
+    "audio_start_offset": 1612.0,
+    "audio_end_offset": 1613.5,
+    "speaker_id": "Victoria",
+    "content": "Okay. Sorry."
+  },
+  {
+    "audio_start_offset": 1614.0,
+    "audio_end_offset": 1641.5,
+    "speaker_id": "Maggie",
+    "content": "No, it's all good. So moving on to the next question. So assuming that everybody has been sort of shut in lately, I assume that you have been having more conversations remotely or online. And so what has that been like for you?"
+  },
+  {
+    "audio_start_offset": 1642.0,
+    "audio_end_offset": 1646.5,
+    "speaker_id": "Lydia",
+    "content": "I definitely appreciate it."
+  },
+  {
+    "audio_start_offset": 1647.0,
+    "audio_end_offset": 1649.5,
+    "speaker_id": "Jeffrey",
+    "content": "Yeah. Appreciate being [crosstalk 00:27:28]."
+  },
+  {
+    "audio_start_offset": 1650.0,
+    "audio_end_offset": 1660.5,
+    "speaker_id": "Victoria",
+    "content": "It's nice to be able to have those big group chats on zoom or something. [crosstalk 00:27:41]. It's weird."
+  },
+  {
+    "audio_start_offset": 1661.0,
+    "audio_end_offset": 1664.5,
+    "speaker_id": "Jeffrey",
+    "content": "I appreciate being born in a time where we're able to this."
+  },
+  {
+    "audio_start_offset": 1665.0,
+    "audio_end_offset": 1670.5,
+    "speaker_id": "Lydia",
+    "content": "Yeah, definitely."
+  },
+  {
+    "audio_start_offset": 1671.0,
+    "audio_end_offset": 1679.5,
+    "speaker_id": "Victoria",
+    "content": "Because if you think about pandemic, they're always referring to the 1980s. They didn't have internet."
+  },
+  {
+    "audio_start_offset": 1680.0,
+    "audio_end_offset": 1690.5,
+    "speaker_id": "Naman",
+    "content": "Maybe. The thing I appreciate, talking to people who I wasn't in talking terms lately. And due to this, I have more free time. I can talk to them."
+  },
+  {
+    "audio_start_offset": 1691.0,
+    "audio_end_offset": 1702.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. It's interesting for the people I'm not that close to and have been talking for a bit or reaching out, \"Hey, what's up?\". \"Hey, I finally read this book series you were telling me to read. Let's talk about it\". Or stuff like that."
+  },
+  {
+    "audio_start_offset": 1703.0,
+    "audio_end_offset": 1703.5,
+    "speaker_id": "Lydia",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 1704.0,
+    "audio_end_offset": 1715.5,
+    "speaker_id": "Maggie",
+    "content": "Sorry about that. Let's continue though."
+  },
+  {
+    "audio_start_offset": 1716.0,
+    "audio_end_offset": 1734.5,
+    "speaker_id": "Lydia",
+    "content": "But I guess what was just happening with us too, is something that I've been having a problem with this. It's harder to kind of have body language cues or kind of know who's going to talk when, especially when there's a lot of people. They can't just-"
+  },
+  {
+    "audio_start_offset": 1735.0,
+    "audio_end_offset": 1735.5,
+    "speaker_id": "Victoria",
+    "content": "It's hard to understand people."
+  },
+  {
+    "audio_start_offset": 1736.0,
+    "audio_end_offset": 1742.5,
+    "speaker_id": "Lydia",
+    "content": "But you can't, if you're at a party you could turn to one person and say something to them while someone else is still talking?"
+  },
+  {
+    "audio_start_offset": 1743.0,
+    "audio_end_offset": 1742.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 1743.0,
+    "audio_end_offset": 1748.5,
+    "speaker_id": "Lydia",
+    "content": "But it's..."
+  },
+  {
+    "audio_start_offset": 1749.0,
+    "audio_end_offset": 1774.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. And the body language thing too. I miss talking to people in person. You just can't get the same stuff across and you'll just type them or texts. Or especially if I'm just chatting on messenger and not video chatting, text and they'd be wait, are you mad at me? I'd be, wait, no, I was kidding."
+  },
+  {
+    "audio_start_offset": 1775.0,
+    "audio_end_offset": 1787.5,
+    "speaker_id": "Maggie",
+    "content": "Okay. Great. And so can you think of something new that you've learned yourself in this time? In these last two months?"
+  },
+  {
+    "audio_start_offset": 1788.0,
+    "audio_end_offset": 1790.5,
+    "speaker_id": "Jeffrey",
+    "content": "The last two months?"
+  },
+  {
+    "audio_start_offset": 1791.0,
+    "audio_end_offset": 1792.5,
+    "speaker_id": "Maggie",
+    "content": "This period of being locked up a little bit."
+  },
+  {
+    "audio_start_offset": 1793.0,
+    "audio_end_offset": 1827.5,
+    "speaker_id": "Lydia",
+    "content": "I don't know if this counts as something about myself, but I realized some of the things that I would do. I used to go to a lot of live music shows and I didn't realize. I thought it was how much I truly enjoyed going until I couldn't go. It's those kinds of what kind of experiences or things that I really valued."
+  },
+  {
+    "audio_start_offset": 1828.0,
+    "audio_end_offset": 1830.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 1831.0,
+    "audio_end_offset": 1856.5,
+    "speaker_id": "Jeffrey",
+    "content": "I realized how much time I being online. [crosstalk 00:30:45]. Although being online is great and all of that, I think there's a point where you end up just being on it too much. And I think I've reached that point."
+  },
+  {
+    "audio_start_offset": 1857.0,
+    "audio_end_offset": 1894.5,
+    "speaker_id": "Naman",
+    "content": "I think I realized that how I'm basing time. But how am I making excuses for me to go out every time and, which is bad. If I want to go to the grocery, I'm going once in a week or twice in a week, then I'm increasing that divided, which is good. And also I think I realized that I'm a good cook. [crosstalk 00:31:31]. I never had time to cook anything before. So..."
+  },
+  {
+    "audio_start_offset": 1895.0,
+    "audio_end_offset": 1930.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. I like to enjoy getting the groceries. Because at least I get to go outside and I wear a nice outfit or pajamas every other day. But I guess one thing I realized is that I'm really bad at studying in my house because I used to just go to the Starbucks near me or a coffee shop and study there. And I can't, because they're all closed. And I literally had one class that was my hardest class this semester, that the first two exams I got A's on. And then the last exam, I just got a 60 because I could study so poorly in my home."
+  },
+  {
+    "audio_start_offset": 1931.0,
+    "audio_end_offset": 1937.5,
+    "speaker_id": "Lydia",
+    "content": "Yeah. How dependent some things are on the location or the other factors. That ...yeah."
+  },
+  {
+    "audio_start_offset": 1938.0,
+    "audio_end_offset": 1950.5,
+    "speaker_id": "Naman",
+    "content": "I also realized how I really miss L.A."
+  },
+  {
+    "audio_start_offset": 1951.0,
+    "audio_end_offset": 1952.5,
+    "speaker_id": "Jeffrey",
+    "content": "That's what happens when you go to school far from home."
+  },
+  {
+    "audio_start_offset": 1953.0,
+    "audio_end_offset": 1962.5,
+    "speaker_id": "Naman",
+    "content": "I don't miss my home though. I miss L.A. more."
+  },
+  {
+    "audio_start_offset": 1963.0,
+    "audio_end_offset": 1968.5,
+    "speaker_id": "Victoria",
+    "content": "I'm kind of tired of staying at home."
+  },
+  {
+    "audio_start_offset": 1969.0,
+    "audio_end_offset": 1978.5,
+    "speaker_id": "Maggie",
+    "content": "Great. Thanks for you guys. So how have your relationships changed and then how are you maintaining them in this period?"
+  },
+  {
+    "audio_start_offset": 1979.0,
+    "audio_end_offset": 2002.5,
+    "speaker_id": "Lydia",
+    "content": "When we started, I guess some things that we said then, the last question we're a little bit on that. Of people that haven't really been as communicative with recently or prior to recently have. So I've rekindled some old friendships and stuff, which has been really cool."
+  },
+  {
+    "audio_start_offset": 2003.0,
+    "audio_end_offset": 2013.5,
+    "speaker_id": "Naman",
+    "content": "Yeah. Same here."
+  },
+  {
+    "audio_start_offset": 2014.0,
+    "audio_end_offset": 2030.5,
+    "speaker_id": "Jeffrey",
+    "content": "I'm thinking a couple of a lot people back in high school that used to hang out all the time but now that I don't see them in school, why not just talk to them? [crosstalk 00:33:59]."
+  },
+  {
+    "audio_start_offset": 2031.0,
+    "audio_end_offset": 2042.5,
+    "speaker_id": "Naman",
+    "content": "[crosstalk 00:33:51] which we get and which led us to now talk to others more, maybe."
+  },
+  {
+    "audio_start_offset": 2043.0,
+    "audio_end_offset": 2065.5,
+    "speaker_id": "Lydia",
+    "content": "But I mean, at the same time, I do know a couple of people that have gone through breakups during this, and it's kind of brought out things that were already a problem. Maybe now it just became a lot more acute and yeah. So I guess it could definitely go both ways."
+  },
+  {
+    "audio_start_offset": 2066.0,
+    "audio_end_offset": 2083.5,
+    "speaker_id": "Victoria",
+    "content": "I know I'm not crazy social. And I feel that's the one thing I learned about myself. I don't miss people as much as I thought I would. So besides when people reach out to me and I'll talk to them and besides closest friends, I don't know. I haven't really talked to that many people."
+  },
+  {
+    "audio_start_offset": 2084.0,
+    "audio_end_offset": 2099.5,
+    "speaker_id": "Lydia",
+    "content": "Yeah. Because, that's definitely the other. I've started to talk to a lot of people, but I also know that there's some people who don't really, I don't want to put them on blast too much if I'm I know I used to..."
+  },
+  {
+    "audio_start_offset": 2100.0,
+    "audio_end_offset": 2114.5,
+    "speaker_id": "Maggie",
+    "content": "Okay, thank you, you guys. And then can you think of some things that you like about communicating through only audio and some things that feel that you don't like as much?"
+  },
+  {
+    "audio_start_offset": 2115.0,
+    "audio_end_offset": 2116.5,
+    "speaker_id": "Lydia",
+    "content": "Compared to text or compared to..."
+  },
+  {
+    "audio_start_offset": 2117.0,
+    "audio_end_offset": 2119.5,
+    "speaker_id": "Victoria",
+    "content": "Or video?"
+  },
+  {
+    "audio_start_offset": 2120.0,
+    "audio_end_offset": 2143.5,
+    "speaker_id": "Maggie",
+    "content": "You can compare it to whatever, but I think just trying to think of even in a vacuum or compared to face to face. What do you feel is valuable and what do you feel is restrictive?"
+  },
+  {
+    "audio_start_offset": 2144.0,
+    "audio_end_offset": 2165.5,
+    "speaker_id": "Lydia",
+    "content": "Well, definitely the lack of the body language or other kinds of cues makes things more difficult, but you still have at least the person's voice. So compared to something like texting, you do get some more of that nonverbal stuff, but it's still, obviously not as ideal as being in person."
+  },
+  {
+    "audio_start_offset": 2166.0,
+    "audio_end_offset": 2180.5,
+    "speaker_id": "Victoria",
+    "content": "I think there are some pros as to versus having video with the audio too, because with this, I like that, I don't know. I don't have to worry about what I look like. And then if I have to pee, I can just like mute my microphone and go to the bathroom or something."
+  },
+  {
+    "audio_start_offset": 2181.0,
+    "audio_end_offset": 2191.5,
+    "speaker_id": "Lydia",
+    "content": "Because, yeah. Being able to see yourself on video in a video call is terrible. You just keep looking at yourself and be..."
+  },
+  {
+    "audio_start_offset": 2192.0,
+    "audio_end_offset": 2207.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. You look normal. You're just holding the phone at a weird angle and you're, \"Oh, I guess I have to hold this phone straight in front of me now because when I put my hand down, I looked like a potato.\""
+  },
+  {
+    "audio_start_offset": 2208.0,
+    "audio_end_offset": 2219.5,
+    "speaker_id": "Naman",
+    "content": "I think there's not enough concentration when we are talking on the audio and also on video. I believe in face-to-face conversations."
+  },
+  {
+    "audio_start_offset": 2220.0,
+    "audio_end_offset": 2221.5,
+    "speaker_id": "Victoria",
+    "content": "Yeah. I like face-to-face a lot more."
+  },
+  {
+    "audio_start_offset": 2222.0,
+    "audio_end_offset": 2223.5,
+    "speaker_id": "Naman",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 2224.0,
+    "audio_end_offset": 2230.5,
+    "speaker_id": "Lydia",
+    "content": "That's true. It is a little harder to kind of keep the focus because you can do something out. It's easier to do something else when you don't have something to look at."
+  },
+  {
+    "audio_start_offset": 2231.0,
+    "audio_end_offset": 2236.5,
+    "speaker_id": "Naman",
+    "content": "You're scrolling to Facebook and you are talking and the other person knows exactly you're not interested. [crosstalk 00:37:23]."
+  },
+  {
+    "audio_start_offset": 2237.0,
+    "audio_end_offset": 2242.5,
+    "speaker_id": "Lydia",
+    "content": "I mean, people do that in real life sometimes too."
+  },
+  {
+    "audio_start_offset": 2243.0,
+    "audio_end_offset": 2248.5,
+    "speaker_id": "Victoria",
+    "content": "I mean hopefully not right in front of you, but sometimes, yeah."
+  },
+  {
+    "audio_start_offset": 2249.0,
+    "audio_end_offset": 2252.5,
+    "speaker_id": "Lydia",
+    "content": "I had a friend who used to swipe on Tinder while we would talk. And I'm, can you not do that right now?"
+  },
+  {
+    "audio_start_offset": 2253.0,
+    "audio_end_offset": 2261.5,
+    "speaker_id": "Victoria",
+    "content": "She's keeping you nearby in case she wants your input."
+  },
+  {
+    "audio_start_offset": 2262.0,
+    "audio_end_offset": 2287.5,
+    "speaker_id": "Maggie",
+    "content": "All right guys, thanks so much for having this conversation. I'm going to post the post-survey and the chat now. And once you get it, you can hop off this call. Thank you so much for participating. And I will get you gift cards. Maybe not by the end of this week, seeing as is Friday, but by the end of next week, by next Friday. All right. So there's the post-survey."
+  },
+  {
+    "audio_start_offset": 2288.0,
+    "audio_end_offset": 2288.5,
+    "speaker_id": "Victoria",
+    "content": "Thank you."
+  },
+  {
+    "audio_start_offset": 2289.0,
+    "audio_end_offset": 2289.5,
+    "speaker_id": "Maggie",
+    "content": "Yeah. Thanks so much you guys. Have a nice day."
+  },
+  {
+    "audio_start_offset": 2290.0,
+    "audio_end_offset": 2289.5,
+    "speaker_id": "Victoria",
+    "content": "You too."
+  },
+  {
+    "audio_start_offset": 2290.0,
+    "audio_end_offset": 2293.5,
+    "speaker_id": "Naman",
+    "content": "Have a nice day."
+  },
+  {
+    "audio_start_offset": 2294.0,
+    "audio_end_offset": 2295.5,
+    "speaker_id": "Lydia",
+    "content": "Nice to talk with you."
+  },
+  {
+    "audio_start_offset": 2296.0,
+    "audio_end_offset": 2297.5,
+    "speaker_id": "Victoria",
+    "content": "It was nice meeting you guys."
+  },
+  {
+    "audio_start_offset": 2298.0,
+    "audio_end_offset": 2302.5,
+    "speaker_id": "Lydia",
+    "content": "And good luck with everything. Naman, I hope you get back to L.A. soon."
+  },
+  {
+    "audio_start_offset": 2303.0,
+    "audio_end_offset": 2308.5,
+    "speaker_id": "Naman",
+    "content": "Yeah, I don't know. My lease has ended. So I guess I'll be staying here only."
+  },
+  {
+    "audio_start_offset": 2309.0,
+    "audio_end_offset": 2313.5,
+    "speaker_id": "Lydia",
+    "content": "Well, Boston isn't such a bad place."
+  },
+  {
+    "audio_start_offset": 2314.0,
+    "audio_end_offset": 2316.5,
+    "speaker_id": "Naman",
+    "content": "Yeah. I don't like snow. So.. [crosstalk 00:38:40]."
+  },
+  {
+    "audio_start_offset": 2317.0,
+    "audio_end_offset": 2325.5,
+    "speaker_id": "Lydia",
+    "content": "Well, you have a little while then before you have... [crosstalk 00:38:43]."
+  },
+  {
+    "audio_start_offset": 2326.0,
+    "audio_end_offset": 2326.5,
+    "speaker_id": "Naman",
+    "content": "Stay safe everyone."
+  },
+  {
+    "audio_start_offset": 2327.0,
+    "audio_end_offset": 2326.5,
+    "speaker_id": "Victoria",
+    "content": "You too."
+  },
+  {
+    "audio_start_offset": 2327.0,
+    "audio_end_offset": 2326.5,
+    "speaker_id": "Lydia",
+    "content": "You too."
+  },
+  {
+    "audio_start_offset": 2327.0,
+    "audio_end_offset": 2327.6,
+    "speaker_id": "Victoria",
+    "content": "Goodbye."
+  }
+]

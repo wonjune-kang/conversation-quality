@@ -1,0 +1,578 @@
+[
+  {
+    "audio_start_offset": 0.0,
+    "audio_end_offset": 11.5,
+    "speaker_id": "Speaker 1",
+    "content": "Great, okay. So now what we're going to do is imagine that you are going to be trapped on a desert island and you have to bring one practical thing."
+  },
+  {
+    "audio_start_offset": 12.0,
+    "audio_end_offset": 23.5,
+    "speaker_id": "Speaker 1",
+    "content": "What would you bring, and why?"
+  },
+  {
+    "audio_start_offset": 24.0,
+    "audio_end_offset": 28.5,
+    "speaker_id": "Daisy",
+    "content": "I feel like I'd bring my phone."
+  },
+  {
+    "audio_start_offset": 29.0,
+    "audio_end_offset": 30.5,
+    "speaker_id": "Allie",
+    "content": "Yeah, true."
+  },
+  {
+    "audio_start_offset": 31.0,
+    "audio_end_offset": 33.5,
+    "speaker_id": "Speaker 1",
+    "content": "Nice, and once you have that you can put that in the chat as well."
+  },
+  {
+    "audio_start_offset": 34.0,
+    "audio_end_offset": 42.5,
+    "speaker_id": "Daisy",
+    "content": "Is there a signal on this island?"
+  },
+  {
+    "audio_start_offset": 43.0,
+    "audio_end_offset": 45.5,
+    "speaker_id": "Speaker 1",
+    "content": "Oh, is there a signal on the island? I'm not sure."
+  },
+  {
+    "audio_start_offset": 46.0,
+    "audio_end_offset": 77.5,
+    "speaker_id": "Daisy",
+    "content": "Yeah, I'd still bring my phone."
+  },
+  {
+    "audio_start_offset": 78.0,
+    "audio_end_offset": 81.5,
+    "speaker_id": "Speaker 1",
+    "content": "Any other ideas?"
+  },
+  {
+    "audio_start_offset": 82.0,
+    "audio_end_offset": 87.5,
+    "speaker_id": "Leah",
+    "content": "I feel like I'd bring a water filter purifying thing."
+  },
+  {
+    "audio_start_offset": 88.0,
+    "audio_end_offset": 87.5,
+    "speaker_id": "Ching",
+    "content": "Yeah, that's a good idea."
+  },
+  {
+    "audio_start_offset": 88.0,
+    "audio_end_offset": 115.5,
+    "speaker_id": "Daisy",
+    "content": "That's a good one."
+  },
+  {
+    "audio_start_offset": 116.0,
+    "audio_end_offset": 130.5,
+    "speaker_id": "Speaker 1",
+    "content": "Okay, great. So then if you could bring one meaningful thing, what would you bring and why?"
+  },
+  {
+    "audio_start_offset": 131.0,
+    "audio_end_offset": 133.5,
+    "speaker_id": "Leah",
+    "content": "Did you say, \"meaningful?\""
+  },
+  {
+    "audio_start_offset": 134.0,
+    "audio_end_offset": 134.5,
+    "speaker_id": "Speaker 1",
+    "content": "Yes, yeah."
+  },
+  {
+    "audio_start_offset": 135.0,
+    "audio_end_offset": 165.5,
+    "speaker_id": "Leah",
+    "content": "Okay. I think I'd bring my guitar because it's like my family's guitar too. It's important."
+  },
+  {
+    "audio_start_offset": 166.0,
+    "audio_end_offset": 210.5,
+    "speaker_id": "Allie",
+    "content": "Yeah I'd probably bring a picture of family or something as motivation to try and get off the island."
+  },
+  {
+    "audio_start_offset": 211.0,
+    "audio_end_offset": 211.5,
+    "speaker_id": "Speaker 1",
+    "content": "Any other ideas?"
+  },
+  {
+    "audio_start_offset": 212.0,
+    "audio_end_offset": 239.5,
+    "speaker_id": "Speaker 1",
+    "content": "Okay. What is one person that you would bring, and why?"
+  },
+  {
+    "audio_start_offset": 240.0,
+    "audio_end_offset": 249.5,
+    "speaker_id": "Allie",
+    "content": "I feel like my mom, because she knows the answer to everything."
+  },
+  {
+    "audio_start_offset": 250.0,
+    "audio_end_offset": 254.5,
+    "speaker_id": "Daisy",
+    "content": "Yeah, I feel like I'd bring my dad because he'd be able to get us out of it."
+  },
+  {
+    "audio_start_offset": 255.0,
+    "audio_end_offset": 258.5,
+    "speaker_id": "Leah",
+    "content": "Yeah, I'd bring my dad. He's very survivalist."
+  },
+  {
+    "audio_start_offset": 259.0,
+    "audio_end_offset": 269.5,
+    "speaker_id": "Ching",
+    "content": "I would bring my mom."
+  },
+  {
+    "audio_start_offset": 270.0,
+    "audio_end_offset": 280.5,
+    "speaker_id": "Speaker 1",
+    "content": "Could you tell a story of why you would bring that person, or what exemplifies the reason that you would bring them?"
+  },
+  {
+    "audio_start_offset": 281.0,
+    "audio_end_offset": 293.5,
+    "speaker_id": "Leah",
+    "content": "My dad and I just go camping a lot and he taught me how to make a fire, and pitch a tent, and everything about the woods and stuff."
+  },
+  {
+    "audio_start_offset": 294.0,
+    "audio_end_offset": 297.5,
+    "speaker_id": "Allie",
+    "content": "My mom loves nature and she's really crafty, so we would be able to get out of there."
+  },
+  {
+    "audio_start_offset": 298.0,
+    "audio_end_offset": 314.5,
+    "speaker_id": "Daisy",
+    "content": "I feel like, my dad just knows everything."
+  },
+  {
+    "audio_start_offset": 315.0,
+    "audio_end_offset": 335.5,
+    "speaker_id": "Ching",
+    "content": "I think for me growing up, I'm just closer to my mom than my dad."
+  },
+  {
+    "audio_start_offset": 336.0,
+    "audio_end_offset": 348.5,
+    "speaker_id": "Speaker 1",
+    "content": "Okay, and then what would you miss the most and why?"
+  },
+  {
+    "audio_start_offset": 349.0,
+    "audio_end_offset": 352.5,
+    "speaker_id": "Leah",
+    "content": "Like a thing, or a person?"
+  },
+  {
+    "audio_start_offset": 353.0,
+    "audio_end_offset": 364.5,
+    "speaker_id": "Speaker 1",
+    "content": "Whichever, we can start with thing or activity."
+  },
+  {
+    "audio_start_offset": 365.0,
+    "audio_end_offset": 368.5,
+    "speaker_id": "Leah",
+    "content": "I'd probably miss hanging out with my friends."
+  },
+  {
+    "audio_start_offset": 369.0,
+    "audio_end_offset": 380.5,
+    "speaker_id": "Daisy",
+    "content": "Yeah, same."
+  },
+  {
+    "audio_start_offset": 381.0,
+    "audio_end_offset": 391.5,
+    "speaker_id": "Ching",
+    "content": "I'd miss taking a walk with my mom at night after dinner. I haven't had a chance to do that for a long time."
+  },
+  {
+    "audio_start_offset": 392.0,
+    "audio_end_offset": 418.5,
+    "speaker_id": "Allie",
+    "content": "I'd miss just having electricity because I think there's a lot that we take for granted with that."
+  },
+  {
+    "audio_start_offset": 419.0,
+    "audio_end_offset": 435.5,
+    "speaker_id": "Speaker 1",
+    "content": "Okay, great. So next, assuming that folks have been having more online conversations lately, do you feel like you have been having more online conversations? And then if you do, what has that been like for you?"
+  },
+  {
+    "audio_start_offset": 436.0,
+    "audio_end_offset": 454.5,
+    "speaker_id": "Leah",
+    "content": "I think just in terms of classes, because I have a lot of online classes, it's more difficult because everyone just doesn't feel as present I think, and I think the teacher and students notice that."
+  },
+  {
+    "audio_start_offset": 455.0,
+    "audio_end_offset": 472.5,
+    "speaker_id": "Leah",
+    "content": "And then in terms of my friends, we video chat every night and it's kind of like it's one thing to see each other over a screen, but then you realize how much more talking in person is important."
+  },
+  {
+    "audio_start_offset": 473.0,
+    "audio_end_offset": 489.5,
+    "speaker_id": "Allie",
+    "content": "Yeah, I feel like I've definitely been having more online conversations and I think it's difficult because you can't necessarily do anything with the other person, so it's just a different kind of conversation."
+  },
+  {
+    "audio_start_offset": 490.0,
+    "audio_end_offset": 522.5,
+    "speaker_id": "Daisy",
+    "content": "Yeah, I agree. I've been having a lot more online conversation for sure, and I think it's a different experience than having a physical presence in the room. It's definitely a little harder to coordinate."
+  },
+  {
+    "audio_start_offset": 523.0,
+    "audio_end_offset": 534.5,
+    "speaker_id": "Speaker 1",
+    "content": "Okay, great. And then has anything about having these online conversations been surprising for you, and if so, what?"
+  },
+  {
+    "audio_start_offset": 535.0,
+    "audio_end_offset": 549.5,
+    "speaker_id": "Daisy",
+    "content": "I think I definitely talk to people more online now than I had before just in terms of numbers of people that normally you wouldn't see for like a year at a time. Like I'll see them."
+  },
+  {
+    "audio_start_offset": 550.0,
+    "audio_end_offset": 554.5,
+    "speaker_id": "Daisy",
+    "content": "Like my college friends aren't my friends."
+  },
+  {
+    "audio_start_offset": 555.0,
+    "audio_end_offset": 568.5,
+    "speaker_id": "Allie",
+    "content": "Well, I think it's easier to talk to a lot of people at once over the internet. If someone creates a Zoom call it's a bunch of people on it that I probably wouldn't normally all interact with at one time."
+  },
+  {
+    "audio_start_offset": 569.0,
+    "audio_end_offset": 601.5,
+    "speaker_id": "Leah",
+    "content": "Yeah, I think my friends and I are a lot more, like we kind of talk about more important things and like actually do things instead of watching TV or those usual hangout things you do with friends since we're kind of forced to talk to each other. Does that make sense?"
+  },
+  {
+    "audio_start_offset": 602.0,
+    "audio_end_offset": 610.5,
+    "speaker_id": "Speaker 1",
+    "content": "Okay, great. Is there anything new that you've learned about yourself in the past two months?"
+  },
+  {
+    "audio_start_offset": 611.0,
+    "audio_end_offset": 623.5,
+    "speaker_id": "Daisy",
+    "content": "I think it's really hard for me to be here at a time to be honest. I feel like I realized that I enjoy the company of people more than I had realized."
+  },
+  {
+    "audio_start_offset": 624.0,
+    "audio_end_offset": 640.5,
+    "speaker_id": "Allie",
+    "content": "Yeah, I think I'd probably like more opportunity to be outside, and normally I'm inside or going somewhere, and I think I'm just being more present and enjoying nature, and things like that. You are kind of limited to what you can do."
+  },
+  {
+    "audio_start_offset": 641.0,
+    "audio_end_offset": 669.5,
+    "speaker_id": "Leah",
+    "content": "I feel like I'm used to being very outgoing and a big extrovert but this is kind of making me realize that I do like alone time, and I like kind of working on myself a little."
+  },
+  {
+    "audio_start_offset": 670.0,
+    "audio_end_offset": 680.5,
+    "speaker_id": "Speaker 1",
+    "content": "Great. What strategies are you using to maintain relationships?"
+  },
+  {
+    "audio_start_offset": 681.0,
+    "audio_end_offset": 687.5,
+    "speaker_id": "Leah",
+    "content": "Zoom group chats, calling each other, stuff like that."
+  },
+  {
+    "audio_start_offset": 688.0,
+    "audio_end_offset": 697.5,
+    "speaker_id": "Daisy",
+    "content": "Yeah, same."
+  },
+  {
+    "audio_start_offset": 698.0,
+    "audio_end_offset": 723.5,
+    "speaker_id": "Allie",
+    "content": "Yeah. I pretty much do the same thing or sometimes I'll go on a walk outside with someone."
+  },
+  {
+    "audio_start_offset": 724.0,
+    "audio_end_offset": 737.5,
+    "speaker_id": "Speaker 1",
+    "content": "Okay, great. Now we're going to switch topics a little bit. What advice would you give children that are just starting to use social media?"
+  },
+  {
+    "audio_start_offset": 738.0,
+    "audio_end_offset": 745.5,
+    "speaker_id": "Allie",
+    "content": "I think just take what you're seeing for granted and that you're probably only seeing the highlights of someone else's life."
+  },
+  {
+    "audio_start_offset": 746.0,
+    "audio_end_offset": 759.5,
+    "speaker_id": "Allie",
+    "content": "It can be difficult not to compare yourself, but try to refrain from doing that because you're not necessarily seeing everything about what someone else is going through."
+  },
+  {
+    "audio_start_offset": 760.0,
+    "audio_end_offset": 774.5,
+    "speaker_id": "Daisy",
+    "content": "I think also be careful what you post. I know everyone else says that, but would you want to see that 10 years from now then say, \"oh okay here come the past\"?"
+  },
+  {
+    "audio_start_offset": 775.0,
+    "audio_end_offset": 801.5,
+    "speaker_id": "Leah",
+    "content": "Yeah I agree about knowing that everyone on social media is kind of making themselves look as best they can and that you're not seeing the behind the scenes. Also making accounts private. If you're young, I feel like that's important."
+  },
+  {
+    "audio_start_offset": 802.0,
+    "audio_end_offset": 831.5,
+    "speaker_id": "Ching",
+    "content": "Also, I feel like it's important not to be subjective about someone's posts. Always be careful not to over-express personal feeling on social media."
+  },
+  {
+    "audio_start_offset": 832.0,
+    "audio_end_offset": 840.5,
+    "speaker_id": "Speaker 1",
+    "content": "Great. Do you think social media makes us more vain?"
+  },
+  {
+    "audio_start_offset": 841.0,
+    "audio_end_offset": 866.5,
+    "speaker_id": "Allie",
+    "content": "I think in a certain sense, yeah. Because I feel like there's a lot of ways you can use social media to become more materialistic, and so when everyone posts something they generally feel positive about it but they also might want to show off something that they think that they have that another person might not, so I think it does."
+  },
+  {
+    "audio_start_offset": 867.0,
+    "audio_end_offset": 883.5,
+    "speaker_id": "Leah",
+    "content": "Yeah, I think in one way it does make us more vain in terms of getting the perfect photo or something like that, but at the same time I think that social media has made an outlet for expressing yourself and kind of finding people like you."
+  },
+  {
+    "audio_start_offset": 884.0,
+    "audio_end_offset": 914.5,
+    "speaker_id": "Daisy",
+    "content": "I think yeah, a little bit it did make us more vain but I think that I agree. I think it's a good outlet to find people who have similar ideas or values that are similar to you."
+  },
+  {
+    "audio_start_offset": 915.0,
+    "audio_end_offset": 931.5,
+    "speaker_id": "Ching",
+    "content": "Yeah, I agree. Social media is making people vain, at least a lot of them."
+  },
+  {
+    "audio_start_offset": 932.0,
+    "audio_end_offset": 939.5,
+    "speaker_id": "Speaker 1",
+    "content": "Great. Should children be taught social and emotional skills like grit in school?"
+  },
+  {
+    "audio_start_offset": 940.0,
+    "audio_end_offset": 951.5,
+    "speaker_id": "Allie",
+    "content": "I think that's something that's kind of hard to teach. I think it is something that you can model, so I feel like that might be an effective way."
+  },
+  {
+    "audio_start_offset": 952.0,
+    "audio_end_offset": 973.5,
+    "speaker_id": "Daisy",
+    "content": "I think they should at least be exposed to the idea that these concepts exist, because for me at least like I never, we had a lecture in it recently but until then I never really knew what it was. We'd never been exposed to it before."
+  },
+  {
+    "audio_start_offset": 974.0,
+    "audio_end_offset": 977.5,
+    "speaker_id": "Leah",
+    "content": "Could you repeat the question? I think my sound cut out when you said it."
+  },
+  {
+    "audio_start_offset": 978.0,
+    "audio_end_offset": 988.5,
+    "speaker_id": "Speaker 1",
+    "content": "Yeah, for sure. Should children be taught social and emotional skills like grit in school?"
+  },
+  {
+    "audio_start_offset": 989.0,
+    "audio_end_offset": 1018.5,
+    "speaker_id": "Leah",
+    "content": "Yeah, I agree that it's not exactly taught more like exemplified, but I also think that emotion should be talked about and mental health and stuff like that more than it is now."
+  },
+  {
+    "audio_start_offset": 1019.0,
+    "audio_end_offset": 1027.5,
+    "speaker_id": "Speaker 1",
+    "content": "Okay. Do we push high school children in school too hard?"
+  },
+  {
+    "audio_start_offset": 1028.0,
+    "audio_end_offset": 1052.5,
+    "speaker_id": "Allie",
+    "content": "I definitely think education now is a lot more competitive than it used to be. A lot of people feel pressured to take on as many things they can so that they can put it on their resume or look better for the next stage in life, but sometimes I feel like you have to remember that you're just a kid and the mistakes you make are part of a grinding process."
+  },
+  {
+    "audio_start_offset": 1053.0,
+    "audio_end_offset": 1077.5,
+    "speaker_id": "Leah",
+    "content": "Yeah. I feel like especially early education and then high school is really focused on the next step and not learning. It's kind of about getting the materials for the next step which is important, but it's also important that you have the skills at a young age and you're not just rushing through them."
+  },
+  {
+    "audio_start_offset": 1078.0,
+    "audio_end_offset": 1116.5,
+    "speaker_id": "Daisy",
+    "content": "Yeah, I agree. I think education now is definitely a lot different and a lot more competitive than I guess, then to through with primary education. I agree, I think students should be taught to kind of enjoy where they are instead of trying to get to the next step."
+  },
+  {
+    "audio_start_offset": 1117.0,
+    "audio_end_offset": 1122.5,
+    "speaker_id": "Speaker 1",
+    "content": "What do you see as the role of art in our society?"
+  },
+  {
+    "audio_start_offset": 1123.0,
+    "audio_end_offset": 1150.5,
+    "speaker_id": "Allie",
+    "content": "I think it's a good way to express certain opinions or ideas or feelings, and it's a really good outlet for stress and creativity. A lot of people's talents can be very different. I think a lot of people focus on school or that kind of intelligence, but art is also an intelligence, to be able to do that."
+  },
+  {
+    "audio_start_offset": 1151.0,
+    "audio_end_offset": 1169.5,
+    "speaker_id": "Leah",
+    "content": "Yeah, I think art is really important and kind of expressing yourself, and also expressing culture and history. I think it should also be taught that art is for everyone, it's not necessarily that you're good or bad at art, it's just about whether you're willing to actually do it."
+  },
+  {
+    "audio_start_offset": 1170.0,
+    "audio_end_offset": 1175.5,
+    "speaker_id": "Speaker 6",
+    "content": "Hi sorry, can you repeat the question? I don't know what just happened."
+  },
+  {
+    "audio_start_offset": 1176.0,
+    "audio_end_offset": 1178.5,
+    "speaker_id": "Speaker 1",
+    "content": "Sorry, did you just join the conversation or have you been in for awhile?"
+  },
+  {
+    "audio_start_offset": 1179.0,
+    "audio_end_offset": 1184.5,
+    "speaker_id": "Speaker 6",
+    "content": "No, I was here and then for some reason it... And then I rejoined."
+  },
+  {
+    "audio_start_offset": 1185.0,
+    "audio_end_offset": 1202.5,
+    "speaker_id": "Speaker 1",
+    "content": "Okay, great. The question is what is the role of art in society?"
+  },
+  {
+    "audio_start_offset": 1203.0,
+    "audio_end_offset": 1204.5,
+    "speaker_id": "Daisy",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 1205.0,
+    "audio_end_offset": 1223.5,
+    "speaker_id": "Speaker 6",
+    "content": "I think art allows us to express a creative side that you don't really get necessarily through schooling, and then kind of helps you develop a hobby other than just studying."
+  },
+  {
+    "audio_start_offset": 1224.0,
+    "audio_end_offset": 1257.5,
+    "speaker_id": "Ching",
+    "content": "I think art is an important part of our life actually. There are people who pursue art as. So yeah, it's an important part of the society of course."
+  },
+  {
+    "audio_start_offset": 1258.0,
+    "audio_end_offset": 1274.5,
+    "speaker_id": "Speaker 1",
+    "content": "Okay, can you tell me your initial thoughts and reactions, and just feelings towards communicating in audio only mediums?"
+  },
+  {
+    "audio_start_offset": 1275.0,
+    "audio_end_offset": 1293.5,
+    "speaker_id": "Leah",
+    "content": "I think it's kind of weird just not seeing people's faces, but at the same time when you do see someone's face in a video chat it can become awkward, whereas I feel like in person it's not."
+  },
+  {
+    "audio_start_offset": 1294.0,
+    "audio_end_offset": 1295.5,
+    "speaker_id": "Allie",
+    "content": "[crosstalk 00:31:59] I'm sorry, go ahead."
+  },
+  {
+    "audio_start_offset": 1296.0,
+    "audio_end_offset": 1314.5,
+    "speaker_id": "Speaker 6",
+    "content": "I agree. I think it is just easier to take communicate via just audio when you're on a video chat so you're not staring at someone's face in an awkward angle, but in person it's definitely a lot nicer to see someone's face."
+  },
+  {
+    "audio_start_offset": 1315.0,
+    "audio_end_offset": 1339.5,
+    "speaker_id": "Allie",
+    "content": "Yeah I think sometimes where video calls can be distracting, and even just seeing your own face can be distracting because you can see what expressions you're giving off, so you can kind of lose that connection."
+  },
+  {
+    "audio_start_offset": 1340.0,
+    "audio_end_offset": 1383.5,
+    "speaker_id": "Ching",
+    "content": "I agree. Audio will be easier to talk to someone who is for strangers, but face to face, if you meet with strangers face to face will be easier because you can see her expressions and then you can express your friendliness when you first meet a stranger. But audio for this situation will be better than directly video chatting each other, which will be awkward at first."
+  },
+  {
+    "audio_start_offset": 1384.0,
+    "audio_end_offset": 1408.5,
+    "speaker_id": "Speaker 1",
+    "content": "Great, okay. Thank you all for completing this. I'm going to send a post-survey now, and so once you get access to the post-survey you should feel free to hop off the Google hangout. Thank you so much for participating and let me know if you have any problems reaching the post-survey."
+  },
+  {
+    "audio_start_offset": 1409.0,
+    "audio_end_offset": 1408.5,
+    "speaker_id": "Allie",
+    "content": "Thank you."
+  },
+  {
+    "audio_start_offset": 1409.0,
+    "audio_end_offset": 1409.5,
+    "speaker_id": "Ching",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 1410.0,
+    "audio_end_offset": 1410.5,
+    "speaker_id": "Speaker 6",
+    "content": "Yeah, thanks so much."
+  },
+  {
+    "audio_start_offset": 1411.0,
+    "audio_end_offset": 1411.5,
+    "speaker_id": "Leah",
+    "content": "Thank you."
+  },
+  {
+    "audio_start_offset": 1412.0,
+    "audio_end_offset": 1413.2,
+    "speaker_id": "Daisy",
+    "content": "Thank you."
+  }
+]

@@ -1,0 +1,1640 @@
+[
+  {
+    "audio_start_offset": 0.0,
+    "audio_end_offset": 8.4,
+    "speaker_id": "Maggie Hughes",
+    "content": "Great. Okay. So what we're gonna do is we're gonna have a conversation, first with a few quick activities and then we're going to dive in more to an open"
+  },
+  {
+    "audio_start_offset": 9.3,
+    "audio_end_offset": 17.34,
+    "speaker_id": "Maggie Hughes",
+    "content": "Question period. But first, to start could everybody just introduce themselves and in any order. Say your name and where you're at in the world."
+  },
+  {
+    "audio_start_offset": 22.08,
+    "audio_end_offset": 26.88,
+    "speaker_id": "Joshua",
+    "content": "Yeah, I can go. Um, so my name is Joshua. I'm currently"
+  },
+  {
+    "audio_start_offset": 28.14,
+    "audio_end_offset": 30.15,
+    "speaker_id": "Joshua",
+    "content": "based out of the Bay Area in California."
+  },
+  {
+    "audio_start_offset": 35.61,
+    "audio_end_offset": 39.69,
+    "speaker_id": "Itay Dvir",
+    "content": "Me tie. I'm currently in Los Angeles, California."
+  },
+  {
+    "audio_start_offset": 42.45,
+    "audio_end_offset": 45.3,
+    "speaker_id": "Ria Rungta",
+    "content": "Well, my name is Olivia and I'm in the city and the"
+  },
+  {
+    "audio_start_offset": 47.88,
+    "audio_end_offset": 51.09,
+    "speaker_id": "Maggie Hughes",
+    "content": "Great. And my name is Maggie and I'm in Boston, Massachusetts."
+  },
+  {
+    "audio_start_offset": 52.29,
+    "audio_end_offset": 60.48,
+    "speaker_id": "Maggie Hughes",
+    "content": "Awesome. So just to get started we're going to do is try to brainstorm a few things that each of you share in common with one another."
+  },
+  {
+    "audio_start_offset": 61.02,
+    "audio_end_offset": 75.36,
+    "speaker_id": "Maggie Hughes",
+    "content": "This can be anything from food to personality to experiences you've had, we're going to try to steer clear of physical or obvious things like, oh, I'm sitting in front of a computer, we're all sitting in front of a computer or I have a body and so forth."
+  },
+  {
+    "audio_start_offset": 76.71,
+    "audio_end_offset": 85.56,
+    "speaker_id": "Maggie Hughes",
+    "content": "We're going to just do this for a few minutes. So if you guys could try to brainstorm a few ideas of things you all share in common, and then I'll visualize your answers in the top left hand corner."
+  },
+  {
+    "audio_start_offset": 86.61,
+    "audio_end_offset": 87.84,
+    "speaker_id": "Maggie Hughes",
+    "content": "Go ahead. Whenever you're ready."
+  },
+  {
+    "audio_start_offset": 91.2,
+    "audio_end_offset": 92.85,
+    "speaker_id": "Itay Dvir",
+    "content": "Great. Where do you go to school."
+  },
+  {
+    "audio_start_offset": 94.83,
+    "audio_end_offset": 95.37,
+    "speaker_id": "Itay Dvir",
+    "content": "How old are you,"
+  },
+  {
+    "audio_start_offset": 97.35,
+    "audio_end_offset": 101.16,
+    "speaker_id": "Ria Rungta",
+    "content": "Oh, I'm so I'm 23 and I just graduated from here."
+  },
+  {
+    "audio_start_offset": 104.1,
+    "audio_end_offset": 107.61,
+    "speaker_id": "Joshua",
+    "content": "I'm you Chicago junior right now we"
+  },
+  {
+    "audio_start_offset": 108.9,
+    "audio_end_offset": 111.75,
+    "speaker_id": "Itay Dvir",
+    "content": "I'm a, I'm a rising junior poverty. Okay."
+  },
+  {
+    "audio_start_offset": 113.97,
+    "audio_end_offset": 115.62,
+    "speaker_id": "Itay Dvir",
+    "content": "So I don't know how that could help us."
+  },
+  {
+    "audio_start_offset": 121.53,
+    "audio_end_offset": 125.85,
+    "speaker_id": "Itay Dvir",
+    "content": "What do you, what do you study, what did you all study. Like, what did you"
+  },
+  {
+    "audio_start_offset": 129.96,
+    "audio_end_offset": 131.61,
+    "speaker_id": "Itay Dvir",
+    "content": "Did you get some concerts."
+  },
+  {
+    "audio_start_offset": 132.96,
+    "audio_end_offset": 134.28,
+    "speaker_id": "Ria Rungta",
+    "content": "Oh, I studied public"
+  },
+  {
+    "audio_start_offset": 136.98,
+    "audio_end_offset": 139.11,
+    "speaker_id": "Joshua",
+    "content": "I am economics and computer science."
+  },
+  {
+    "audio_start_offset": 141.06,
+    "audio_end_offset": 144.12,
+    "speaker_id": "Itay Dvir",
+    "content": "Okay, cool. I'm doing applied math with econ great"
+  },
+  {
+    "audio_start_offset": 144.66,
+    "audio_end_offset": 145.29,
+    "speaker_id": "Itay Dvir",
+    "content": "We have you"
+  },
+  {
+    "audio_start_offset": 145.68,
+    "audio_end_offset": 146.28,
+    "speaker_id": "<UNK>",
+    "content": "For taking me"
+  },
+  {
+    "audio_start_offset": 147.48,
+    "audio_end_offset": 152.85,
+    "speaker_id": "Ria Rungta",
+    "content": "I have I to me. Yeah, I took a micro econ club which I like. So I guess have something in common."
+  },
+  {
+    "audio_start_offset": 154.11,
+    "audio_end_offset": 159.15,
+    "speaker_id": "Itay Dvir",
+    "content": "Okay. Do you like that Joshua. If you're studying. I'm wondering, do you like it as well."
+  },
+  {
+    "audio_start_offset": 160.17,
+    "audio_end_offset": 162.18,
+    "speaker_id": "Joshua",
+    "content": "Yeah, let's go with that. Let's go."
+  },
+  {
+    "audio_start_offset": 165.03,
+    "audio_end_offset": 167.31,
+    "speaker_id": "Itay Dvir",
+    "content": "Okay, so that's another thing. Good stuff."
+  },
+  {
+    "audio_start_offset": 170.52,
+    "audio_end_offset": 171.96,
+    "speaker_id": "Maggie Hughes",
+    "content": "Is it that everybody likes econ"
+  },
+  {
+    "audio_start_offset": 172.86,
+    "audio_end_offset": 173.85,
+    "speaker_id": "Joshua",
+    "content": "Yeah yeah"
+  },
+  {
+    "audio_start_offset": 173.91,
+    "audio_end_offset": 174.21,
+    "speaker_id": "<UNK>",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 186.75,
+    "audio_end_offset": 194.82,
+    "speaker_id": "Joshua",
+    "content": "Maybe one thing is, do you guys have an idea of what you want your careers to be or where you want, what do you want to do after college, or I guess what you are doing your"
+  },
+  {
+    "audio_start_offset": 198.15,
+    "audio_end_offset": 199.47,
+    "speaker_id": "Ria Rungta",
+    "content": "Job. Well, I'm just going to"
+  },
+  {
+    "audio_start_offset": 202.14,
+    "audio_end_offset": 202.35,
+    "speaker_id": "Ria Rungta",
+    "content": "Go."
+  },
+  {
+    "audio_start_offset": 203.43,
+    "audio_end_offset": 203.88,
+    "speaker_id": "Ria Rungta",
+    "content": "In"
+  },
+  {
+    "audio_start_offset": 206.76,
+    "audio_end_offset": 207.75,
+    "speaker_id": "Joshua",
+    "content": "That's awesome. Okay."
+  },
+  {
+    "audio_start_offset": 211.41,
+    "audio_end_offset": 222.3,
+    "speaker_id": "Itay Dvir",
+    "content": "I'm not too sure it's going to change. I think it's changed a lot down the line. I think maybe at the beginning, something related to business consulting, something like that. And then entrepreneurship, but we shall see. How about you."
+  },
+  {
+    "audio_start_offset": 222.87,
+    "audio_end_offset": 230.37,
+    "speaker_id": "Joshua",
+    "content": "Definitely. Um, yes. So for me, I'm going to go and I'm hoping to go into finance. Um, but I think sort of along the lines is long term."
+  },
+  {
+    "audio_start_offset": 231.12,
+    "audio_end_offset": 241.98,
+    "speaker_id": "Joshua",
+    "content": "I want to pivot into something tech related. So something slightly more entrepreneurial I'm sort of taking that thought maybe one of the things that we could say is, we're all"
+  },
+  {
+    "audio_start_offset": 243.51,
+    "audio_end_offset": 247.68,
+    "speaker_id": "Joshua",
+    "content": "Going into the business, per se, sort of like finance business consulting"
+  },
+  {
+    "audio_start_offset": 250.17,
+    "audio_end_offset": 251.4,
+    "speaker_id": "Ria Rungta",
+    "content": "Yeah, that's good."
+  },
+  {
+    "audio_start_offset": 254.25,
+    "audio_end_offset": 266.85,
+    "speaker_id": "Itay Dvir",
+    "content": "Or you could definitely group those. Um, what if we all just went around and said something that we like that we like that relates maybe to like a different thing. Like, for example, like I like the office on"
+  },
+  {
+    "audio_start_offset": 267.75,
+    "audio_end_offset": 268.2,
+    "speaker_id": "Itay Dvir",
+    "content": "The show"
+  },
+  {
+    "audio_start_offset": 268.95,
+    "audio_end_offset": 269.28,
+    "speaker_id": "<UNK>",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 270.6,
+    "audio_end_offset": 270.99,
+    "speaker_id": "<UNK>",
+    "content": "Cool."
+  },
+  {
+    "audio_start_offset": 272.31,
+    "audio_end_offset": 274.53,
+    "speaker_id": "Itay Dvir",
+    "content": "Just you have any familiarity with Office."
+  },
+  {
+    "audio_start_offset": 275.34,
+    "audio_end_offset": 280.83,
+    "speaker_id": "Joshua",
+    "content": "I have watched the first season. So I don't know if you qualify that like it's a good. It's a good show for sure."
+  },
+  {
+    "audio_start_offset": 282.63,
+    "audio_end_offset": 283.02,
+    "speaker_id": "<UNK>",
+    "content": "For now."
+  },
+  {
+    "audio_start_offset": 284.73,
+    "audio_end_offset": 289.8,
+    "speaker_id": "Itay Dvir",
+    "content": "So like if we try something like, stuff like that. Like pizza is also great. Like, what are my favorite foods."
+  },
+  {
+    "audio_start_offset": 291.12,
+    "audio_end_offset": 294.63,
+    "speaker_id": "Itay Dvir",
+    "content": "Have you all left the country at some point. I think those are three"
+  },
+  {
+    "audio_start_offset": 296.52,
+    "audio_end_offset": 297.84,
+    "speaker_id": "Itay Dvir",
+    "content": "They might get some agreement on"
+  },
+  {
+    "audio_start_offset": 313.44,
+    "audio_end_offset": 314.16,
+    "speaker_id": "Itay Dvir",
+    "content": "Yeah, we could"
+  },
+  {
+    "audio_start_offset": 315.39,
+    "audio_end_offset": 319.17,
+    "speaker_id": "Itay Dvir",
+    "content": "We could ask you, have y'all been on a plane recently."
+  },
+  {
+    "audio_start_offset": 320.64,
+    "audio_end_offset": 321.63,
+    "speaker_id": "Itay Dvir",
+    "content": "Like last year."
+  },
+  {
+    "audio_start_offset": 322.92,
+    "audio_end_offset": 325.26,
+    "speaker_id": "Ria Rungta",
+    "content": "Yes, multiple times. Yes."
+  },
+  {
+    "audio_start_offset": 327.48,
+    "audio_end_offset": 327.9,
+    "speaker_id": "Itay Dvir",
+    "content": "Same"
+  },
+  {
+    "audio_start_offset": 329.34,
+    "audio_end_offset": 331.35,
+    "speaker_id": "Joshua",
+    "content": "Yeah, everything in common, they're"
+  },
+  {
+    "audio_start_offset": 331.86,
+    "audio_end_offset": 334.53,
+    "speaker_id": "Itay Dvir",
+    "content": "Great, since we went places grunted."
+  },
+  {
+    "audio_start_offset": 341.4,
+    "audio_end_offset": 341.82,
+    "speaker_id": "Itay Dvir",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 342.39,
+    "audio_end_offset": 344.37,
+    "speaker_id": "Joshua",
+    "content": "You guys all been to say Asia."
+  },
+  {
+    "audio_start_offset": 346.26,
+    "audio_end_offset": 347.37,
+    "speaker_id": "Itay Dvir",
+    "content": "Technically yes"
+  },
+  {
+    "audio_start_offset": 347.88,
+    "audio_end_offset": 348.27,
+    "speaker_id": "<UNK>",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 349.53,
+    "audio_end_offset": 349.8,
+    "speaker_id": "Ria Rungta",
+    "content": "All right."
+  },
+  {
+    "audio_start_offset": 350.46,
+    "audio_end_offset": 352.86,
+    "speaker_id": "Itay Dvir",
+    "content": "Billy, which is technically in Asia, so"
+  },
+  {
+    "audio_start_offset": 354.51,
+    "audio_end_offset": 355.95,
+    "speaker_id": "Itay Dvir",
+    "content": "We can counter that it stops you."
+  },
+  {
+    "audio_start_offset": 356.4,
+    "audio_end_offset": 356.82,
+    "speaker_id": "Joshua",
+    "content": "Would you go"
+  },
+  {
+    "audio_start_offset": 357.87,
+    "audio_end_offset": 360.0,
+    "speaker_id": "Itay Dvir",
+    "content": "I've been to Israel, which is technically in Asia."
+  },
+  {
+    "audio_start_offset": 360.51,
+    "audio_end_offset": 362.07,
+    "speaker_id": "Joshua",
+    "content": "Oh yeah, let's let's come back."
+  },
+  {
+    "audio_start_offset": 362.55,
+    "audio_end_offset": 368.52,
+    "speaker_id": "Itay Dvir",
+    "content": "Like. Yeah. Nice, nice. You guys have friends that go to all of our respective schools."
+  },
+  {
+    "audio_start_offset": 371.37,
+    "audio_end_offset": 372.3,
+    "speaker_id": "Ria Rungta",
+    "content": "We make sense."
+  },
+  {
+    "audio_start_offset": 375.15,
+    "audio_end_offset": 376.92,
+    "speaker_id": "Itay Dvir",
+    "content": "Like I have friends a yell in"
+  },
+  {
+    "audio_start_offset": 378.42,
+    "audio_end_offset": 378.87,
+    "speaker_id": "Itay Dvir",
+    "content": "Chicago"
+  },
+  {
+    "audio_start_offset": 380.58,
+    "audio_end_offset": 384.45,
+    "speaker_id": "Ria Rungta",
+    "content": "I have expenses hobbled another university of Chicago."
+  },
+  {
+    "audio_start_offset": 385.41,
+    "audio_end_offset": 388.77,
+    "speaker_id": "Joshua",
+    "content": "Yeah, I don't have friends that I do unfortunately"
+  },
+  {
+    "audio_start_offset": 389.19,
+    "audio_end_offset": 389.97,
+    "speaker_id": "Itay Dvir",
+    "content": "Well, now we do"
+  },
+  {
+    "audio_start_offset": 390.69,
+    "audio_end_offset": 392.4,
+    "speaker_id": "Joshua",
+    "content": "That's true. Definitely true"
+  },
+  {
+    "audio_start_offset": 393.18,
+    "audio_end_offset": 394.53,
+    "speaker_id": "Ria Rungta",
+    "content": "Now, yeah."
+  },
+  {
+    "audio_start_offset": 400.77,
+    "audio_end_offset": 404.91,
+    "speaker_id": "Ria Rungta",
+    "content": "Have you been over like the coordinating theater that on a big anything"
+  },
+  {
+    "audio_start_offset": 406.08,
+    "audio_end_offset": 406.2,
+    "speaker_id": "Ria Rungta",
+    "content": "Oh,"
+  },
+  {
+    "audio_start_offset": 407.43,
+    "audio_end_offset": 407.88,
+    "speaker_id": "Ria Rungta",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 408.27,
+    "audio_end_offset": 411.18,
+    "speaker_id": "Ria Rungta",
+    "content": "Yes, banana bread or anything. Okay. Oh."
+  },
+  {
+    "audio_start_offset": 412.53,
+    "audio_end_offset": 412.89,
+    "speaker_id": "Itay Dvir",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 416.28,
+    "audio_end_offset": 424.11,
+    "speaker_id": "Joshua",
+    "content": "Would you be just what I to banana breads, one of them. And if you guys are familiar with but Chinese race key."
+  },
+  {
+    "audio_start_offset": 426.15,
+    "audio_end_offset": 428.82,
+    "speaker_id": "Joshua",
+    "content": "Um, yeah. So that's one of the other things that I tried"
+  },
+  {
+    "audio_start_offset": 429.87,
+    "audio_end_offset": 431.13,
+    "speaker_id": "Joshua",
+    "content": "Pretty good. Really simple."
+  },
+  {
+    "audio_start_offset": 431.94,
+    "audio_end_offset": 434.28,
+    "speaker_id": "Itay Dvir",
+    "content": "Stuff real. What did you make"
+  },
+  {
+    "audio_start_offset": 435.21,
+    "audio_end_offset": 443.37,
+    "speaker_id": "Ria Rungta",
+    "content": "Oh, I think banana bread I be like muffin. And then I also made me so that I could have been one seeking for yeah"
+  },
+  {
+    "audio_start_offset": 444.12,
+    "audio_end_offset": 445.02,
+    "speaker_id": "Itay Dvir",
+    "content": "Me too, me too."
+  },
+  {
+    "audio_start_offset": 445.65,
+    "audio_end_offset": 446.88,
+    "speaker_id": "Ria Rungta",
+    "content": "Yeah, good."
+  },
+  {
+    "audio_start_offset": 449.4,
+    "audio_end_offset": 451.44,
+    "speaker_id": "Joshua",
+    "content": "Thing you have to share your recipe with us soon."
+  },
+  {
+    "audio_start_offset": 451.65,
+    "audio_end_offset": 453.15,
+    "speaker_id": "Ria Rungta",
+    "content": "Yes, I've been pushing"
+  },
+  {
+    "audio_start_offset": 456.99,
+    "audio_end_offset": 457.38,
+    "speaker_id": "Itay Dvir",
+    "content": "Stuff."
+  },
+  {
+    "audio_start_offset": 465.87,
+    "audio_end_offset": 468.06,
+    "speaker_id": "Maggie Hughes",
+    "content": "Great. Guys, this is a really good list."
+  },
+  {
+    "audio_start_offset": 470.01,
+    "audio_end_offset": 481.38,
+    "speaker_id": "Maggie Hughes",
+    "content": "So next what we can do is just kind of the flip side of this is can you find things that are unique to each of you that no one else in this group shares. We're going to shoot for three things for each person."
+  },
+  {
+    "audio_start_offset": 486.39,
+    "audio_end_offset": 496.38,
+    "speaker_id": "Itay Dvir",
+    "content": "Will have always like, how are you guys just see how we go with like some fun facts about us and then probably like maybe we those don't coincide. They want to start with that."
+  },
+  {
+    "audio_start_offset": 497.52,
+    "audio_end_offset": 497.73,
+    "speaker_id": "Itay Dvir",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 497.79,
+    "audio_end_offset": 508.2,
+    "speaker_id": "Ria Rungta",
+    "content": "Good. Sounds good. Um, I guess I can start. So I am born I was born in India and I lived there for the first 18 years of my life I'm ambidextrous."
+  },
+  {
+    "audio_start_offset": 510.42,
+    "audio_end_offset": 510.9,
+    "speaker_id": "Ria Rungta",
+    "content": "Oh,"
+  },
+  {
+    "audio_start_offset": 511.59,
+    "audio_end_offset": 513.54,
+    "speaker_id": "Ria Rungta",
+    "content": "Whatever. Okay, let me think."
+  },
+  {
+    "audio_start_offset": 517.32,
+    "audio_end_offset": 518.61,
+    "speaker_id": "Itay Dvir",
+    "content": "I like that. But that's just one. That's cool."
+  },
+  {
+    "audio_start_offset": 521.16,
+    "audio_end_offset": 521.7,
+    "speaker_id": "<UNK>",
+    "content": "Josh right"
+  },
+  {
+    "audio_start_offset": 522.99,
+    "audio_end_offset": 532.23,
+    "speaker_id": "Joshua",
+    "content": "Yeah. Um, let's see, I interned abroad. So in my first year of college, I was actually in Cambodia for the for the summer."
+  },
+  {
+    "audio_start_offset": 534.09,
+    "audio_end_offset": 535.53,
+    "speaker_id": "Joshua",
+    "content": "Maybe a second thing."
+  },
+  {
+    "audio_start_offset": 537.21,
+    "audio_end_offset": 543.48,
+    "speaker_id": "Joshua",
+    "content": "Yes, have Singapore in. I don't know if that counts per se, but, uh, that's a think. Another fun fact."
+  },
+  {
+    "audio_start_offset": 545.55,
+    "audio_end_offset": 548.22,
+    "speaker_id": "Joshua",
+    "content": "Let me, let me get back to you guys on the third one. Cool."
+  },
+  {
+    "audio_start_offset": 549.12,
+    "audio_end_offset": 551.04,
+    "speaker_id": "Itay Dvir",
+    "content": "Good stuff. Um,"
+  },
+  {
+    "audio_start_offset": 553.41,
+    "audio_end_offset": 555.06,
+    "speaker_id": "Itay Dvir",
+    "content": "For me, I've played against"
+  },
+  {
+    "audio_start_offset": 556.2,
+    "audio_end_offset": 557.61,
+    "speaker_id": "Itay Dvir",
+    "content": "I played basketball against"
+  },
+  {
+    "audio_start_offset": 558.78,
+    "audio_end_offset": 560.16,
+    "speaker_id": "Itay Dvir",
+    "content": "A few NBA players."
+  },
+  {
+    "audio_start_offset": 563.31,
+    "audio_end_offset": 563.67,
+    "speaker_id": "Ria Rungta",
+    "content": "Oh,"
+  },
+  {
+    "audio_start_offset": 564.99,
+    "audio_end_offset": 570.42,
+    "speaker_id": "Itay Dvir",
+    "content": "Yeah, in high school. Yeah, it was like our high school. We were okay like I was like I'm I just"
+  },
+  {
+    "audio_start_offset": 571.74,
+    "audio_end_offset": 574.41,
+    "speaker_id": "Itay Dvir",
+    "content": "Like to play. I like to play basketball just plug in some random things are good."
+  },
+  {
+    "audio_start_offset": 575.7,
+    "audio_end_offset": 580.23,
+    "speaker_id": "Itay Dvir",
+    "content": "So that's one of them. I know. Are you guys i'm i'm a pesky attarian"
+  },
+  {
+    "audio_start_offset": 583.14,
+    "audio_end_offset": 584.31,
+    "speaker_id": "Itay Dvir",
+    "content": "Since I was a kid."
+  },
+  {
+    "audio_start_offset": 585.9,
+    "audio_end_offset": 589.32,
+    "speaker_id": "Joshua",
+    "content": "I'm not seeing anything angry. Are you guys getting"
+  },
+  {
+    "audio_start_offset": 589.95,
+    "audio_end_offset": 591.99,
+    "speaker_id": "Ria Rungta",
+    "content": "No, I'm not. No. Cool."
+  },
+  {
+    "audio_start_offset": 592.02,
+    "audio_end_offset": 592.26,
+    "speaker_id": "<UNK>",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 594.72,
+    "audio_end_offset": 600.15,
+    "speaker_id": "Itay Dvir",
+    "content": "I'll just send it with the third one of my favorite movies. The Incredibles by Pixar"
+  },
+  {
+    "audio_start_offset": 604.71,
+    "audio_end_offset": 605.13,
+    "speaker_id": "Joshua",
+    "content": "Movie."
+  },
+  {
+    "audio_start_offset": 606.45,
+    "audio_end_offset": 608.25,
+    "speaker_id": "Itay Dvir",
+    "content": "Share that in common. We can be best friends."
+  },
+  {
+    "audio_start_offset": 618.78,
+    "audio_end_offset": 621.96,
+    "speaker_id": "Maggie Hughes",
+    "content": "And Joshua I missed your second one. Can you remind me what you said."
+  },
+  {
+    "audio_start_offset": 622.59,
+    "audio_end_offset": 624.06,
+    "speaker_id": "Joshua",
+    "content": "Oh yes have Singaporean"
+  },
+  {
+    "audio_start_offset": 624.66,
+    "audio_end_offset": 625.71,
+    "speaker_id": "Maggie Hughes",
+    "content": "Okay, thank you."
+  },
+  {
+    "audio_start_offset": 630.69,
+    "audio_end_offset": 636.81,
+    "speaker_id": "Joshua",
+    "content": "Is maybe my third one, are you guys doing any of you guys like swimmers or do aquatics."
+  },
+  {
+    "audio_start_offset": 637.5,
+    "audio_end_offset": 638.55,
+    "speaker_id": "Ria Rungta",
+    "content": "No, not at all."
+  },
+  {
+    "audio_start_offset": 640.89,
+    "audio_end_offset": 644.61,
+    "speaker_id": "Joshua",
+    "content": "So maybe that's like, I don't, I don't do it right now, but I used to be a competitive swimmer."
+  },
+  {
+    "audio_start_offset": 645.39,
+    "audio_end_offset": 646.68,
+    "speaker_id": "Ria Rungta",
+    "content": "Whoo. Cool."
+  },
+  {
+    "audio_start_offset": 647.37,
+    "audio_end_offset": 649.29,
+    "speaker_id": "Itay Dvir",
+    "content": "What, what were your like the main strokes."
+  },
+  {
+    "audio_start_offset": 650.16,
+    "audio_end_offset": 654.12,
+    "speaker_id": "Joshua",
+    "content": "I was backstroke and distance free try to go for the things that were"
+  },
+  {
+    "audio_start_offset": 655.32,
+    "audio_end_offset": 658.47,
+    "speaker_id": "Joshua",
+    "content": "Like allowed me to breed frequently, I guess is the way to put it."
+  },
+  {
+    "audio_start_offset": 668.73,
+    "audio_end_offset": 670.89,
+    "speaker_id": "Ria Rungta",
+    "content": "Vegetarian vegetarian."
+  },
+  {
+    "audio_start_offset": 672.42,
+    "audio_end_offset": 673.26,
+    "speaker_id": "Joshua",
+    "content": "I am not."
+  },
+  {
+    "audio_start_offset": 674.94,
+    "audio_end_offset": 675.27,
+    "speaker_id": "<UNK>",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 681.18,
+    "audio_end_offset": 682.68,
+    "speaker_id": "Itay Dvir",
+    "content": "It's not free for all of us."
+  },
+  {
+    "audio_start_offset": 687.45,
+    "audio_end_offset": 694.05,
+    "speaker_id": "Maggie Hughes",
+    "content": "Perfect. Thank you, guys, I'm great list. Okay. So next, just quickly."
+  },
+  {
+    "audio_start_offset": 695.76,
+    "audio_end_offset": 705.21,
+    "speaker_id": "Maggie Hughes",
+    "content": "Another little activity. If you were stranded on a desert island, and only had a minute to grab something that would be useful for you in a pragmatic way, what would you choose to great"
+  },
+  {
+    "audio_start_offset": 711.93,
+    "audio_end_offset": 714.57,
+    "speaker_id": "Joshua",
+    "content": "Question, you want to go first."
+  },
+  {
+    "audio_start_offset": 717.21,
+    "audio_end_offset": 726.78,
+    "speaker_id": "Ria Rungta",
+    "content": "I guess I wouldn't drink like a sharp mind for like a damn cold. I don't know. That's the most useful thing I can think of. Because you can like get through themselves and then you can"
+  },
+  {
+    "audio_start_offset": 727.2,
+    "audio_end_offset": 734.16,
+    "speaker_id": "Ria Rungta",
+    "content": "Also like make things like a boat or something, I don't know, but that's what I would grab. If I had one minute."
+  },
+  {
+    "audio_start_offset": 743.34,
+    "audio_end_offset": 750.93,
+    "speaker_id": "Itay Dvir",
+    "content": "I like knife. That's it. I have a question about the question, when we see pragmatically like where we grabbing this from"
+  },
+  {
+    "audio_start_offset": 753.21,
+    "audio_end_offset": 754.47,
+    "speaker_id": "Maggie Hughes",
+    "content": "Yeah, um,"
+  },
+  {
+    "audio_start_offset": 756.24,
+    "audio_end_offset": 763.53,
+    "speaker_id": "Maggie Hughes",
+    "content": "It can be. Are you thinking of something that's dramatic or large, it's fine. You can think of anything that you can carry about"
+  },
+  {
+    "audio_start_offset": 763.89,
+    "audio_end_offset": 776.34,
+    "speaker_id": "Itay Dvir",
+    "content": "Well, I think so. Like my first initial reaction would be like life raft, but then I don't know where I am like this, does it rather than could like could be super deep so I'd probably go like possible flare gotten"
+  },
+  {
+    "audio_start_offset": 777.69,
+    "audio_end_offset": 779.13,
+    "speaker_id": "Itay Dvir",
+    "content": "To say, Hey, I'm here."
+  },
+  {
+    "audio_start_offset": 780.72,
+    "audio_end_offset": 782.1,
+    "speaker_id": "Itay Dvir",
+    "content": "If I see anything up about"
+  },
+  {
+    "audio_start_offset": 785.7,
+    "audio_end_offset": 786.27,
+    "speaker_id": "Itay Dvir",
+    "content": "You Joshua"
+  },
+  {
+    "audio_start_offset": 786.99,
+    "audio_end_offset": 796.41,
+    "speaker_id": "Joshua",
+    "content": "Yeah, for sure. I was, I was gonna say it again. I'm just because you know like I don't know if you can craft you know and if you get to play Minecraft, but"
+  },
+  {
+    "audio_start_offset": 796.95,
+    "audio_end_offset": 798.72,
+    "speaker_id": "Itay Dvir",
+    "content": "It's one of the things that's important, right, like"
+  },
+  {
+    "audio_start_offset": 798.81,
+    "audio_end_offset": 814.05,
+    "speaker_id": "Joshua",
+    "content": "Making making glass out of sand. Um, but something maybe that you can carry on. Yeah, definitely like some sort of know like water filtration hack. There's something for for filtering see water that's portable"
+  },
+  {
+    "audio_start_offset": 815.43,
+    "audio_end_offset": 817.17,
+    "speaker_id": "Itay Dvir",
+    "content": "I like that. That's Hunger Games ask"
+  },
+  {
+    "audio_start_offset": 820.71,
+    "audio_end_offset": 833.76,
+    "speaker_id": "Maggie Hughes",
+    "content": "Hey, thanks for those you guys. So now just quickly can you brainstorm or strategize away. If you are all on the island together about how to use these different tools in a meaningful way to help prolong your survival."
+  },
+  {
+    "audio_start_offset": 836.94,
+    "audio_end_offset": 840.78,
+    "speaker_id": "Joshua",
+    "content": "Definitely. So we've got a knife, a flare gun and a filtration."
+  },
+  {
+    "audio_start_offset": 843.6,
+    "audio_end_offset": 850.08,
+    "speaker_id": "Joshua",
+    "content": "Filling one of us could be a minor one of us to be like the chef landscape and shirt search for a way off the island."
+  },
+  {
+    "audio_start_offset": 852.36,
+    "audio_end_offset": 864.33,
+    "speaker_id": "Itay Dvir",
+    "content": "That's fair. I think at the beginning. It's cute. I just get some resources like available tests. I think we got to use the knife and the water filtration pack working like we got to work as a part of a team. We don't know what's on this island so"
+  },
+  {
+    "audio_start_offset": 865.65,
+    "audio_end_offset": 877.53,
+    "speaker_id": "Itay Dvir",
+    "content": "Have at least one person maybe staying like on the on the ocean with the like flare gun to see if maybe they could see something, but the other two maybe going in hard and trying to get some food and some water."
+  },
+  {
+    "audio_start_offset": 878.94,
+    "audio_end_offset": 891.78,
+    "speaker_id": "Ria Rungta",
+    "content": "Yeah, I like that idea because all these things are like complementary to each other. So when one person is like asking for help. They are both I like getting food and supplies employees. So I think we could survive. Yeah."
+  },
+  {
+    "audio_start_offset": 893.22,
+    "audio_end_offset": 895.23,
+    "speaker_id": "Itay Dvir",
+    "content": "Oh yeah, I feel pretty good about this."
+  },
+  {
+    "audio_start_offset": 898.38,
+    "audio_end_offset": 898.71,
+    "speaker_id": "Maggie Hughes",
+    "content": "Hey,"
+  },
+  {
+    "audio_start_offset": 899.79,
+    "audio_end_offset": 914.73,
+    "speaker_id": "Maggie Hughes",
+    "content": "All right, you guys. So then if you were stranded on this island, but you could only bring one meaningful thing for you. Something that was sentimental something that would help you emotionally or mentally get through experience. What do you choose to bring and why"
+  },
+  {
+    "audio_start_offset": 931.83,
+    "audio_end_offset": 932.61,
+    "speaker_id": "Itay Dvir",
+    "content": "I can do."
+  },
+  {
+    "audio_start_offset": 933.93,
+    "audio_end_offset": 947.91,
+    "speaker_id": "Itay Dvir",
+    "content": "I think there's like I have like a photo album with some like they kind of spans a long length of time that I took with me to like college and has some like letters in it from people I care about. So I think that'd be something that would be like"
+  },
+  {
+    "audio_start_offset": 949.2,
+    "audio_end_offset": 965.07,
+    "speaker_id": "Itay Dvir",
+    "content": "This is a inspiration to just keep keep on going. Keep pushing. Try to survive. So you can see these people. Um, and it'll be like a something that I can go back to and be like, Oh, good. I it was a good, it was good stuff back to that."
+  },
+  {
+    "audio_start_offset": 974.28,
+    "audio_end_offset": 978.33,
+    "speaker_id": "Joshua",
+    "content": "Yeah, definitely. Maybe, maybe, echoing that those thoughts, I'd bring some sort of"
+  },
+  {
+    "audio_start_offset": 979.98,
+    "audio_end_offset": 989.19,
+    "speaker_id": "Joshua",
+    "content": "Like photo with me as well. Just if my family. I think that definitely gives you like that motivational boost you look for these types of sadness."
+  },
+  {
+    "audio_start_offset": 992.55,
+    "audio_end_offset": 1002.12,
+    "speaker_id": "Ria Rungta",
+    "content": "Yeah. Be good. I'm trying to think. I feel like most of my life memories are an electronic format. So I don't know if I'm allowed to be my phone. Probably not."
+  },
+  {
+    "audio_start_offset": 1002.48,
+    "audio_end_offset": 1010.34,
+    "speaker_id": "Ria Rungta",
+    "content": "But maybe I would bring like a notebook, because I love to write and late at night late above my men disease, but I don't know if that comes. Oh, yeah."
+  },
+  {
+    "audio_start_offset": 1013.76,
+    "audio_end_offset": 1015.89,
+    "speaker_id": "Maggie Hughes",
+    "content": "That's great. Nice. Thank you. Yes."
+  },
+  {
+    "audio_start_offset": 1016.94,
+    "audio_end_offset": 1027.29,
+    "speaker_id": "Maggie Hughes",
+    "content": "So I'd ask if you could bring one person with you with personal or goal. So not necessarily somebody who's the best survivalist"
+  },
+  {
+    "audio_start_offset": 1027.68,
+    "audio_end_offset": 1039.02,
+    "speaker_id": "Maggie Hughes",
+    "content": "But maybe somebody that could help you through this time either mentally, emotionally just supportive in general. Who do you think you would bring and can you tell a little bit why you would bring them."
+  },
+  {
+    "audio_start_offset": 1040.04,
+    "audio_end_offset": 1051.59,
+    "speaker_id": "Maggie Hughes",
+    "content": "Maybe even tell a story of an instance when they have exemplified that reason that you bring them. And then as we are moving into this period, I invite you to use the talking piece as well in the queue."
+  },
+  {
+    "audio_start_offset": 1066.8,
+    "audio_end_offset": 1067.07,
+    "speaker_id": "Joshua",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 1071.63,
+    "audio_end_offset": 1085.49,
+    "speaker_id": "Joshua",
+    "content": "I think probably just my brother, you know, I feel like just living with him. So for so long we kind of understand each other similar interests. I'm in, you know, I feel like we just sort of get each other on a different level, so to speak."
+  },
+  {
+    "audio_start_offset": 1090.2,
+    "audio_end_offset": 1090.74,
+    "speaker_id": "Itay Dvir",
+    "content": "Love it."
+  },
+  {
+    "audio_start_offset": 1092.78,
+    "audio_end_offset": 1093.11,
+    "speaker_id": "Itay Dvir",
+    "content": "Brother."
+  },
+  {
+    "audio_start_offset": 1094.85,
+    "audio_end_offset": 1098.21,
+    "speaker_id": "Joshua",
+    "content": "He's 17 to college. Nice."
+  },
+  {
+    "audio_start_offset": 1099.68,
+    "audio_end_offset": 1101.99,
+    "speaker_id": "Itay Dvir",
+    "content": "Okay, cool. I think I would go with my mom. I think she was"
+  },
+  {
+    "audio_start_offset": 1103.52,
+    "audio_end_offset": 1107.84,
+    "speaker_id": "Itay Dvir",
+    "content": "As it really is like meaningful. She said what that just kind of made it for me my whole life. She's a"
+  },
+  {
+    "audio_start_offset": 1108.59,
+    "audio_end_offset": 1118.43,
+    "speaker_id": "Itay Dvir",
+    "content": "Psychologist so growing up with a psychologist is definitely an interesting experience but like I've definitely taken it would stride as much as I can and like she's definitely helped me out a lot of"
+  },
+  {
+    "audio_start_offset": 1118.88,
+    "audio_end_offset": 1127.79,
+    "speaker_id": "Itay Dvir",
+    "content": "Tough like tougher times per se, like, whether it be like roasting situation, it could be like like socially or just like focusing on like what I want to do."
+  },
+  {
+    "audio_start_offset": 1129.05,
+    "audio_end_offset": 1133.07,
+    "speaker_id": "Itay Dvir",
+    "content": "Which is always there like lending a listening ear. So that's somebody I appreciate"
+  },
+  {
+    "audio_start_offset": 1137.96,
+    "audio_end_offset": 1143.99,
+    "speaker_id": "Ria Rungta",
+    "content": "Um, yeah, I think I also would bring my mom because yeah I think like"
+  },
+  {
+    "audio_start_offset": 1145.34,
+    "audio_end_offset": 1150.98,
+    "speaker_id": "Ria Rungta",
+    "content": "I don't know. I guess I normally just kind of complimentary and she's very like feel nervous and she pushes me to like doing new things."
+  },
+  {
+    "audio_start_offset": 1151.67,
+    "audio_end_offset": 1155.45,
+    "speaker_id": "Ria Rungta",
+    "content": "So she would kind of like, Help me help my chances of surviving on the side."
+  },
+  {
+    "audio_start_offset": 1156.05,
+    "audio_end_offset": 1169.88,
+    "speaker_id": "Ria Rungta",
+    "content": "And she's also very like social and she makes me, friends, very quickly. So if someone comes to like rescue or they would probably like, you know, like or not because I'm kind of an introvert. So I don't know. I think my mom would be a good person to bring along. Yeah."
+  },
+  {
+    "audio_start_offset": 1181.28,
+    "audio_end_offset": 1190.13,
+    "speaker_id": "Maggie Hughes",
+    "content": "Nice. Um, do you guys have an idea of what you think you would miss the most. Why do you think you'd missed that last"
+  },
+  {
+    "audio_start_offset": 1213.92,
+    "audio_end_offset": 1223.64,
+    "speaker_id": "Ria Rungta",
+    "content": "I think I will probably miss like my friends on my family, the most like even in this locked down again, we're not on an island, but we can't really meet anyone"
+  },
+  {
+    "audio_start_offset": 1224.03,
+    "audio_end_offset": 1231.71,
+    "speaker_id": "Ria Rungta",
+    "content": "So I think the power of like social and human connection is, you know, you're the valuable to me. So I think I would miss meeting my friends."
+  },
+  {
+    "audio_start_offset": 1233.27,
+    "audio_end_offset": 1233.99,
+    "speaker_id": "Ria Rungta",
+    "content": "And my family."
+  },
+  {
+    "audio_start_offset": 1243.74,
+    "audio_end_offset": 1248.33,
+    "speaker_id": "Joshua",
+    "content": "Oh, definitely food for me. Um, I just feel like food is a very good"
+  },
+  {
+    "audio_start_offset": 1249.47,
+    "audio_end_offset": 1261.62,
+    "speaker_id": "Joshua",
+    "content": "Sort of escape or event, but it's also just a way to sort of express yourself. And when you're on an island. So you probably don't have the opportunities to get different foods that you have nowadays in real life."
+  },
+  {
+    "audio_start_offset": 1265.34,
+    "audio_end_offset": 1265.91,
+    "speaker_id": "Itay Dvir",
+    "content": "As well, but"
+  },
+  {
+    "audio_start_offset": 1267.56,
+    "audio_end_offset": 1272.72,
+    "speaker_id": "Itay Dvir",
+    "content": "Okay, sorry about my character. It's blushing I press the button, but they just didn't let me"
+  },
+  {
+    "audio_start_offset": 1273.53,
+    "audio_end_offset": 1275.39,
+    "speaker_id": "Maggie Hughes",
+    "content": "No problem. I'll go try to get that fixed"
+  },
+  {
+    "audio_start_offset": 1276.05,
+    "audio_end_offset": 1279.2,
+    "speaker_id": "Itay Dvir",
+    "content": "Cool. Oh yeah, I was just thinking like"
+  },
+  {
+    "audio_start_offset": 1280.31,
+    "audio_end_offset": 1286.55,
+    "speaker_id": "Itay Dvir",
+    "content": "Just I've noticed that like the like being home with families like been super, super for"
+  },
+  {
+    "audio_start_offset": 1287.81,
+    "audio_end_offset": 1299.03,
+    "speaker_id": "Itay Dvir",
+    "content": "Like an interesting experience but like i definitely miss them and up and give us to communicate with them. Like even if I'm at school. Like I always have like time right talk to them. Um, so I think that would definitely be just like having candid conversations that like are in"
+  },
+  {
+    "audio_start_offset": 1300.59,
+    "audio_end_offset": 1305.3,
+    "speaker_id": "Itay Dvir",
+    "content": "There, just like talking about basic things. I think that's something that means a lot to me."
+  },
+  {
+    "audio_start_offset": 1324.41,
+    "audio_end_offset": 1330.29,
+    "speaker_id": "Maggie Hughes",
+    "content": "Okay. Nice. Thanks, you guys. So now kind of transitioning, a little bit and topic."
+  },
+  {
+    "audio_start_offset": 1331.61,
+    "audio_end_offset": 1334.31,
+    "speaker_id": "Maggie Hughes",
+    "content": "Just you cannot if this is relevant to you."
+  },
+  {
+    "audio_start_offset": 1334.88,
+    "audio_end_offset": 1346.67,
+    "speaker_id": "Maggie Hughes",
+    "content": "But do you think that you've had the last few months, they've been different for you in the sense that, like your life has manifested differently in the last few months, and it has normally either due to working in isolation."
+  },
+  {
+    "audio_start_offset": 1347.06,
+    "audio_end_offset": 1353.06,
+    "speaker_id": "Maggie Hughes",
+    "content": "Cool. Good stuff quarantine things having to change the way you work or what's going on in school and so forth."
+  },
+  {
+    "audio_start_offset": 1354.71,
+    "audio_end_offset": 1356.09,
+    "speaker_id": "Maggie Hughes",
+    "content": "Does that feel like it applies to you guys."
+  },
+  {
+    "audio_start_offset": 1358.4,
+    "audio_end_offset": 1360.35,
+    "speaker_id": "Itay Dvir",
+    "content": "Yeah yeah yeah"
+  },
+  {
+    "audio_start_offset": 1363.08,
+    "audio_end_offset": 1363.83,
+    "speaker_id": "Itay Dvir",
+    "content": "I'm trying to"
+  },
+  {
+    "audio_start_offset": 1364.7,
+    "audio_end_offset": 1365.57,
+    "speaker_id": "Maggie Hughes",
+    "content": "Know he's"
+  },
+  {
+    "audio_start_offset": 1367.64,
+    "audio_end_offset": 1369.41,
+    "speaker_id": "Maggie Hughes",
+    "content": "Great or not great but"
+  },
+  {
+    "audio_start_offset": 1370.1,
+    "audio_end_offset": 1371.39,
+    "speaker_id": "Maggie Hughes",
+    "content": "Thank you for confirming that"
+  },
+  {
+    "audio_start_offset": 1372.44,
+    "audio_end_offset": 1379.91,
+    "speaker_id": "Maggie Hughes",
+    "content": "Um, so I wonder, can you talk a little bit about what has been surprising in this period, and this time for you."
+  },
+  {
+    "audio_start_offset": 1387.83,
+    "audio_end_offset": 1388.88,
+    "speaker_id": "Ria Rungta",
+    "content": "To join the queue again."
+  },
+  {
+    "audio_start_offset": 1389.96,
+    "audio_end_offset": 1391.28,
+    "speaker_id": "Maggie Hughes",
+    "content": "Yeah, that would be great if you could"
+  },
+  {
+    "audio_start_offset": 1406.1,
+    "audio_end_offset": 1410.09,
+    "speaker_id": "Maggie Hughes",
+    "content": "If it's not sure I have for you if it's not working, you can feel free to speak freely as well."
+  },
+  {
+    "audio_start_offset": 1414.56,
+    "audio_end_offset": 1421.85,
+    "speaker_id": "Ria Rungta",
+    "content": "Yeah, I think for me the most surprising thing was like how quickly my mind and my body adjusted to the whole make"
+  },
+  {
+    "audio_start_offset": 1422.39,
+    "audio_end_offset": 1435.2,
+    "speaker_id": "Ria Rungta",
+    "content": "online school because I remember the first few days. I was very like valued afterlife room sessions, back to back, and like meeting online. But then I kind of adjusted very quickly. So I think that surprised me the most."
+  },
+  {
+    "audio_start_offset": 1440.15,
+    "audio_end_offset": 1442.82,
+    "speaker_id": "Itay Dvir",
+    "content": "That's a good one. You haven't tried to join the queue, but"
+  },
+  {
+    "audio_start_offset": 1444.62,
+    "audio_end_offset": 1451.37,
+    "speaker_id": "Itay Dvir",
+    "content": "The biggest thing for me was just kinda like yellow wood being at home and not having like the in person interaction with friends."
+  },
+  {
+    "audio_start_offset": 1453.11,
+    "audio_end_offset": 1461.6,
+    "speaker_id": "Itay Dvir",
+    "content": "Like doing those sorts of things like I you could just feel at school, I was able to like have a little bit of my own space and not having that"
+  },
+  {
+    "audio_start_offset": 1463.55,
+    "audio_end_offset": 1465.59,
+    "speaker_id": "Itay Dvir",
+    "content": "Was a bit tougher of a transition"
+  },
+  {
+    "audio_start_offset": 1466.64,
+    "audio_end_offset": 1466.97,
+    "speaker_id": "Itay Dvir",
+    "content": "But yeah"
+  },
+  {
+    "audio_start_offset": 1469.82,
+    "audio_end_offset": 1483.17,
+    "speaker_id": "Joshua",
+    "content": "Yeah, I agree with all the other points that were said, um, this, this, I guess, personal points going to send a bit blunt, but I guess just sort of seeing how Americans reacted to this whole situation, I think, was a bit underwhelming."
+  },
+  {
+    "audio_start_offset": 1484.19,
+    "audio_end_offset": 1497.39,
+    "speaker_id": "Joshua",
+    "content": "You know, I come from a very, I guess, Iowa scientifically oriented background in terms of you know what my parents do, but it seems sort of the responses that are coming out of government and across the nation. I think are a bit lackluster"
+  },
+  {
+    "audio_start_offset": 1501.53,
+    "audio_end_offset": 1502.52,
+    "speaker_id": "Ria Rungta",
+    "content": "Yeah, I agree with"
+  },
+  {
+    "audio_start_offset": 1504.53,
+    "audio_end_offset": 1505.1,
+    "speaker_id": "Itay Dvir",
+    "content": "What's"
+  },
+  {
+    "audio_start_offset": 1521.12,
+    "audio_end_offset": 1522.62,
+    "speaker_id": "Itay Dvir",
+    "content": "Yeah, I don't know why I'm in the queue. Now,"
+  },
+  {
+    "audio_start_offset": 1525.08,
+    "audio_end_offset": 1525.17,
+    "speaker_id": "Maggie Hughes",
+    "content": "Login."
+  },
+  {
+    "audio_start_offset": 1526.79,
+    "audio_end_offset": 1527.3,
+    "speaker_id": "Maggie Hughes",
+    "content": "Me. Great."
+  },
+  {
+    "audio_start_offset": 1528.5,
+    "audio_end_offset": 1543.29,
+    "speaker_id": "Maggie Hughes",
+    "content": "Thanks for sharing, you guys. And so then also I wonder have you been finding yourself communicating more remotely, whether it's through email video online WhatsApp texting letter writing phone calls, anything"
+  },
+  {
+    "audio_start_offset": 1544.16,
+    "audio_end_offset": 1546.11,
+    "speaker_id": "Maggie Hughes",
+    "content": "And if so, what do you think"
+  },
+  {
+    "audio_start_offset": 1547.31,
+    "audio_end_offset": 1557.54,
+    "speaker_id": "Maggie Hughes",
+    "content": "What are the year some of your reflections about that experience transitioning from perhaps more in person communication to online. Has it not been much of a transition for you."
+  },
+  {
+    "audio_start_offset": 1558.68,
+    "audio_end_offset": 1562.67,
+    "speaker_id": "Maggie Hughes",
+    "content": "Has anything felt hard or surprising in that sense."
+  },
+  {
+    "audio_start_offset": 1567.11,
+    "audio_end_offset": 1572.6,
+    "speaker_id": "Itay Dvir",
+    "content": "Yeah, I think that like just adjusting to like for me. I was like,"
+  },
+  {
+    "audio_start_offset": 1573.41,
+    "audio_end_offset": 1581.51,
+    "speaker_id": "Itay Dvir",
+    "content": "Trying to think about how to like strengthen relationships. It's not just like maintain them. And I'm like, No, I wouldn't consider myself to be like a great maintainer of friendships, per se."
+  },
+  {
+    "audio_start_offset": 1582.5,
+    "audio_end_offset": 1593.93,
+    "speaker_id": "Itay Dvir",
+    "content": "Were like like I'll reach out every so often to have a call, but like I like really doing things that will strengthen our relationship. So kind of finding new ways to do that by like doing game nights."
+  },
+  {
+    "audio_start_offset": 1595.19,
+    "audio_end_offset": 1596.9,
+    "speaker_id": "Itay Dvir",
+    "content": "Like we've done movie nights, different things like that."
+  },
+  {
+    "audio_start_offset": 1598.01,
+    "audio_end_offset": 1605.36,
+    "speaker_id": "Itay Dvir",
+    "content": "And keeping kind of track on each other there's life and just kind of like doing things together. I think that was the biggest adjustment for me."
+  },
+  {
+    "audio_start_offset": 1608.48,
+    "audio_end_offset": 1610.49,
+    "speaker_id": "Joshua",
+    "content": "Yeah, definitely. Maybe building off of that."
+  },
+  {
+    "audio_start_offset": 1611.87,
+    "audio_end_offset": 1620.81,
+    "speaker_id": "Joshua",
+    "content": "Sort of just like even maintaining relationships. I feel like it's a bit more more difficult. Now, given the fact that there's no human touch and everything seems so"
+  },
+  {
+    "audio_start_offset": 1622.16,
+    "audio_end_offset": 1630.29,
+    "speaker_id": "Joshua",
+    "content": "You're in person or so distant when you're communicating over messenger or something like zoom. So I think even just putting in that"
+  },
+  {
+    "audio_start_offset": 1630.65,
+    "audio_end_offset": 1641.6,
+    "speaker_id": "Joshua",
+    "content": "I guess what I'm trying to say is not this feels like a hassle sometimes to have to speak to people when I think it should be a joy that you that you experience when you're meeting someone face to face."
+  },
+  {
+    "audio_start_offset": 1646.79,
+    "audio_end_offset": 1660.11,
+    "speaker_id": "Ria Rungta",
+    "content": "Um, yeah, I think, yeah, I think now that everything is kind of online. I have noticed that my like conversations and interactions with people have become more intentional like both from me. And also, like from my friends."
+  },
+  {
+    "audio_start_offset": 1660.56,
+    "audio_end_offset": 1667.31,
+    "speaker_id": "Ria Rungta",
+    "content": "Like many of them have to make sending me letters like even today, actually, I went to the post office to drop off like some letters for all my college friends."
+  },
+  {
+    "audio_start_offset": 1667.73,
+    "audio_end_offset": 1683.57,
+    "speaker_id": "Ria Rungta",
+    "content": "And you know saying like we do like happy I was virtual again. Nice and all these things. So I think it's more intentional because we can't meet each other. So everyone is like taking the time out to like spend quality time with each other. So I think that's been a nice surprise. Yeah."
+  },
+  {
+    "audio_start_offset": 1690.14,
+    "audio_end_offset": 1695.96,
+    "speaker_id": "Maggie Hughes",
+    "content": "Great. Thank you, guys. And then I also wonder have you learned anything new about yourself in this time."
+  },
+  {
+    "audio_start_offset": 1697.37,
+    "audio_end_offset": 1701.12,
+    "speaker_id": "Maggie Hughes",
+    "content": "And if so, what, and do you think you could spend a little time talking about it."
+  },
+  {
+    "audio_start_offset": 1723.08,
+    "audio_end_offset": 1739.13,
+    "speaker_id": "Joshua",
+    "content": "Um, yeah, I think one thing really is. I feel like for a lot of people and myself included. We all have these very aspirational dreams and goals. And I think one of the things that probably hits me harder than most is the fact that"
+  },
+  {
+    "audio_start_offset": 1740.54,
+    "audio_end_offset": 1750.53,
+    "speaker_id": "Joshua",
+    "content": "I feel like you know New Year's resolutions, for instance, I put those I try to put those within reach. But suddenly when I have all this free time. Now, as a result of shelter in place."
+  },
+  {
+    "audio_start_offset": 1750.98,
+    "audio_end_offset": 1763.34,
+    "speaker_id": "Joshua",
+    "content": "Just getting sort of that first step and getting the ball rolling is is very difficult. And I think more difficult than it probably should be so trying to remedy that I think is one of the big things I've been trying to do over the pandemic."
+  },
+  {
+    "audio_start_offset": 1766.64,
+    "audio_end_offset": 1774.53,
+    "speaker_id": "Itay Dvir",
+    "content": "that's well said I could like kind of go off of that that's actually like a key thing for like me. I think just being able to like"
+  },
+  {
+    "audio_start_offset": 1775.37,
+    "audio_end_offset": 1790.88,
+    "speaker_id": "Itay Dvir",
+    "content": "A feeling of productivity is what's really interesting to me, and I just kind of want to be sure to like I'm doing things that I'm like, like, like that I keep coming up with my plans and goals, then it's very easy to like when there's no deadlines also like"
+  },
+  {
+    "audio_start_offset": 1792.62,
+    "audio_end_offset": 1795.5,
+    "speaker_id": "Itay Dvir",
+    "content": "I felt like it hasn't come together as much. Yeah."
+  },
+  {
+    "audio_start_offset": 1799.31,
+    "audio_end_offset": 1804.32,
+    "speaker_id": "Ria Rungta",
+    "content": "Um, yeah, I think I agree with both of you are going to say like a similar thing to Joshua because I see like"
+  },
+  {
+    "audio_start_offset": 1805.01,
+    "audio_end_offset": 1811.76,
+    "speaker_id": "Ria Rungta",
+    "content": "In the past, because I was so busy with school I have like all these like big aspirations and I will listen, Michael. I'll do it when I have time"
+  },
+  {
+    "audio_start_offset": 1812.0,
+    "audio_end_offset": 1817.85,
+    "speaker_id": "Ria Rungta",
+    "content": "But now I have all this time and I'm still finding it basically tells them they get a head start on things and find the motivation."
+  },
+  {
+    "audio_start_offset": 1818.36,
+    "audio_end_offset": 1829.46,
+    "speaker_id": "Ria Rungta",
+    "content": "So yeah, that's been something that I discovered about myself that I'm actually kind of lazy and I do procrastinate when it comes to, like, you know, getting started on things."
+  },
+  {
+    "audio_start_offset": 1842.03,
+    "audio_end_offset": 1852.98,
+    "speaker_id": "Maggie Hughes",
+    "content": "Hey guys, think of what you're missing the most or what you're thinking about most that you'd want to do or some one you'd want to see or different things that you're excited about for when things go back to normal."
+  },
+  {
+    "audio_start_offset": 1860.33,
+    "audio_end_offset": 1869.48,
+    "speaker_id": "Itay Dvir",
+    "content": "Yeah, like I think for me, just like I really like my big part of my experience, just like go into like 40 events and like doing things like that with friends."
+  },
+  {
+    "audio_start_offset": 1870.41,
+    "audio_end_offset": 1878.57,
+    "speaker_id": "Itay Dvir",
+    "content": "And just begin with, like, literally go out and play like Five on five, basketball, or like give people like high fives. That's a little bit like I'm looking forward to into might be in a"
+  },
+  {
+    "audio_start_offset": 1878.57,
+    "audio_end_offset": 1882.74,
+    "speaker_id": "Itay Dvir",
+    "content": "While but like, I'm just looking forward to like be active. I think that's really important to me."
+  },
+  {
+    "audio_start_offset": 1888.14,
+    "audio_end_offset": 1893.84,
+    "speaker_id": "Joshua",
+    "content": "Yeah, definitely. Um, for me, it's definitely gonna be food. I know I put that out there once already. But, uh,"
+  },
+  {
+    "audio_start_offset": 1894.65,
+    "audio_end_offset": 1905.54,
+    "speaker_id": "Joshua",
+    "content": "You know, just being able to drink boba or get sushi or or sashimi, something like that. Um, I think it's something I missed a lot and I you know like sort of touching on"
+  },
+  {
+    "audio_start_offset": 1905.99,
+    "audio_end_offset": 1915.29,
+    "speaker_id": "Joshua",
+    "content": "It tastes point about friends like that's another thing we do when when we try to get together is in the center it around food. So that's one of the big things I miss right now."
+  },
+  {
+    "audio_start_offset": 1919.55,
+    "audio_end_offset": 1929.03,
+    "speaker_id": "Ria Rungta",
+    "content": "Yeah, I think for me, what I would be looking forward to the most is like going back home and visiting my family because like my parents are still in India, and I can't go back to"
+  },
+  {
+    "audio_start_offset": 1929.66,
+    "audio_end_offset": 1936.41,
+    "speaker_id": "Ria Rungta",
+    "content": "The whole like lockdown situation. So once this all like goes back to normal. I'm excited to like go back home and spend some time with them."
+  },
+  {
+    "audio_start_offset": 1949.4,
+    "audio_end_offset": 1950.48,
+    "speaker_id": "Maggie Hughes",
+    "content": "All right, you guys."
+  },
+  {
+    "audio_start_offset": 1951.89,
+    "audio_end_offset": 1954.53,
+    "speaker_id": "Maggie Hughes",
+    "content": "That's all I got for the conversation today."
+  },
+  {
+    "audio_start_offset": 1955.82,
+    "audio_end_offset": 1959.81,
+    "speaker_id": "Maggie Hughes",
+    "content": "Thank you for participating. It was great hearing all of your thoughts and experiences."
+  },
+  {
+    "audio_start_offset": 1961.25,
+    "audio_end_offset": 1975.29,
+    "speaker_id": "Maggie Hughes",
+    "content": "And different ways that you're kind of working around in this coven time I'm sending the post survey and the chat via zoom. So you can click that survey. And then once you get access to it. You should feel free to hop off the call."
+  },
+  {
+    "audio_start_offset": 1976.31,
+    "audio_end_offset": 1984.8,
+    "speaker_id": "Maggie Hughes",
+    "content": "I'll get you your amazon gift cards. Definitely. By the end of the week. But if you're feeling really urgent or need them for some reason. Before then, just let me know and we can make it happen."
+  },
+  {
+    "audio_start_offset": 1986.06,
+    "audio_end_offset": 1992.99,
+    "speaker_id": "Maggie Hughes",
+    "content": "Again, thank you guys so much for participating. It was great talking to you. I hope you, you know, stay safe and healthy and have a good rest of your week"
+  },
+  {
+    "audio_start_offset": 1993.89,
+    "audio_end_offset": 1995.54,
+    "speaker_id": "Itay Dvir",
+    "content": "Thank you so much thank"
+  },
+  {
+    "audio_start_offset": 1997.76,
+    "audio_end_offset": 1998.24,
+    "speaker_id": "Joshua",
+    "content": "You as well."
+  },
+  {
+    "audio_start_offset": 1998.6,
+    "audio_end_offset": 2000.88,
+    "speaker_id": "Ria Rungta",
+    "content": "Yeah look nice, everyone. Bye."
+  },
+  {
+    "audio_start_offset": 2002.14,
+    "audio_end_offset": 2002.56,
+    "speaker_id": "Itay Dvir",
+    "content": "Cheers"
+  },
+  {
+    "audio_start_offset": 2004.09,
+    "audio_end_offset": 2004.36,
+    "speaker_id": "Joshua",
+    "content": "Bye."
+  }
+]

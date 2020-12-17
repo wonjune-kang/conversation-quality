@@ -1,0 +1,1328 @@
+[
+  {
+    "audio_start_offset": 0.0,
+    "audio_end_offset": 230.0,
+    "speaker_id": "Parisa",
+    "content": "Did y'all hear that?"
+  },
+  {
+    "audio_start_offset": 230.0,
+    "audio_end_offset": 231.8,
+    "speaker_id": "David",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 231.8,
+    "audio_end_offset": 235.3,
+    "speaker_id": "Parisa",
+    "content": "Officially being recorded. You might get a pop up that asks you to consent to be recorded."
+  },
+  {
+    "audio_start_offset": 235.3,
+    "audio_end_offset": 242.5,
+    "speaker_id": "David",
+    "content": "It just asked me if I wanted to leave the meeting."
+  },
+  {
+    "audio_start_offset": 242.5,
+    "audio_end_offset": 287.1,
+    "speaker_id": "Parisa",
+    "content": "Please don't leave the meeting. That's a rude way to ask. So, welcome to this conversation of Cortico's Local Voices Network. Thanks for agreeing to participate. We've begun the recordings so I need to share a little information as we begin. There are three main purposes of this conversation. First, to create a new space for us to listen and learn about each other's lives. Second, we want to connect across groups and in this case geographies to build relationships or to continue relationships we've already built. And third, we want to create a unique listening channel to lift up the voices and needs of the community, our local communities, to media candidates and local policymakers."
+  },
+  {
+    "audio_start_offset": 288.9,
+    "audio_end_offset": 345.7,
+    "speaker_id": "Parisa",
+    "content": "So we're inviting you to have a different type of conversation. These conversations are focused on sharing personal stories of our [lift] experience as you might be aware, rather than our positions on issues. So we're doing that to help build connections and foster conversations that can deepen our understanding of one another and what's happening in the nation. So the conversation is being recorded, transcribed, and added to this growing collection of similar conversations. As a participant in the conversation, you're providing consent to Cortico, the operator of the Local Voices Network to use the recording in accordance with its mission of fostering conversations in communities and the media, that can improve our understanding of each other. We'll be making the recordings available to Journalists, public officials, researchers, and other participants and partners in the project at Cortico's discretion with the goal of eventually making them accessible to the general public."
+  },
+  {
+    "audio_start_offset": 345.7,
+    "audio_end_offset": 373.1,
+    "speaker_id": "Parisa",
+    "content": "So this is a public conversation, and portions of it may appear in a local newspaper or website or be broadcast on a local radio station or appear elsewhere, including other forms of media. So please share only what you're comfortable with being heard by the general public. If you understand and agree to this, please say I agree. And I need you to just unmute yourselves and individually go around and say, I agree. So I'm going to start with David because he's un-muted."
+  },
+  {
+    "audio_start_offset": 373.1,
+    "audio_end_offset": 373.4,
+    "speaker_id": "David",
+    "content": "I agree."
+  },
+  {
+    "audio_start_offset": 376.7,
+    "audio_end_offset": 377.4,
+    "speaker_id": "Deza'Rae",
+    "content": "I agree."
+  },
+  {
+    "audio_start_offset": 378.5,
+    "audio_end_offset": 379.3,
+    "speaker_id": "Peter",
+    "content": "I agree."
+  },
+  {
+    "audio_start_offset": 382.1,
+    "audio_end_offset": 383.0,
+    "speaker_id": "Jennifer",
+    "content": "I agree."
+  },
+  {
+    "audio_start_offset": 390.7,
+    "audio_end_offset": 391.7,
+    "speaker_id": "Jen",
+    "content": "I agree."
+  },
+  {
+    "audio_start_offset": 391.7,
+    "audio_end_offset": 396.8,
+    "speaker_id": "Parisa",
+    "content": "And Jon, did we hear from you? I need you to unmute."
+  },
+  {
+    "audio_start_offset": 400.8,
+    "audio_end_offset": 401.5,
+    "speaker_id": "Jon",
+    "content": "I agree."
+  },
+  {
+    "audio_start_offset": 401.5,
+    "audio_end_offset": 448.9,
+    "speaker_id": "Parisa",
+    "content": "Awesome. Thanks. So we want to make sure everyone gets a chance both to share and learn from others in the conversation. To support those goals, we have a few guidelines. These will sound very familiar to you. First, speak for yourself and out of your own experiences, allow others to speak for themselves. Share the time, allow others to finish speaking and take turns. Stay curious, ask honest questions, pause, take time for reflection, listen generously, assume good intentions while acknowledging that even well-intended comments can have negative impact. Silence all devices including cell phones and smart watches, or just mute yourself. Is everyone okay with these guidelines?"
+  },
+  {
+    "audio_start_offset": 448.9,
+    "audio_end_offset": 448.9,
+    "speaker_id": "David",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 448.9,
+    "audio_end_offset": 448.9,
+    "speaker_id": "Peter",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 448.9,
+    "audio_end_offset": 448.9,
+    "speaker_id": "Jennifer",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 448.9,
+    "audio_end_offset": 459.0,
+    "speaker_id": "Deza'Rae",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 459.0,
+    "audio_end_offset": 460.5,
+    "speaker_id": "Jon",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 460.5,
+    "audio_end_offset": 505.4,
+    "speaker_id": "Parisa",
+    "content": "So for the ease of this virtual conversation, we're going to use a modified circle process where each person will take a turn. And I'm going to post the order for people to respond in the chat box, so that we can just keep track of who's going and what order we're going to go in. Jennifer, Peter. I spelled your name wrong, David."
+  },
+  {
+    "audio_start_offset": 505.4,
+    "audio_end_offset": 505.4,
+    "speaker_id": "David",
+    "content": "It's fine."
+  },
+  {
+    "audio_start_offset": 505.4,
+    "audio_end_offset": 505.4,
+    "speaker_id": "Parisa",
+    "content": "It's one of the easier ones."
+  },
+  {
+    "audio_start_offset": 505.4,
+    "audio_end_offset": 505.4,
+    "speaker_id": "David",
+    "content": "Just don't call me late for dinner, that's all that matters to me."
+  },
+  {
+    "audio_start_offset": 505.4,
+    "audio_end_offset": 579.2,
+    "speaker_id": "Parisa",
+    "content": "All right, sorry about that. So I'll help transition us from one person to the next in case there's any need for timekeeping, but we'll just keep going in this order. So first, actually I should have asked this first. You also could use a pseudonym should you choose to, and we can still change that if you prefer. You could put your pseudonym where you see the name at the bottom of your picture, you can rename yourself and we can use that as we continue the conversation should you choose to. Anybody want to do that? All good with names. The other thing I want to mention that wasn't in my rundown is that we upload the audio, but we discard the video. So the video is really just here for us to be able to see each other and have a more natural conversation. But there's nothing that's done with your image after the conversation, it's just the audio that we upload."
+  },
+  {
+    "audio_start_offset": 581.4,
+    "audio_end_offset": 631.9,
+    "speaker_id": "Parisa",
+    "content": "So first, we'll just go around. I know you all know each other's names, but we'll share our names and then a little bit about a value that brings you to this conversation. What made you say yes when I posted on Facebook and made the invitation? For the first round, I'll start. I'm Parisa. And one of the things that is really more and more important to me, but especially important to me right now is human connection. And you all were among the first folks I thought of when we knew that we needed to move to Zoom because I've missed you. So staying connected matters a lot to me. Jon."
+  },
+  {
+    "audio_start_offset": 631.9,
+    "audio_end_offset": 646.1,
+    "speaker_id": "Jon",
+    "content": "I'm Jon. And one of the things that intrigued me and made me want to do this was Gun Group was so great, and although we have vastly differing opinions on a lot of different subjects, I think every one of you is genuinely a very good person."
+  },
+  {
+    "audio_start_offset": 649.7,
+    "audio_end_offset": 651.0,
+    "speaker_id": "Parisa",
+    "content": "Jennifer."
+  },
+  {
+    "audio_start_offset": 656.9,
+    "audio_end_offset": 660.9,
+    "speaker_id": "David",
+    "content": "Did she get frozen?"
+  },
+  {
+    "audio_start_offset": 660.9,
+    "audio_end_offset": 662.2,
+    "speaker_id": "Parisa",
+    "content": "She looks frozen. Yeah."
+  },
+  {
+    "audio_start_offset": 677.2,
+    "audio_end_offset": 679.5,
+    "speaker_id": "Jon",
+    "content": "There we go."
+  },
+  {
+    "audio_start_offset": 679.5,
+    "audio_end_offset": 679.5,
+    "speaker_id": "Parisa",
+    "content": "Here you are."
+  },
+  {
+    "audio_start_offset": 679.5,
+    "audio_end_offset": 690.3,
+    "speaker_id": "Jennifer",
+    "content": "Yeah. I think two things that bring me to this group, one is trust. And how long has it been? Two years now?"
+  },
+  {
+    "audio_start_offset": 690.3,
+    "audio_end_offset": 690.3,
+    "speaker_id": "David",
+    "content": "Mm-hmm (affirmative)."
+  },
+  {
+    "audio_start_offset": 690.3,
+    "audio_end_offset": 690.3,
+    "speaker_id": "Parisa",
+    "content": "Almost exactly."
+  },
+  {
+    "audio_start_offset": 690.3,
+    "audio_end_offset": 815.7,
+    "speaker_id": "Jennifer",
+    "content": "Yeah. So we've had two years to I think build trust among ourselves. I mean, Jen, I'm really proud of you for putting on your sneakers and getting your clipboard out and getting yourself elected. Maybe it wasn't vocal enough while you were running, but I was really proud to know you that you did that, and went out and won. And John and I have had a couple of conversations about child rearing when I was in despair of an incident I had with my son, I mean complete despair. John came to my rescue and settled my nerves and known my views about guns and things like that really helpful with the other members of the group on this and that. What makes success, she paints a picture of herself not doing very well, but she's just doing spectacularly. So I'm really proud of her as a young woman on the rise. But I wanted to share something personal about my Guns Group. And I subsequently wrote about it, about being a victim during the Brett Kavanaugh trial and why I did not come forward for Brett Kavanaugh hearings, and why I did not come forward for 40 years about what happened. The local Cleveland Rape Task Force and they contacted New Orleans and found my case, which had been sitting for 40 years in some dusty warehouse. And now New Orleans police is actively pursuing it 40 years later, there's no statute of limitations it turns out. So I want to thank this group for forcing me to come out of what I had been keeping as some terrible secret for all this time and actually beginning to come to some closure with it. So thank all of you for your support. But in terms of COVID-19 is what we're talking about, right?"
+  },
+  {
+    "audio_start_offset": 819.8,
+    "audio_end_offset": 821.6,
+    "speaker_id": "Parisa",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 821.6,
+    "audio_end_offset": 873.9,
+    "speaker_id": "Jennifer",
+    "content": "I think some of my professional instincts have bubbled up, because we do crisis management training. John probably is very familiar with this if he hasn't disappeared. But the military does it a lot, we do crisis management training for many, many things. And I was on the H1N1 task force for our embassy in Serbia and also we were responsible for taking care of the American population, including sheltering in place as one outcome of H1N1 spread, but also keeping a track of what was happening in Serbia and Serbia's response. And so I'm really frustrated in my own local environment because I feel like my own local leaders, not Ohio necessarily, and I won't even get into the federal level, but on my local level where people are in their houses, they don't know what's going on."
+  },
+  {
+    "audio_start_offset": 873.9,
+    "audio_end_offset": 893.0,
+    "speaker_id": "Jennifer",
+    "content": "I've been really trying to break free from local authorities, some type of communications effort where if you do something like this and talk to people, even if it's only online. And so I feel like my instincts of crisis management are put out, but I have nothing to do with them because I'm nothing and nobody in this town and nobody listens to me, it's like, there she goes again. So very frustrating that I feel like I've got some expertise, but there's nothing I can do with that."
+  },
+  {
+    "audio_start_offset": 893.0,
+    "audio_end_offset": 915.7,
+    "speaker_id": "Parisa",
+    "content": "Thanks Jennifer. We're going to get more into COVID specific questions too, so we'll dig a little deeper. I'll just return us to just name and value that brought you to the conversation with Peter."
+  },
+  {
+    "audio_start_offset": 917.2,
+    "audio_end_offset": 954.4,
+    "speaker_id": "Peter",
+    "content": "Well, I think that I took a long, long break from Facebook and I just came back onto Facebook, I don't know, maybe three, four weeks ago give or take. And when this jumped up I thought, Oh, well maybe coming back onto Facebook was a value because it's been awhile since I've seen any of these folks and it is a memory that I cherish of the time that we spent, and frankly I hadn't seen my buddy Jon in a while. I was getting ready to send him an email anyway, so I thought, why not? This is probably a good way to reconnect."
+  },
+  {
+    "audio_start_offset": 959.7,
+    "audio_end_offset": 962.2,
+    "speaker_id": "Parisa",
+    "content": "Thanks Peter. Deza'Rae."
+  },
+  {
+    "audio_start_offset": 964.0,
+    "audio_end_offset": 1012.5,
+    "speaker_id": "Deza'Rae",
+    "content": "Yes, Deza'Rae. And I decided to join because similar to those who spoke before me, I really cherish and valued our time together in D C and online. And to think that there's an opportunity for that again, I wanted to jump on that because my conversations with most of the people in this group are still very different from the conversations I have with people at work or at the university, even if we have different opinions. There was just something that's missing from them that's in all of you. And I think it comes to that, that trust and being open to opinions and values or perspectives that are different from your own."
+  },
+  {
+    "audio_start_offset": 1016.4,
+    "audio_end_offset": 1018.7,
+    "speaker_id": "Parisa",
+    "content": "Thanks Deza'Rae. Jen."
+  },
+  {
+    "audio_start_offset": 1018.7,
+    "audio_end_offset": 1048.2,
+    "speaker_id": "Jen",
+    "content": "Hi everybody. Jen. I would say for me it's connection. I have been out and about a lot as an elected official, but I've also been going back for my teaching certificate and substitute teaching, and so I have become accustomed to talking to tons of people every day. And now it's just my husband and my two kids, and I love them dearly. But I'm excited to connect and talk to other people."
+  },
+  {
+    "audio_start_offset": 1052.9,
+    "audio_end_offset": 1055.1,
+    "speaker_id": "Parisa",
+    "content": "Thanks Jen. David."
+  },
+  {
+    "audio_start_offset": 1055.1,
+    "audio_end_offset": 1111.7,
+    "speaker_id": "David",
+    "content": "David here. The values that brought me to this conversation was the opportunity to reconnect with you all face to face. I tried to stay in contact with most of y'all on Facebook, either through the written word or private message or interactions in the comments on something that I may post or that you may post. And first of all, congratulations Jen on getting elected to the school board. Next step the governor's office. Right? So it was just curiosity to catch up with people and curiosity to check out this new form of technology, because some of you may not know that I did start my own Alabama news and media site at the beginning of the year. So this is something that I was definitely interested in as a journalist to see what it's all about and maybe take advantage of it to write some more in depth stories as I continue to grow."
+  },
+  {
+    "audio_start_offset": 1111.7,
+    "audio_end_offset": 1127.6,
+    "speaker_id": "David",
+    "content": "Because right now it's just me, but the plan is to add more staffs through college interns and people that want to get into journalism and have a platform to write. But as we continue to grow the staff and the readership, this may be something that I may be interested in and utilizing going forward."
+  },
+  {
+    "audio_start_offset": 1130.6,
+    "audio_end_offset": 1131.4,
+    "speaker_id": "Parisa",
+    "content": "Thanks David. Did we hear from everyone that round?"
+  },
+  {
+    "audio_start_offset": 1131.4,
+    "audio_end_offset": 1131.4,
+    "speaker_id": "David",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 1131.4,
+    "audio_end_offset": 1221.0,
+    "speaker_id": "Parisa",
+    "content": "Okay, great. So I know that, so this is a special group because we usually have folks who may not have known each other before gathering and you clearly have some basis. But since it has been a while, our opening question is around a story from your background that can help the rest of the group understand something about you and maybe especially what informed some of your concerns or experience around COVID-19. It doesn't necessarily have to be a direct link, but it's just a story that can help us understand what makes you tick, that's totally fine too, regardless of its relationship with the COVID-19 topic. So take a moment to think of just a story that you could tell in a minute or two that can help us get a little better understanding of you. Jon, are you ready to start?"
+  },
+  {
+    "audio_start_offset": 1221.0,
+    "audio_end_offset": 1275.8,
+    "speaker_id": "Jon",
+    "content": "Oh, absolutely. Again, Jon here. I think my background most of you already know, but I was in the military for 20 years and then I was a police officer for 20 years, and at the county, the state and, and the federal level. And now that I'm retired, I reflect back on that a lot. I had the misfortune or fortune, however you want to look at it. I guess experience wise, it was fortunate that it was misfortunate to have to go through it to work a couple of cases that involved home invasions. And that was when I was in Central US, and they were pretty brutal and they left an impact on my life. I got a call the other day from the VA, they were wanting to survey veterans and take up some opinions about PTSD, and I said I don't think I have PTSD."
+  },
+  {
+    "audio_start_offset": 1275.8,
+    "audio_end_offset": 1336.6,
+    "speaker_id": "Jon",
+    "content": "And she pursued it a little further and said, \"Well do you have anything in your life that stays with you?\" And I said, yeah, when I pulled up 18 month old child from the ground that was thrown from a car and was dead, that was pretty brutal. But I think about every day the home invasion cases I worked on. So hence, we're now in this with the COVID-19 virus and it's well on my mind, I feel very prepared because I've always taken my own safety because of my background to heart. And I think I and some others urged that when we had the Gun Group, I respect everybody's decision whether they want or don't want to have a firearm. But I guess, and I don't mean to be doom and gloom, but it concerns me that we're only about this far from services breaking down and then society breaking down. I pray it doesn't come to that, but I've already heard rumors about thefting on the rise and vandalism increase. And so I hope it doesn't come to that, but that's what COVID-19 has been on my mind about lately. I'm done."
+  },
+  {
+    "audio_start_offset": 1336.6,
+    "audio_end_offset": 1346.2,
+    "speaker_id": "Parisa",
+    "content": "Thanks John. Jennifer."
+  },
+  {
+    "audio_start_offset": 1346.2,
+    "audio_end_offset": 1413.9,
+    "speaker_id": "Jennifer",
+    "content": "Yeah. Somehow okay. I think I already said in the opening that having led a task force for the state department, and having received meaning for that task force, I'm in a bit of despair locally from my town about preparedness and also attitudes. And I guess I don't want to talk about the national level, in our state level Ohio, it's pretty well publicized now. But I think there's a real role at the local level for politicians and police officers and others that are members of the board of education for example, coming forward to make an effort to communicate with people what's going on. And I think we're not used to doing that, we're not used to being in a crisis situation and having to make those communications. So I've been trying to gently nudge, our elected officials not to send out memos every day or settle, but do something like this or something on Facebook so that you can connect with the people that elected you and be more informative."
+  },
+  {
+    "audio_start_offset": 1413.9,
+    "audio_end_offset": 1448.6,
+    "speaker_id": "Jennifer",
+    "content": "Because what happens to the national level or the Ohio level, I'm from this town called Solon. It seems still so distant from us. We have in Ohio 400 cases, and of those the majority of them are in my County. And I just stopped hearing anything from my officials other than wash your hands and physical distancing. So I'm a little bit in despair of local officials, they're not seized with the urgency of this. And if they're not seized with the urgency, it's hard to tell people to stay off the streets and not go do those things."
+  },
+  {
+    "audio_start_offset": 1454.9,
+    "audio_end_offset": 1470.2,
+    "speaker_id": "Parisa",
+    "content": "Thanks Jennifer. Deza'Rae it's nice to see your face. Peter."
+  },
+  {
+    "audio_start_offset": 1470.2,
+    "audio_end_offset": 1470.3,
+    "speaker_id": "Deza'Rae",
+    "content": "So I thought I'd expose myself."
+  },
+  {
+    "audio_start_offset": 1470.3,
+    "audio_end_offset": 1524.7,
+    "speaker_id": "Peter",
+    "content": "I've been thinking a lot lately, especially as I listened to governor Cuomo and our local County executive talk on a daily basis about supply, and about not being able to get the basic supplies that they need to keep the first responders and the medical people safe. Not being able to get the ventilators that we're going to need, that the other hospital based supplies, hospital beds, you name it, that we're going to need. And it reminds me of a job that I had in the late nineties at Carrier that was all about supply chain. And my job was to optimize the supply chain, getting products from our factories to our customers in the quickest and most efficient way possible."
+  },
+  {
+    "audio_start_offset": 1525.7,
+    "audio_end_offset": 1560.0,
+    "speaker_id": "Peter",
+    "content": "And while the factories were here in the US, it was doable we could achieve the goals that we needed to achieve. But the company was engaged in a massive effort to outsource, if not to Mexico, then to China. And I wrote memo after memo, email after email, report after report, talking about how, while this might seem wise from a cost perspective, it would save labor dollars. It was very unwise from a supply chain, and it's curial perspective. And Oh, by the way."
+  },
+  {
+    "audio_start_offset": 1560.0,
+    "audio_end_offset": 1610.6,
+    "speaker_id": "Peter",
+    "content": "Supply chain and a security perspective, and oh, by the way, it probably really wasn't any cheaper when you factor in transportation cost. I was told over and over again how wrong I was and how it was all going to be fine, and it's not fine. I was thinking this morning after listening to the governor talk again about ventilators and about factories being converted over, and there are at least three factories that used to be in the carrier network that could be making ventilators tomorrow if they were still open and if they were asked to do it. It wouldn't be a tough transition for any of them, but guess what? Those factories are all closed."
+  },
+  {
+    "audio_start_offset": 1610.6,
+    "audio_end_offset": 1658.6,
+    "speaker_id": "Peter",
+    "content": "That work is all being done in China, some of it in Mexico, and one of those factories is one of the ones that our president talked about saving when he was either still a candidate or right after, and how really sad and tragic that is that we are going to pay the price for doing what seemed like the best idea, I guess, for the executives at the time but is now going to have real, real world ramifications. Think about what would have happened in 1940 if all of our heavy industrial manufacturing had been outsourced and we wouldn't have been able to ramp up to prepare for World War II with our supply, the military goods we needed then. This is the same thing, and here we are again."
+  },
+  {
+    "audio_start_offset": 1662.3,
+    "audio_end_offset": 1665.1,
+    "speaker_id": "Parisa",
+    "content": "Thank you, Peter. Deza'Rae?"
+  },
+  {
+    "audio_start_offset": 1670.1,
+    "audio_end_offset": 1735.1,
+    "speaker_id": "Deza'Rae",
+    "content": "I think for me, there's a couple things. It's obviously a public health concern that people don't think that they are carriers for the virus or that they can't get it because they're young or they're not sick, but they're also putting the vulnerable at risk, but it also seems that the whole COVID thing is getting very political, and it isn't necessarily ... We're not really focusing on public health and getting everybody tested and helping people stay healthy. It's kind of like people who are getting tested are mostly like employees or people who can pay $5,000 for the test, and it seems that like all the politicians that are getting involved, and it doesn't really seem like the focus is on necessarily public health when it's a public health matter."
+  },
+  {
+    "audio_start_offset": 1735.1,
+    "audio_end_offset": 1791.3,
+    "speaker_id": "Deza'Rae",
+    "content": "I don't know if because it's happening at election time, that it's a coincidence, but similar to what John mentioned earlier, crime rates are going up. Jails and prisons are releasing people from jail early to decrease the population in these facilities. They're not, like in Oregon, they're not arresting people for low level crimes, which may be something that's they should necessarily been doing in the past, but knowing that, people feel a little more free to do whatever they want, and that's not good. So, it seems like there's multiple things going on, and we need to more take like a holistic view at it and not just one track mind or one pathway because there's many different factors in play."
+  },
+  {
+    "audio_start_offset": 1795.9,
+    "audio_end_offset": 1798.4,
+    "speaker_id": "Parisa",
+    "content": "Thanks, Deza'Rae. Jen?"
+  },
+  {
+    "audio_start_offset": 1798.4,
+    "audio_end_offset": 1853.8,
+    "speaker_id": "Jen",
+    "content": "So, yeah. I would say that something that has been coming up for me a lot is I spent a lot of my adult life living on the Susquehanna River, which is a very large river that goes through several States but through all of Pennsylvania, and so I have, before, like I've been evacuated from a place where I lived. The town I lived in actually had like a small Island in the river, and so that would flood, and we'd all get evacuated. So, I feel like I lived before through times when everyone around me, we all had to hit pause, take care of ourselves, take care of our houses, and we wouldn't have mail for a couple of days, and so things just weren't necessarily working the way you are used to them, but we were always in our own little bubble. There was always an outside world not very far away where things were still working, and you could still go for help and go for supplies."
+  },
+  {
+    "audio_start_offset": 1855.1,
+    "audio_end_offset": 1905.6,
+    "speaker_id": "Jen",
+    "content": "So, two Thursdays ago, our governor came out and said, \" Hey, everybody. How about we just not get together in groups larger than a hundred?\" but he didn't say anything about schools, and so every parent in the state said, \"Wait, there's more than a hundred kids in my kid's school, so what does that mean?\" I think we all started freaking out because we had some information but not enough. I took this trip to Costco, and I swear I had a panic attack, and it was like I've never had one before. There was no chicken like at all. There's no toilet paper, that sort of thing. I was out of chicken. I just happened to be out of it, but they had a couple like full chickens. I had to buy like a whole chicken. I thought, I grew up hunting. I know how to butcher this chicken. I'll be okay. I was all like, \"Oh, my God. Oh, my God.\""
+  },
+  {
+    "audio_start_offset": 1905.6,
+    "audio_end_offset": 1929.8,
+    "speaker_id": "Jen",
+    "content": "I thought to myself, this is a problem, and there's no outside world to go to where it's safe and where it's okay. We're all going to experience this. It just made my world feel like it was very small, and I keep thinking about that. I keep thinking about, oh, if I need this, can I just go ... Oh, no, I can't. Never mind. So, that is what's been hitting me a lot."
+  },
+  {
+    "audio_start_offset": 1929.8,
+    "audio_end_offset": 1929.8,
+    "speaker_id": "Parisa",
+    "content": "David?"
+  },
+  {
+    "audio_start_offset": 1937.0,
+    "audio_end_offset": 1970.0,
+    "speaker_id": "David",
+    "content": "What Jen just said reminded me of a meme that's been going around in my area about everybody now knows what it feels like to go through a hurricane, which is the one of the two life stories I'm going to combine real quickly to illustrate how I feel about this. Several years ago, the Southeast was hit by a massive snow and ice storm, and I don't know if y'all remember this, but Atlanta shut down, Birmingham shut down. Atlanta looked like The Walking Dead where the people were getting out of their cars and walking home off the interstate because they couldn't go anywhere. They were frozen in place."
+  },
+  {
+    "audio_start_offset": 1971.1,
+    "audio_end_offset": 2053.3,
+    "speaker_id": "David",
+    "content": "Then, I also hearken back to Hurricane Ivan, which was the big hurricane before Katrina. Ivan actually hit down here in Coastal Alabama, but yeah, we've been through many hurricanes down here, so we know how to prepare. We know how to do all that stuff, but we have a saying down here, Hurricanes, if it's below a three, it's just a reason to party. If it's a three, it's time to start paying attention. For me, we're at class hurricane three, which means it's time to pay attention, be ready, get your supplies ready. Nobody else outside of coastal areas really knows how to prepare for those types of things. We do it every year. We get, go pre-buy what we can buy that's going to last, shelf-stable food, that kind of stuff. Then, we just go get the necessities when a storm comes, but nobody else knows how to do that, so they're all reacting the way Birmingham and Atlanta did when they got that big snow and ice storm because Birmingham and Atlanta don't get big ice and snow storms frequently, so nobody knew how to react, so that's what I'm kind of seeing. That's how I relate what's going on right now, is with those two events."
+  },
+  {
+    "audio_start_offset": 2053.3,
+    "audio_end_offset": 2139.2,
+    "speaker_id": "Parisa",
+    "content": "Thanks. I don't know about anyone else but I'm just feeling the weight of all that's been shared, the sort of emotional significance as well as the worries based on concrete experiences folks have had from other trying times, to put it very mildly, but I just want to acknowledge that there's a weight to that that we're all carrying. I think carrying each other's perspectives also add ... It's helpful to say your thing, but also, it adds a weight to carry that, so just want to acknowledge that. I'm wondering about, so several of you shared some part of a response to this. So, I'm just going to go a little deeper into it, so that I guess maybe that wait observation is a preface as well, but we want to move into some conversations about your hopes and concerns during this time of pandemic. I have a few questions to start us off, but then we can kind of go a little more freeform after we've gone through the first couple of questions."
+  },
+  {
+    "audio_start_offset": 2139.2,
+    "audio_end_offset": 2169.5,
+    "speaker_id": "Parisa",
+    "content": "So, I'm going to start though with a hope question, which is just, what are some of the things that have given you hope since your community started responding to COVID-19? If you could share a story from your experience that helps illustrate that, that'd be great. I'm going to have us go in the same order for this question and the next, and then we'll go freeform. So, let's start again with Jon."
+  },
+  {
+    "audio_start_offset": 2170.6,
+    "audio_end_offset": 2211.8,
+    "speaker_id": "Jon",
+    "content": "Okay. Well, I'd like to sound optimistic, but I'm not real optimistic about the way people, my perception of how people are reacting to it. I don't think young people are taking it serious enough, but I guess, what I do see positive that gives me hope is that overall, I think people are coming together. I guess, for a while this weekend, politicians came together. They seem to have separated now. They're setting a poor example for that, but I don't want to get political. I just think it's wrong especially when we all need some resolution, so does the stock market."
+  },
+  {
+    "audio_start_offset": 2212.7,
+    "audio_end_offset": 2236.4,
+    "speaker_id": "Jon",
+    "content": "I do think people in general, I see a lot of people that ... Facebook is my obvious big connection to the world now as it is maybe for most of you. I'm not a Twitter guy, but I do see people that are talking more and listening to other people. I think that's a little better now than it was. I'm hoping so, anyway. That's really about all I can say about it though."
+  },
+  {
+    "audio_start_offset": 2242.9,
+    "audio_end_offset": 2251.1,
+    "speaker_id": "Parisa",
+    "content": "Thanks. I'll just share the question in case folks need a refresher as we go around too. Jennifer?"
+  },
+  {
+    "audio_start_offset": 2251.1,
+    "audio_end_offset": 2288.3,
+    "speaker_id": "Jennifer",
+    "content": "Hi. Okay. I don't know why it lags on me. Probably you want to hear me. But I have a hope. I'm on home quarantine with my 17-year-old son, and the last couple of years have been dismal from his point of view. He's a 17-year-old. Very difficult from my point of view. So, I have this hope that he'll have this memory of the two of us in this house having to rely on each other, entertaining each other, and maybe chatting a little bit more likely than we had before. You'll not automatically go into screaming matches about stupid stuff."
+  },
+  {
+    "audio_start_offset": 2288.3,
+    "audio_end_offset": 2324.0,
+    "speaker_id": "Jennifer",
+    "content": "So, my hope is that this will become a memory for me and my son of how we bonded together and helped each other and developed a greater appreciation for each other. I see no evidence of that happening on his part at all. It's just strictly hope right now. The reality is I can't get him out of bed. I can't get him to do much of anything, but I think there's a part of his brain that knows that I'm all he's got right now, and vice versa. He's all I've got. So, I hope that eventually, this will turn into that type of pleasant memory."
+  },
+  {
+    "audio_start_offset": 2325.1,
+    "audio_end_offset": 2367.7,
+    "speaker_id": "Jennifer",
+    "content": "I just moved back to this place where I was born five years ago, and I moved back into an area where there's already pretty entrenched relationships especially for people my age, with people that have known each other their entire lives. I kind of come in here with all my background and da, da, da, run for mayor, do all this snazzy stuff. I'm really impressed by the friendships that I've been able to develop, and I think that this pandemic that we're in right now has helped me and my circle of friends that I've come to know really appreciate each other, appreciate our similarities, appreciate our differences, and appreciate that we're there for each other."
+  },
+  {
+    "audio_start_offset": 2367.7,
+    "audio_end_offset": 2398.2,
+    "speaker_id": "Jennifer",
+    "content": "We're going to do a Zoom of my little tennis club on Wednesday, and most of the ladies who play are in their 60s and 70s, so they're all vulnerable. Their kids have moved away, and now, they're like, \"Oh, I'm going to download that. Help me figure out how it works.\" They're obviously kind of excited about having something to do with being able to get together at their regular time than what we normally play tennis and still socialize a bit. I thought that was nice that we were there for each other. The friendships really came to the fore."
+  },
+  {
+    "audio_start_offset": 2401.8,
+    "audio_end_offset": 2403.3,
+    "speaker_id": "Parisa",
+    "content": "Thanks, Jennifer. Peter?"
+  },
+  {
+    "audio_start_offset": 2405.1,
+    "audio_end_offset": 2476.1,
+    "speaker_id": "Peter",
+    "content": "Well, I'm a little bit like John here because I'm not feeling it yet that everything's going to be okay. I live across the street from one of the largest grocery stores in the Syracuse area, and the last time I was in was about a week and a half ago, and it was a zoo. That's a kind term and an insult to zoos. People were being positively cruel to each other, pushing, shoving, grabbing the last of ... For what? I'm still a little unclear what people are going to do with 487 rolls of toilet paper and 18 gallons of milk that's all going to go bad before they can possibly consume it. I'm just hoping that the madness passes sooner rather than later and that people can start being more concerned about each other than about themselves because if they keep this up, I think, John, I think you're right. I think we get to the brink of systematic breakdown."
+  },
+  {
+    "audio_start_offset": 2476.1,
+    "audio_end_offset": 2539.1,
+    "speaker_id": "Peter",
+    "content": "I guess my glimmers of hope come from my county executive for whom I had no time until about three weeks ago who's seeming to step up to the plate. I don't know who's given him advice, but whoever it is, he's doing a good job. I'm hopeful for the governor who not too many people like, but as a number of people have said, all of his worst qualities that people hated the most are serving him and us well in this crisis. He did a great conference this morning and actually did make me feel a little better about how we were going to get to the other side, but boy, I keep thinking ... I remember back in the days when I was little, and I would see the pictures of the kids in iron lungs from polio, and I just feel like it's coming back that way. Well, one of these days, I'm hoping that something's going to ... Sky's going to open up, and I'm going to get a ray of sunshine. It's going to make me feel better."
+  },
+  {
+    "audio_start_offset": 2541.4,
+    "audio_end_offset": 2543.3,
+    "speaker_id": "Parisa",
+    "content": "Thanks, Peter. Desiree?"
+  },
+  {
+    "audio_start_offset": 2548.5,
+    "audio_end_offset": 2596.2,
+    "speaker_id": "Deza'Rae",
+    "content": "I'm kind of 50/50 on the optimism too. I feel like a lot of systems in society are breaking down right now, and we are trying to keep it together, but we don't have a lot of means to do that right now because of the pandemic. I feel like the breaking down is forcing us to have these relationships with people that we might have disconnected with or haven't socialized with as much because of work or other life things that were distracting us, which is good, but I'm mostly worried about people who might be going homeless or losing their jobs."
+  },
+  {
+    "audio_start_offset": 2596.2,
+    "audio_end_offset": 2647.0,
+    "speaker_id": "Deza'Rae",
+    "content": "I guess I'm thankful that they're trying to keep research going. I mean I'm, right now, the only one in my household who has a job, so I'm thankful, optimistic that the governor isn't allowing evictions in the State of Oregon, those kinds of things, kind of things that society was behind on already for people who don't have a lot of resources or security. It's kind of like we seem a little late. It's happening because of this really bad experience when people were already kind of experiencing these things. So, it's confusing for me with a mix of the good and the bad right now."
+  },
+  {
+    "audio_start_offset": 2650.7,
+    "audio_end_offset": 2651.7,
+    "speaker_id": "Parisa",
+    "content": "Thanks, Deza'Rae. Jen?"
+  },
+  {
+    "audio_start_offset": 2657.3,
+    "audio_end_offset": 2692.1,
+    "speaker_id": "Jen",
+    "content": "So, while this is all crazy, I feel like my community is responding really well to it, and just to give you guys a little bit of background, this year, by the end of November, the incidents of flu in Pennsylvania was up 1, 000%. The epicenter of it was here in Western PA, and it went through my son's school. I joked that the elementary schools are just infectious disease wards, like at this point, I mean they're just gross, so my whole family had the croup go through in November, and then we all got the flu in December. So, a lot of people had just been sick and like laid out."
+  },
+  {
+    "audio_start_offset": 2692.1,
+    "audio_end_offset": 2719.9,
+    "speaker_id": "Jen",
+    "content": "A dear friend of mine who lives here in town, her niece who's 20, two weeks ago, was in Disney for spring break. Last week, she was in the hospital. They did test her. She has not received the results yet, but they also said to her, \"Well, you just have pneumonia and like the fact that a 20-year-old is hospitalized for pneumonia is kind of par for the course this winter.\" They didn't even necessarily think it meant she had COVID. They just tested her because she had traveled because she had been in Disney."
+  },
+  {
+    "audio_start_offset": 2719.9,
+    "audio_end_offset": 2763.5,
+    "speaker_id": "Jen",
+    "content": "So, I know I've seen in some other areas of the country, they are like truthers about this, who don't think it's real. It's the flip side. Around me, people were like, \"Have we just had this the whole time?\" It's just been so bad. So, some of the stuff that we're doing, like in the local town Facebook groups, St. Patrick's Day, it was print out a shamrock and put it in your window so that when people walk around with their kids, they can play like scavenger hunt, right? Writing messages on driveways. We have a local gym teacher who he and his family are making videos teaching you how to do a dance, and they're putting them out every day, and it's a way to get you moving."
+  },
+  {
+    "audio_start_offset": 2764.3,
+    "audio_end_offset": 2796.2,
+    "speaker_id": "Jen",
+    "content": "So, it just seems like we're doing some creative things to try to stay connected, oh, and putting Christmas lights back up. I don't know if you guys are doing that. People are putting their Christmas lights back up, or for some people, just turning them on again because they never actually got to take them down. So, I don't want to say like everything's fine here with with what's going on, but it just seem to me that it's forcing us to do some creative things to stay connected. So, that feels good."
+  },
+  {
+    "audio_start_offset": 2799.1,
+    "audio_end_offset": 2801.2,
+    "speaker_id": "Parisa",
+    "content": "Thanks, Jen. David?"
+  },
+  {
+    "audio_start_offset": 2802.2,
+    "audio_end_offset": 2841.5,
+    "speaker_id": "David",
+    "content": "My hope out of all this is that we as a society and we as individuals and we as a government understand or come to understand the importance of preventative and maintenance health. I know the healthcare, health insurance, Medicare for all has been a big topic in this presidential election cycle. I don't ... Yeah, I'm not trying to get political here, but I think a lot of people from a lot of different political points of view can agree that getting your annual physical, getting your annual exams and your checkups depending on your age and your family history is important."
+  },
+  {
+    "audio_start_offset": 2842.5,
+    "audio_end_offset": 2895.1,
+    "speaker_id": "David",
+    "content": "I think once all this is said and done and this is over with and we start to get it back to normal society, I think it's incumbent upon us as individuals to put pressure on our society and our elected officials to develop a plan that even if we don't do something like Medicare for all, that we do something to make preventative health like physicals and vaccinations and the different exams that people can do readily available even if they can't necessarily afford it or afford the insurance to be able to pay for it because prevention will ... catching stuff early and taking steps to abate it helps keep down on pandemics, makes it cheaper to treat, conditions that come up like breast cancer or even diabetes."
+  },
+  {
+    "audio_start_offset": 2895.3,
+    "audio_end_offset": 2924.9,
+    "speaker_id": "David",
+    "content": "For me, for example, I'm a type 2 diabetic. All I do is take a couple of Metformin pills a day because it was caught early. I've adjusted my diet, I take my medication, everything's fine, but so as a ... That's my hope is that as a society and as individuals, we come to understand how important preventative and maintenance health care is, and we put a plan in place to make that accessible to the most number of people possible."
+  },
+  {
+    "audio_start_offset": 2928.7,
+    "audio_end_offset": 2981.5,
+    "speaker_id": "Parisa",
+    "content": "Thanks, David. So, I hear the real challenge with separating hopes from concerns, but our next question maybe predictably is turning toward what most concerns you about your community in response to the pandemic. I have written the question again in the chat box, so, yeah, what are some of your concerns and if there's a particular story you'd like to share? We can go in the same order or if you feel like you covered it already, you can pass or you could share something different. We'll kind of take it lightly as you want to expand on your stories if you've already shared some concerns or if there's something more pointed that you want to share."
+  },
+  {
+    "audio_start_offset": 2984.2,
+    "audio_end_offset": 3042.3,
+    "speaker_id": "Jon",
+    "content": "I can go now. I think I'd just expound a little bit on what we had talked about before, but I think it's kind of amusing that if you can find any humor in any of this, I guess amusing is not the best term, but Prepper guy and Prepper gal were laughed at heinously for several years, and now, Prepper guy and Prepper gal are looking pretty darn smart. I mean, it's not the nuclear holocaust that's arrived, but ... and I wouldn't describe myself as a Prepper or my wife, but we've always been people to be prepared about especially like food. You could live on my wife's pantry. We could live for six months. It's never been a question for us, that kind of stuff, but now, people who want to try to make up ground or make up time, that's where all the panic buying comes from. It really mystifies me with people."
+  },
+  {
+    "audio_start_offset": 3042.8,
+    "audio_end_offset": 3090.3,
+    "speaker_id": "Jon",
+    "content": "I mean, like I think Peter said, or was it David? I'm sorry, I can't remember, but they're going to buy 18 gallons of milk. It's all going to go bad before they drink it. They don't even know what to buy. God forbid, people make something from scratch ingredients, that's every day with my wife. She's a good cook, by the way. By lack of the gym, we are suffering from it now, but we'll get back on track when this all comes to an end, but I guess it's just concerns are there. I mean, I have concerns about us as a society. I hope we don't break down, and I hope that our ... I hate to say I ever had so much faith in our government, but I hope they can come through and at least make smart decisions that help sustain us all through this."
+  },
+  {
+    "audio_start_offset": 3090.3,
+    "audio_end_offset": 3103.8,
+    "speaker_id": "Parisa",
+    "content": "John. We would have gone to Jennifer, but she seems to hopped off."
+  },
+  {
+    "audio_start_offset": 3103.8,
+    "audio_end_offset": 3103.8,
+    "speaker_id": "Jon",
+    "content": "Disappeared."
+  },
+  {
+    "audio_start_offset": 3103.8,
+    "audio_end_offset": 3103.8,
+    "speaker_id": "Parisa",
+    "content": "We lost her for a second. So, Peter?"
+  },
+  {
+    "audio_start_offset": 3103.8,
+    "audio_end_offset": 3123.8,
+    "speaker_id": "Peter",
+    "content": "I'm really worried about the people who don't have enough to have been prepared. I worry about the poor. I worry about the homeless. I worry about the elderly."
+  },
+  {
+    "audio_start_offset": 3123.8,
+    "audio_end_offset": 3198.4,
+    "speaker_id": "Peter",
+    "content": "I worry about the homeless. I worry about the elderly who couldn't have gotten ready for this even if they had wanted to get ready for this. We're probably not quite as well prepared as John, I don't think we could go six months. But I know we could do easily two or three without a whole lot of stress in our lives, and without a whole lot of lifestyle change. But there are people that don't know what they're going to do tomorrow. Even people who don't know what they're going to do this afternoon. And those are the people that I despair for because nobody seems to be stepping up to take care of them. Yeah, they did a few things here. They made the buses free. Well, okay. But they closed the bus depot. So the homeless people have no place to go, to get off the street, and it's snowing here. We're going to have to figure this out or we're going to end up with an even bigger problem than we're already going to end up with. Because, if those folks get sick and they got no place to go, and nobody to take care of them it's just going to spread it even worse than it already is."
+  },
+  {
+    "audio_start_offset": 3201.9,
+    "audio_end_offset": 3208.0,
+    "speaker_id": "David",
+    "content": "Jennifer said she had been disconnected again, so I assume she'll come back on whenever she can get re-establish."
+  },
+  {
+    "audio_start_offset": 3208.0,
+    "audio_end_offset": 3211.7,
+    "speaker_id": "Parisa",
+    "content": "Oh, thanks David. Deza'Rae?"
+  },
+  {
+    "audio_start_offset": 3218.0,
+    "audio_end_offset": 3281.7,
+    "speaker_id": "Deza'Rae",
+    "content": "I think some of my concerns are similar to what I had said about why I'm not optimistic. More of the vulnerable populations who were already disenfranchised before this whole pandemic thing broke out, how they're going to stay afloat now. And seeing the government's response to that. Just, basically similar to what Peter had said. People who wanted to prepare, they couldn't prepare anyways. People are lining up at 5:00 AM like black Friday lines to get groceries. And the elderly, they have shopping hours for elderly, but it's 7:00 AM to 8:00 AM. I'm not sure how many elderly wake up that early. My grandpa sleeps in. So, I guess I'm just really concerned about the response for those who aren't so fortunate."
+  },
+  {
+    "audio_start_offset": 3285.3,
+    "audio_end_offset": 3287.0,
+    "speaker_id": "Parisa",
+    "content": "Thanks Deza'Rae. Jen?"
+  },
+  {
+    "audio_start_offset": 3288.5,
+    "audio_end_offset": 3337.2,
+    "speaker_id": "Jen",
+    "content": "I think I have short term and longterm concerns. And I'm really staying focused on my local area because that's what I can control. When we think about gossip we always say, whenever you hear gossip the real answer is probably somewhere in between the two. Usually gossip is crazy, there's two sides to it. But I have this different opinion about institutional gossip. And so when I ran for school board, part of my platform was that I thought we needed to be communicating with people more about what happens, actively communicating with them. And that's because in my experience working in university marketing is, if you don't tell people something, they will just make stuff up, fill in the gaps."
+  },
+  {
+    "audio_start_offset": 3338.2,
+    "audio_end_offset": 3384.8,
+    "speaker_id": "Jen",
+    "content": "So I found that out when running, I found that I would encounter a lot of weird rumors. And I would think to myself, \"That's not true. That can't be true, but I understand why somebody's made this up.\" Right? So locally, we do have a brand new superintendent who came on board like a week before I got on the board. And he is trying to communicate a lot more, but I had taken it upon myself to join all the Facebook groups for the elementary schools, for the different... Class of 2025, or whatever. They all have Facebook groups for their parents. And I'm actively going into those and answering people's questions. Because everybody has a lot of questions. Even with all the communication the district puts out, they want to know stuff. I think that, that's one way I can be helpful in my own little sphere of influence."
+  },
+  {
+    "audio_start_offset": 3384.8,
+    "audio_end_offset": 3425.9,
+    "speaker_id": "Jen",
+    "content": "So, to give you the opposite, what I don't want to see happen... Like, today at noon the governor of Pennsylvania said that my County, Allegheny County, would be going on a stay-at-home order starting eight o'clock tonight. And what does that mean? We don't know. The announcement said he'll tell us more details later today. So, that to me is just a situation ripe for rumors, conspiracy theories, just all sorts of misinformation. Right? Because, you can't just tell people that and not fill in the gaps. It also just gets people panicked for no reason."
+  },
+  {
+    "audio_start_offset": 3425.9,
+    "audio_end_offset": 3491.1,
+    "speaker_id": "Jen",
+    "content": "But then, my longterm concern would be... Today communicating on Facebook Groups locally, a man asked me what the school was going to do with collecting taxes come August. In the state of Pennsylvania, the way we fund local schools is we tax everyone's properties. So property tax is the only way we fund our schools. And so typically what happens is as you're paying your mortgage every month you have a payment rolled into it that will sit in an escrow account. And then when school taxes are due, when your property taxes are due, the bank will just take them out of the escrow account. So a man said to me, \"Well if people can't pay their mortgages right now, how are they going to be able to pay their property taxes?\" And he's right. If you're not able to pay your mortgage right now, you're not putting anything into your property tax account. So what will happen in August? My biggest concern is that we're going to feel the ramifications of this, not just for months, but possibly years. Because this is huge."
+  },
+  {
+    "audio_start_offset": 3491.6,
+    "audio_end_offset": 3515.2,
+    "speaker_id": "Jen",
+    "content": "So in that one little microcosm example, if people can't pay their mortgage they can't pay school taxes, and then we have no money to run our schools. I don't know what we'll do. And these are big questions that I feel like we need people to be figuring out. And when those people can't even figure out how to get face masks to our doctors, I'm not sure how they're going to figure this one out."
+  },
+  {
+    "audio_start_offset": 3520.1,
+    "audio_end_offset": 3523.2,
+    "speaker_id": "Parisa",
+    "content": "Thanks Jen. Let's do David and then Jennifer."
+  },
+  {
+    "audio_start_offset": 3524.9,
+    "audio_end_offset": 3593.5,
+    "speaker_id": "David",
+    "content": "My concern, and I'm going to start sounding a little bit like one of those conspiracy theorists that Jen is concerned about, is the amount of unquestioned power that we're giving our government institutions right now. Now I understand it's an emergency situation. I also understand, living in a hurricane zone, that government institutes do need to have some sort of emergency powers to be able to exercise, to be able to protect the public. I understand that, I get that. But one of my concerns as somebody that leans towards the libertarian political philosophy is, once we give a government entity a power and we don't question it or we don't put limitations on it, we lose that right. We lose that civil liberty forever. Like for example, we are currently right now under a national emergency declaration for 9/11. Now that national emergency declaration back right after 9/11 was needed so that the federal government could direct resources to the response of that terrorist attack."
+  },
+  {
+    "audio_start_offset": 3593.8,
+    "audio_end_offset": 3656.8,
+    "speaker_id": "David",
+    "content": "But nobody that I've asked this question to has been able to give me a good answer to, \"Why do we still need a national emergency declaration for 9/11 in the year 2020?\" So I see stuff like that, as somebody that leans towards the libertarian philosophy, and I'm sitting here questioning, \"Do we need to be giving all of this power to the government entities right now, with no questions asked? In hopes that they will give it back to us one day?\" Because, I've seen instances where it's not come back, and that's the concern. That's my biggest concern is, are we going to be able to come back from some of the things the government has done, when it comes to civil liberties and free and open society, that they've had to do for an emergency response. Because, nobody's really questioned do they even have the authority to do it? I'm done."
+  },
+  {
+    "audio_start_offset": 3658.1,
+    "audio_end_offset": 3662.1,
+    "speaker_id": "Parisa",
+    "content": "Thanks David. Jennifer, and then we'll go a little open conversation."
+  },
+  {
+    "audio_start_offset": 3662.1,
+    "audio_end_offset": 3688.7,
+    "speaker_id": "Jennifer",
+    "content": "I guess it was fate that I went last because I got to listen to David with whom I disagree on a number of points, it's probably not all that surprising. But first to say I really can't compete with cute pets and cute kids. Thank you for bringing them in. It's nice to see that normalcy, I guess, in our lives."
+  },
+  {
+    "audio_start_offset": 3688.7,
+    "audio_end_offset": 3743.3,
+    "speaker_id": "Jennifer",
+    "content": "I guess I differ with David on the point of leadership. And I'm not saying, David, that you don't want to see strong leadership. It might seem like you're saying you don't want strong leadership that goes unfettered or something like that. But, what I think we're lacking right now is just the opposite. We're lacking strong leadership. And I listen to Doris Kearns Goodwin, I happened to like her, and she does a lot of work on leadership. Then given my profession, John, you probably have too, done a lot of reading on leadership, and tried to put it into practice when I was leading embassies. Not least of which, when our embassy got attacked and burned, when the Serbs attacked it when we recognized Kosovo. There was evacuation and I was separated from my young son for a month. It was very traumatic, families were separated. And before that I was involved with the war in Bosnia and things like that."
+  },
+  {
+    "audio_start_offset": 3749.2,
+    "audio_end_offset": 3798.3,
+    "speaker_id": "Jennifer",
+    "content": "We do need strong leadership. And I really studied that. And I really tried to put it into practice when I was a working professional. I'm not now. And my biggest fear, in my long-winded way, is that we won't have learned any lessons from this. Because we don't have the type of soaring leadership that we need to explain to people anything from, \"We have nothing to fear but fear itself,\" to Lincoln, to any of the great men, unfortunately it's only been men, who have taken us out of terrible times. When we really felt like there was no future, no hope, and gave us a reason for sacrifice. And gave us a reason for forfeiting some of our civil liberties and personal freedoms for the greater good."
+  },
+  {
+    "audio_start_offset": 3798.3,
+    "audio_end_offset": 3883.4,
+    "speaker_id": "Jennifer",
+    "content": "That's what I don't see, that type of leadership now at the national level. I said I wasn't going to talk about the national level, until this question came along. Because this does concern me. And, if and when we find a vaccine, if and when we manage to create the factories to make these things that we're missing, and if and when we find some type of treatment for the disease itself, then we'll go settle back into our complacent lives. And without any leadership telling us what we've been through, and what the lessons are that we should have learned, that we'll just go back to the same-old-same-old and won't have learned anything from this horrible, horrible tragedy. We'll be patting ourselves on the back and saying, \"We Americans, look at us, we conquered this,\" blah-blah-blah. But we wouldn't have learned as a nation what it's like to come together to make a national sacrifice, to put the common good above our own well-being. At one point, two or three weeks ago, I put on Facebook, \"I'd like to see the emergency action plan for my town.\" Knowing that every entity has to have something like this. And people in my town wrote to me, \"Eat more Chick-fil-A,\" because I'm on a bandwagon about Chick-fil-A. And they've also been protesting against tearing down an old building in my family. They're like, \"Well, why don't we go out and tear down more buildings.\""
+  },
+  {
+    "audio_start_offset": 3883.4,
+    "audio_end_offset": 3909.6,
+    "speaker_id": "Jennifer",
+    "content": "And I thought, \"Really, the people who live in this town are so flippant that they don't understand how serious this is.\" And I think that when this is over, and it will be over, they won't have learned anything. And maybe those on the other side of the political spectrum won't have learned anything either. Because there's no leader that brings us together as a nation. And that's my biggest concern. There'll be no valid lessons learned that will build us as a nation. [inaudible]"
+  },
+  {
+    "audio_start_offset": 3915.7,
+    "audio_end_offset": 3991.1,
+    "speaker_id": "Parisa",
+    "content": "Thanks. I'm really, as facilitator I'm not supposed to be inserting anything, but I will just say that I'm sitting here with a lot of the feels for exactly why I love all of you so much. Because, you have such profound points of view that I just hear a great truth in... Sometimes because I haven't thought of them and sometimes because they just hit me at a place that I haven't been touched before. So I'm just sitting in appreciation of that and of the profoundness of the situation we're in. And so I'm curious about hearing the very apt critiques of government, and of community life, and of human nature, American culture, whatever things. What do we hope can change as a result of whatever we're learning, or the emergent learnings of this pandemic?"
+  },
+  {
+    "audio_start_offset": 3992.6,
+    "audio_end_offset": 4000.3,
+    "speaker_id": "Parisa",
+    "content": "What are some of the things that you feel like you've already learned? But what do you hope we'd come out on the other side with?"
+  },
+  {
+    "audio_start_offset": 4000.3,
+    "audio_end_offset": 4001.2,
+    "speaker_id": "Jen",
+    "content": "Are we going in order?"
+  },
+  {
+    "audio_start_offset": 4001.2,
+    "audio_end_offset": 4001.5,
+    "speaker_id": "Parisa",
+    "content": "No. In any order."
+  },
+  {
+    "audio_start_offset": 4001.5,
+    "audio_end_offset": 4037.9,
+    "speaker_id": "Jen",
+    "content": "Oh, okay. I'm going to jump on it. Mainly because, I've only lived in the suburbs for four years, and I'm enamored with all the opportunities available to both myself and my family on ways to be involved. And a few times I've thought, \" Man, this is a lot.\" There's a lot expected, especially of young children. And this past week, I had a day where I said to my husband, \"Just FYI, I'm totally reevaluating our lives, making a list of all the crap we're just going to stop doing.\""
+  },
+  {
+    "audio_start_offset": 4037.9,
+    "audio_end_offset": 4090.7,
+    "speaker_id": "Jen",
+    "content": "Because, in place of it I realized there's people that I love that I haven't seen or talked to in years because we're so busy. And it's never with something super important. It's just, we've got the soccer every Saturday, and Boy Scouts every Tuesday. I mean there's not a night of the week where we literally don't have something to go to. And I only have a seven year-old and a four year-old. They're not even older where you think they'd be super involved. So, I'm referring to this as the \"great pause.\" And I feel as if... I hope it's giving all of us time. I like what you're saying, Jennifer, about what are the lessons we're going to learn. And I know you're talking about as a public. But I think personally, what are the lessons we're all learning by taking time to just stop and think about what we're accomplishing? You know, what are we doing with our energy every day?"
+  },
+  {
+    "audio_start_offset": 4095.7,
+    "audio_end_offset": 4126.8,
+    "speaker_id": "Peter",
+    "content": "I think that's an important one, Jen, because we are all too busy and we don't give ourselves time to do the things that we really would like to do, and the things that are important. My wife and I have independently set aside stacks of books that we have been intending to read for months, and months, and months. Now we're going to have time to do that."
+  },
+  {
+    "audio_start_offset": 4126.8,
+    "audio_end_offset": 4134.7,
+    "speaker_id": "David",
+    "content": "Peter, as you say that, I'm looking at my stack of books right now."
+  },
+  {
+    "audio_start_offset": 4134.7,
+    "audio_end_offset": 4197.6,
+    "speaker_id": "Peter",
+    "content": "My grandchildren are now getting time to spend time with each other, because they're not having to run to Girl Scouts, and soccer, and baseball, and, and, and, and, and, and, and, and... Hopefully, because their house is not that big, they will survive this without killing each other. But it's still time for them to be together, and maybe this'll be a good thing. I heard the governor of New York say this today, \"There's less noise.\" And maybe we should just enjoy the fact that there's less noise. A former classmate of mine from college said her neighborhood is strangely quiet and isn't it refreshing? And she lives somewhere in Manhattan. So maybe, that's what we'll learn. The value of quiet, the value of pause, the value of priorities."
+  },
+  {
+    "audio_start_offset": 4202.4,
+    "audio_end_offset": 4244.4,
+    "speaker_id": "David",
+    "content": "Because I work in a couple of fields that are considered essential services and therefore exempt from any lockdown or curfew... As a matter of fact, I've got letters from my employers I have to print out and put in my cars. Much hasn't changed for me yet. Now one of my biggest source of income would go away temporarily if they did do a lockdown in this area of anything that was not essential because it's transmission parts. And if the transmission shops are closed, I'd have no parts to deliver, obviously. But the other stuff would still happen, the bread and the and the medical specimens. Obviously because you need food and you need to transport lab specimens to be tested during a pandemic."
+  },
+  {
+    "audio_start_offset": 4244.4,
+    "audio_end_offset": 4310.9,
+    "speaker_id": "David",
+    "content": "For me, my life hasn't really slowed down all that much. Because of the fact that I'm pretty much still working everything that I've been working. My hope is that everybody takes this time to take stock of where they're at, where their life is. And evaluate, like Jen said, getting rid of the unnecessary stuff. I'm certainly going to do that. Because, like I said, I'm in the midst of building a business. So any time that I can free up I can rededicate to building that news and information website. So, that's what I hope is that everybody... And then we kind of do it as a society, as well. We kind of take stock of where we're at, what we're doing, and kind of do a spring cleaning of our lives while we're sprinkling our houses as well. Because I know a lot of people, down here especially, are taking this extra time that they have to really do that spring cleaning that they haven't gotten a chance to get around to doing yet, because their lives are so busy."
+  },
+  {
+    "audio_start_offset": 4313.1,
+    "audio_end_offset": 4372.2,
+    "speaker_id": "Deza'Rae",
+    "content": "I was kind of thinking the same way and hoping people might learn to live more intentionally. I know that's something that I, kind of, was trying to do. But now forced to, now that I'm working from home and trying to separate regular life chores, house chores, from work. Because I don't have that physical boundary anymore of getting on the bus for an hour, and then having to walk through campus to my office, and then taking the bus home. Also, with having more downtime because I don't spend two hours on the bus, being able to do more stuff around the house like cook, or spring clean. I guess I'm going to go through my clothes again and get rid of more clothes. But now I'm really forced to think about what I do and don't need. And I'm hoping that I'm not the only one. And it sounds like I'm not, so that's reassuring. But just hoping we could all live more intentionally."
+  },
+  {
+    "audio_start_offset": 4385.1,
+    "audio_end_offset": 4446.9,
+    "speaker_id": "Jennifer",
+    "content": "I live in this old house and I'm passionate about old houses. This is the house I was born in, it was built in 1860. My family, four generations, has lived here and they've never thrown out anything. So even since I've moved back five years ago, it's been like woofing piles of stuff around, somehow getting some stuff thrown out. But then, there's piles of stuff that I'm going to get to later. Like my aunt, from whom I inherited this house, who was in the first class of Peace Corps Volunteers, kept a diary of every day of her adult life in tiny cursive script. And by the end of her life, it started out with what she was watching on Regis and Kathie Lee. She died of Alzheimer's, and so the diaries got progressively less interesting. But I just wanted to document her life, everything that she went through as a woman in the '50s and '60s, going into the Peace Corps, getting her master's degree in education, and all the things she did in a revolutionary way."
+  },
+  {
+    "audio_start_offset": 4446.9,
+    "audio_end_offset": 4489.8,
+    "speaker_id": "Jennifer",
+    "content": "And most people who knew her in her old age never saw any of this because she had Alzheimer's. And so my new project, I don't know if anybody can help me, she took pictures of everything. So I have literally thousands and thousands of slides. And probably there're slides of waterfalls that I will never see. Maybe there'll be just a couple of them that are remotely interesting. But I'm going to just force myself to relive her life to try to give her the respect and attention that she deserves for a life really well-lived."
+  },
+  {
+    "audio_start_offset": 4497.4,
+    "audio_end_offset": 4500.9,
+    "speaker_id": "Jen",
+    "content": "That sounds way more noble than mine. I was just going to paint a bathroom."
+  },
+  {
+    "audio_start_offset": 4500.9,
+    "audio_end_offset": 4500.9,
+    "speaker_id": "Jennifer",
+    "content": "What color?"
+  },
+  {
+    "audio_start_offset": 4505.6,
+    "audio_end_offset": 4513.8,
+    "speaker_id": "David",
+    "content": "Jennifer? Another thing, and this is just purely selfish reasons on my part, but I think it would be extremely interesting if you would write your memoirs if you haven't already."
+  },
+  {
+    "audio_start_offset": 4514.8,
+    "audio_end_offset": 4518.4,
+    "speaker_id": "Jennifer",
+    "content": "[laughs]."
+  },
+  {
+    "audio_start_offset": 4518.4,
+    "audio_end_offset": 4541.4,
+    "speaker_id": "David",
+    "content": "Because of the world traveling that you did working in different countries, like Bosnia and Serbia. And just watching your Facebook profile, I know that you have a passion for that region of the world, obviously because you serve there. But, I think that would be a really interesting book to read, reading your memoirs of your experiences working in the diplomatic core."
+  },
+  {
+    "audio_start_offset": 4541.4,
+    "audio_end_offset": 4569.8,
+    "speaker_id": "Jennifer",
+    "content": "Well, thank you. I am not that kind of person, but it did occur to me. You remember that movie, Julia and Juliet, that young girl who cooked and she cooked her all the way... That she remembers Julia child's life as an inspiration to her. I mean that kind of thing... My aunt has been a part of my life forever and anything that I've done, I can now trace back to her and her influence. Everybody's got somebody like that in their life, I'm sure. I hope."
+  },
+  {
+    "audio_start_offset": 4569.8,
+    "audio_end_offset": 4578.3,
+    "speaker_id": "Parisa",
+    "content": "Jon, where are you trying to get in?"
+  },
+  {
+    "audio_start_offset": 4581.4,
+    "audio_end_offset": 4652.8,
+    "speaker_id": "Jon",
+    "content": "No. I was just going to say, a way to look at it for me is we're all living through what will probably be the greatest social experiment in our life. And I think it's interesting. I mean, it's a tragedy. Don't get me wrong, I'm not trying to make light of it. But I guess if I was trying to look at a flip of the coin, what could come out of it if we all get through this fine and everything's good. I'm interested to see what happens to all the spring breakers that didn't heed any warning. And trust me, I have a friend who's 70 years-old and went to Florida golfing, from New York. And it makes zero sense to me. And he's like, \"Well, you can't find oxygen. You've got to breathe.\" And I'm like, \"Come on.\" I'm reassessing that friendship just because of stupidity. But anyway, I think there's going to be a lot that'll come of it. Who's going to get this disease when it, as it explodes. Let me ask something of everybody, anyone of you. Not a friend-of-a-friend or somebody. Tell me, anyone of you know one person that has COVID-19?"
+  },
+  {
+    "audio_start_offset": 4652.8,
+    "audio_end_offset": 4654.2,
+    "speaker_id": "David",
+    "content": "Not me."
+  },
+  {
+    "audio_start_offset": 4655.4,
+    "audio_end_offset": 4660.9,
+    "speaker_id": "Deza'Rae",
+    "content": "There is somebody in Salem, a pastor of a church has it, and she's been in the ICU for a couple of weeks."
+  },
+  {
+    "audio_start_offset": 4665.9,
+    "audio_end_offset": 4666.5,
+    "speaker_id": "Jon",
+    "content": "So you know somebody, Deza'Rae, it's the pastor of your church?"
+  },
+  {
+    "audio_start_offset": 4666.5,
+    "audio_end_offset": 4669.8,
+    "speaker_id": "Deza'Rae",
+    "content": "Yeah. I haven't gone... I don't go to the church. My mom was baptized by the lady."
+  },
+  {
+    "audio_start_offset": 4669.8,
+    "audio_end_offset": 4672.9,
+    "speaker_id": "Jon",
+    "content": "And that's a somebody-somebody, I'm sorry, I get what you're saying. It's fairly close, but that's the best I get."
+  },
+  {
+    "audio_start_offset": 4672.9,
+    "audio_end_offset": 4683.5,
+    "speaker_id": "Parisa",
+    "content": "My husband and I both had symptoms over the last couple of weeks. He came back from Spain with fever and tightness in his chest."
+  },
+  {
+    "audio_start_offset": 4683.5,
+    "audio_end_offset": 4688.2,
+    "speaker_id": "Parisa",
+    "content": "... back from Spain with fever and tightness in his chest, but we can't get tested. Because we don't fit into the specific category, so don't know. Could be flu, could be... yeah."
+  },
+  {
+    "audio_start_offset": 4688.2,
+    "audio_end_offset": 4690.8,
+    "speaker_id": "Peter",
+    "content": "[crosstalk] My guess is that we all know somebody who has got it but we don't know."
+  },
+  {
+    "audio_start_offset": 4690.8,
+    "audio_end_offset": 4750.1,
+    "speaker_id": "Jon",
+    "content": "The only reason I'm asking that is because, I'm not trying to make light of it, and some people could make light of it like it's not real. It is real, and it's here. I tell everybody, my wife and I talk about it all the time, since we have so much time together, the number you see as far as affected, just put two zeros on the back of that, and that's probably more like reality. But I'd be interested to see what happens to the Spring Breakers, and the people that disregard the warning. I'm not wishing bad on anybody, but I also can't have a lot of sympathy for somebody that, in compassion, especially when it's recklessly irresponsible, that they could come back and infect their parents or their grandparents, and they could end up dying from it. And I don't think it's [crosstalk] sensationalism when the CDC tells us that."
+  },
+  {
+    "audio_start_offset": 4750.1,
+    "audio_end_offset": 4792.7,
+    "speaker_id": "David",
+    "content": "And John, that's exactly the reason why they closed the public beaches down here in Alabama. I mean right now, we'd be in the midst of Spring Break travelers coming to our area, if it wasn't for this, but that's exactly why... Because they had decided to keep the beaches open up until the end of last week, and people were basically ignoring the social distancing requirements of six feet apart, and not gathering in large crowds. And the governor and the State administration saw that, and they said, \"We can't be having this, because if somebody could come in from another area and bring COVID and spread it wildly. Or, you could come in from another area, get COVID from somebody else, and take it back and spread it wildly wherever you're at.\" So that's exactly the reason why they closed down the beaches, is because [crosstalk 01:19:54]."
+  },
+  {
+    "audio_start_offset": 4792.7,
+    "audio_end_offset": 4796.6,
+    "speaker_id": "Jon",
+    "content": "And all those young people are leaving Florida and coming back to the rest of the US."
+  },
+  {
+    "audio_start_offset": 4796.6,
+    "audio_end_offset": 4800.6,
+    "speaker_id": "Jennifer",
+    "content": "There's already six cases of college kids that were away on spring break and tested positive. I mean, it's already started that those kids are bringing it back."
+  },
+  {
+    "audio_start_offset": 4800.6,
+    "audio_end_offset": 4823.7,
+    "speaker_id": "Jon",
+    "content": "Well [crosstalk] my brother lives in Ormond Beach, and he told me that the reason... I said, \"Why did they wait till Monday?\" He says, \"It makes no sense.\" He said it was economic pressure from the local hotels and restaurants. And I'm like, \"See, economics have to go out the window a little bit on some of this.\""
+  },
+  {
+    "audio_start_offset": 4825.3,
+    "audio_end_offset": 4857.5,
+    "speaker_id": "Parisa",
+    "content": "So I'm curious, what's something... Two things, actually. First, what one thing would you most want your local representatives to hear as they're responding to this pandemic? If you could get one thing through, what would you want to communicate?"
+  },
+  {
+    "audio_start_offset": 4859.3,
+    "audio_end_offset": 4861.4,
+    "speaker_id": "David",
+    "content": "Get on the same page [crosstalk 01:21:00]."
+  },
+  {
+    "audio_start_offset": 4861.4,
+    "audio_end_offset": 4862.4,
+    "speaker_id": "Jon",
+    "content": "Go ahead, I've been first [crosstalk 01:21:02]."
+  },
+  {
+    "audio_start_offset": 4862.4,
+    "audio_end_offset": 4874.9,
+    "speaker_id": "David",
+    "content": "Oh, I'm sorry. I was just going to say, get on the same page, because down in Mobile, now we've only had two confirmed cases in Mobile County. We're not testing like the rest of the country is, but we've two confirmed cases."
+  },
+  {
+    "audio_start_offset": 4874.9,
+    "audio_end_offset": 4922.2,
+    "speaker_id": "David",
+    "content": "And the mayor of the City of Mobile criticized the director of the county health department, for ordering all of the bars and restaurants to shut down their dining rooms, and go to take-out and delivery only. And then the next day, the governor did it. So obviously at a local, and even a state level, our local officials down here are not on the same page and not communicating with one voice, so that would be my message to our local officials: get on the same page, and speak with one voice. Because if you don't, that's when the panic, the, \"Oh, this isn't as serious.\" Or, \"This is the end of the world.\" Types go into their little corners, because they're hearing different messages. Speak with one voice, speak with one message, and get on that same page."
+  },
+  {
+    "audio_start_offset": 4922.2,
+    "audio_end_offset": 4958.1,
+    "speaker_id": "Jon",
+    "content": "And now, I'll just jump in and piggyback on that and say, at the national level, stop the politics. Stop the politics back and forth. Get a bill out that gives people help in a week or two. Because they need it, some of them need it like today, but I mean if you don't get something out in a week or two, they were talking about checks to people by April 8th. That's quite a ways out for some folks, especially if they're out of work. Because a lot of people in this country live paycheck to paycheck. And so they really need to knock it off, and they're finger-pointing on Capitol Hill right now, and it's a shame."
+  },
+  {
+    "audio_start_offset": 4959.0,
+    "audio_end_offset": 4978.7,
+    "speaker_id": "Jon",
+    "content": "I think the message they really need to give is: people are watching. They got nothing better to do, and they're going to be listening come November. Okay, I'll get off my political [inaudible 01:22:51]."
+  },
+  {
+    "audio_start_offset": 4978.7,
+    "audio_end_offset": 5014.5,
+    "speaker_id": "Jennifer",
+    "content": "If I could, Tip O'Neill said, \"All politics is local.\" I've got a lot to say about the federal level, and the press conferences that happen every day at the federal level, and how much time is spent listening to somebody just pontificate. But at the local level, when you said, the last word you said Parisa was \"communicate\", and that's why I'm in a bit of despair about my local officials. Down to the county level, yes. But our county has the largest amount of cases of any place in Ohio. So I don't know if it affects my town. When you said, \"Do you know anybody?\" I don't know if I know anybody, because nobody's getting around to talking about stuff. So there could be somebody in my town."
+  },
+  {
+    "audio_start_offset": 5014.5,
+    "audio_end_offset": 5043.3,
+    "speaker_id": "Jennifer",
+    "content": "There were two kids who were exposed about two or three weeks ago, and they weren't tested, they home quarantined. Max, my son, thinks he knows who they are. But all this stuff is shrouded in mystery and it shouldn't be. It should be more transparent. I would like my city officials every day saying what is happening in my town. My son just left right now to find out if the tennis courts are open, because we got some notice that parks are closed. But I could probably go out and play ten... I don't know, I need to hear this from our local officials, so he doesn't go off joy riding somewhere to find out that himself."
+  },
+  {
+    "audio_start_offset": 5043.3,
+    "audio_end_offset": 5082.6,
+    "speaker_id": "Jennifer",
+    "content": "And the other thing, for Jen, is when I sort of said to a couple of council men, we really need to get the city officials out of there, and also talk about the school closures and what the Ohio Board of Education is saying. Sports as you know have been canceled for spring season, kids are all crazy about that. And their response was: \"Well, the City doesn't handle the Board of Education, they can speak for themselves.\" I'm like, \"Really? You can't be in the same room, and just say something reassuring to the town about the thing that matters to us most, which is our schools? And get together in the same room and speak on something like this?\""
+  },
+  {
+    "audio_start_offset": 5082.6,
+    "audio_end_offset": 5096.3,
+    "speaker_id": "Jennifer",
+    "content": "So I don't know why the local officials are sort of cowering in fear of getting out there any saying anything, because they are the ones, that goes down to readership, that need to reassure us at the local level, our elected local officials."
+  },
+  {
+    "audio_start_offset": 5101.3,
+    "audio_end_offset": 5135.7,
+    "speaker_id": "Peter",
+    "content": "I think our state local officials have been doing a pretty good job around here. If I could give them a message, it would be: keep promoting or start promoting support for small businesses, for the corner grocery store, for the corner convenience store, for the local pharmacy, for the local farmers and people like that. Wegmans Price Chopper, or Tops, the big chains, they're going to be fine. And oh, by the way, that's where the crazy is, in the grocery stores."
+  },
+  {
+    "audio_start_offset": 5137.4,
+    "audio_end_offset": 5138.8,
+    "speaker_id": "Jon",
+    "content": "You're exactly right, Peter."
+  },
+  {
+    "audio_start_offset": 5138.8,
+    "audio_end_offset": 5202.1,
+    "speaker_id": "Peter",
+    "content": "[crosstalk] some of the small places. We're not going to know what we've lost till it's gone, and that's going to be very sad on the other side. I went into one of the Italian markets in Syracuse, a couple days after I was in the zoo. And it was wonderful. There was only one other customer in the store, I could get everything I wanted, there was a couple of staff people there that you could talk to from a distance, and it was like, \"You know, I should do shopping like this all the time, instead of just now.\" And one of the things that my wife and I are doing is, every day we pick a local business to support. Whether it's take-out from a local restaurant, we won't do anything from the chains, got to be a locally-owned place, or figure out how to give a donation to the food bank or send something off to a local farmer, that's sort of our little thing to try and do. And I'd really like to see the government promoting it as well. Especially local government where they know these people."
+  },
+  {
+    "audio_start_offset": 5212.5,
+    "audio_end_offset": 5216.6,
+    "speaker_id": "David",
+    "content": "Looks like Jen went off to mommy duty for a minute."
+  },
+  {
+    "audio_start_offset": 5216.6,
+    "audio_end_offset": 5275.2,
+    "speaker_id": "Jen",
+    "content": "Yeah! She didn't close the door whenever she left! I think my daughter's getting bored! I'm not really hearing much from my local officials, my county officials, which is odd. We're hearing regularly though, from our local medical centers and so Pittsburgh is home to the UPMC. Which you may have seen on the news, because it has a huge vaccination center, like it's where the polio vaccine... Where Salk developed the polio vaccine. So I feel like we're hearing a lot from our local health executives I should say. Our county health board, the leadership there was already in transition. And our county executive is a man who I just detest personally!"
+  },
+  {
+    "audio_start_offset": 5275.2,
+    "audio_end_offset": 5312.6,
+    "speaker_id": "Jen",
+    "content": "So literally the Friday where, at three o'clock our governor declared he's closing down the state, he's closing down schools and he wants business to close. Just earlier that afternoon our county executive was holding his annual St. Patrick's Day luncheon, and crowning a Miss Smiling Irish Eyes. And so that really felt inappropriate! When everybody's worried, if the response is, \"Let's just pretend it's normal...\" People want information right now. They know that there's something going on, they really do want to hear from their officials."
+  },
+  {
+    "audio_start_offset": 5312.6,
+    "audio_end_offset": 5334.8,
+    "speaker_id": "Jen",
+    "content": "And so at the state level, while the governor has left us hanging at times, there is a daily briefing from our governor and our secretary of health, and I have found those to be really reassuring. So I think it's just communicate, and try to communicate well, be on the same page, like you were saying David. But just, pretend we're adults, and you can talk to us. We're big kids. That's what I would like."
+  },
+  {
+    "audio_start_offset": 5344.4,
+    "audio_end_offset": 5380.5,
+    "speaker_id": "Parisa",
+    "content": "Did everyone get a chance to respond who wants to with this one? I know we're over the designated time, so I'm going to just wrap us up. I feel like I could listen to you all and join in all day long! So maybe we'll have to have a part two. But just as we close, I'm wondering if there are particular things that you've heard today that you'll be taking away from the conversation that you'll continue to think about, or that you would especially like other people to hear?"
+  },
+  {
+    "audio_start_offset": 5386.9,
+    "audio_end_offset": 5429.7,
+    "speaker_id": "Jon",
+    "content": "Make sure I'm on? Yeah, I am on. It's just good to see everybody and kind of get their reflection. Deza'Rae, I was really curious to hear, and maybe I'll try to chat with you after online, how things look in the west, because you're a world away. I mean, even Peter down in Fayetteville, he's in a different county, although we go there if we have to go to the big city. But I'm in a rural county, the poorest county in New York State. So in a lot of ways, we're worlds apart. But geographically, it's very interesting to hear what each of you have to say. So I'd love to do it anytime. Especially lately, I seem to have a lot of time on my hands."
+  },
+  {
+    "audio_start_offset": 5429.7,
+    "audio_end_offset": 5429.7,
+    "speaker_id": "David",
+    "content": "I think all of us do!"
+  },
+  {
+    "audio_start_offset": 5429.7,
+    "audio_end_offset": 5436.3,
+    "speaker_id": "Peter",
+    "content": "Are you still under about 20 feet of snow there, Jon?"
+  },
+  {
+    "audio_start_offset": 5436.3,
+    "audio_end_offset": 5437.4,
+    "speaker_id": "Jon",
+    "content": "About six inches. But it's still snowing."
+  },
+  {
+    "audio_start_offset": 5437.4,
+    "audio_end_offset": 5437.4,
+    "speaker_id": "Peter",
+    "content": "Oh, okay. But are you not quite in [inaudible 01:30:41]?"
+  },
+  {
+    "audio_start_offset": 5441.9,
+    "audio_end_offset": 5443.8,
+    "speaker_id": "Jon",
+    "content": "They're not getting any worse up there. [crosstalk] This is about it."
+  },
+  {
+    "audio_start_offset": 5443.8,
+    "audio_end_offset": 5447.2,
+    "speaker_id": "Peter",
+    "content": "No, you had it real worse, like a few weeks ago."
+  },
+  {
+    "audio_start_offset": 5447.2,
+    "audio_end_offset": 5456.2,
+    "speaker_id": "Jon",
+    "content": "Oh yeah. That's why it's funny, I hear everybody talking about spring cleaning and stuff. Spring's really just kind of starting to edge its way in for us here."
+  },
+  {
+    "audio_start_offset": 5456.2,
+    "audio_end_offset": 5464.7,
+    "speaker_id": "David",
+    "content": "We're almost into summer. Sorry Deza'Rae, I didn't mean to interrupt you."
+  },
+  {
+    "audio_start_offset": 5464.7,
+    "audio_end_offset": 5474.1,
+    "speaker_id": "Deza'Rae",
+    "content": "Oh no, it's not that, I was just saying it snowed one or two days in Portland also when I got back from New York last weekend."
+  },
+  {
+    "audio_start_offset": 5477.6,
+    "audio_end_offset": 5479.5,
+    "speaker_id": "Jon",
+    "content": "How long were you in New York for, Deza'Rae?"
+  },
+  {
+    "audio_start_offset": 5480.5,
+    "audio_end_offset": 5546.7,
+    "speaker_id": "Deza'Rae",
+    "content": "I was in New York for about a week. I was going there for work plans to do a training at NYU. But then it got canceled, because of the virus. But we were informed that our tickets would not be refunded or credited to our grant, and we were advised to make use of the ticket still, so it wouldn't be wasted. So I went, and worked from home a little bit, and visited. But when I was gone, everything was really escalating on the West Coast. Particularly in Oregon, Oregon's a little behind from Washington and California, with the shutdowns and just letting the community know what's going on. I think, because the cases are lower here, but we're right in-between Washington and California, and people travel over the state lines pretty often because they're so close to each other. But they've closed the borders down so you can't drive out of state at the moment."
+  },
+  {
+    "audio_start_offset": 5546.7,
+    "audio_end_offset": 5585.1,
+    "speaker_id": "Jon",
+    "content": "Just New York City being the epicenter now of it all, with the high numbers is a testament to how the population issue amplifies everything. I mean, they were behind in the beginning to you guys, and now they've exponentially leaped ahead and so I mean, that's a testament. If you didn't believe ever. And I think it's funny because I'm finding some friends that are the biggest conspiracy theorists you'll ever find deny, deny, deny. And then they'll read something from a medical journal or something that's posted that speaks about the reality. And all of a sudden they start to believe [crosstalk] will believe."
+  },
+  {
+    "audio_start_offset": 5585.1,
+    "audio_end_offset": 5586.9,
+    "speaker_id": "Deza'Rae",
+    "content": "I've heard some peoplesay that it's biological warfare."
+  },
+  {
+    "audio_start_offset": 5588.5,
+    "audio_end_offset": 5590.8,
+    "speaker_id": "Jennifer",
+    "content": "Right."
+  },
+  {
+    "audio_start_offset": 5590.8,
+    "audio_end_offset": 5644.2,
+    "speaker_id": "David",
+    "content": "Well Jon what you were just saying, and Deza'Rae what you were just saying kind of mirrors what with Mobile, with the urbanization of an area. Mobile, New Orleans and Houston all share similar climates. We're all right along the Gulf Coast, we all have similar climates and temperatures. New Orleans and Houston are getting real hard. But those are urbanized areas, there's a lot of people on top of each other in New Orleans and Houston, and in Mobile like I said, we've had two confirmed cases. Now again that's due in part because we're not doing the testing, but we're also more spread out than New Orleans and Houston are, and we're not as urban so we're not right on top of each other so we're not right in each other's faces and breathing. So that's one of the reasons why we probably do have a lower number of cases in Mobile than New Orleans or Houston that have similar climates to us."
+  },
+  {
+    "audio_start_offset": 5646.1,
+    "audio_end_offset": 5647.0,
+    "speaker_id": "Jennifer",
+    "content": "Hey, Jon?"
+  },
+  {
+    "audio_start_offset": 5647.0,
+    "audio_end_offset": 5650.0,
+    "speaker_id": "Jon",
+    "content": "Yes?"
+  },
+  {
+    "audio_start_offset": 5650.0,
+    "audio_end_offset": 5666.4,
+    "speaker_id": "Jennifer",
+    "content": "I hadn't worried so much about home invaders until you brought it up, but now I'm worried. So I'm thinking, I have this ADT thing in front of my house, like my house is protected by that. Maybe I should put on top of it, \"Coronavirus positive.\" Do you think that would [crosstalk 01:34:31]?"
+  },
+  {
+    "audio_start_offset": 5666.4,
+    "audio_end_offset": 5701.3,
+    "speaker_id": "Jon",
+    "content": "That would keep people away, that would. You know I actually thought about, I had to run to the drug store to get a prescription for my wife, and I thought... because I went in there, this was just this morning, and it's a Walmart pharmacy, and there's nobody, really not a lot of people in there. And they have signs up all over: \"Please remember social distancing as you wait in line.\" This woman walks right up behind me, thank God the lady called me next and I went up. Because I was about to turn around and kind of give her the look and say something."
+  },
+  {
+    "audio_start_offset": 5701.3,
+    "audio_end_offset": 5718.6,
+    "speaker_id": "Jon",
+    "content": "And then, I'm sorry, it's a Walmart I've got to say it, and I am a Walmart person by the way, but I never realized there was so many mouth-breathers in the world, I'm just saying. And I don't mean that by intelligence or anything, a lot of people walk around breathing through their mouth. And it makes you pretty darn nervous in this day and age."
+  },
+  {
+    "audio_start_offset": 5720.8,
+    "audio_end_offset": 5726.9,
+    "speaker_id": "Peter",
+    "content": "Yeah, I've thought about putting a sign on my front porch that says: \"Just back from China via Milan and New York City.\""
+  },
+  {
+    "audio_start_offset": 5726.9,
+    "audio_end_offset": 5730.3,
+    "speaker_id": "Parisa",
+    "content": "And licked everything!"
+  },
+  {
+    "audio_start_offset": 5730.3,
+    "audio_end_offset": 5730.3,
+    "speaker_id": "Peter",
+    "content": "That's right!"
+  },
+  {
+    "audio_start_offset": 5730.3,
+    "audio_end_offset": 5746.5,
+    "speaker_id": "Deza'Rae",
+    "content": "When [crosstalk] my coworker came back from Vietnam. So I was like, \"Oh gee.\" But she got to go still. But it was barely just kind of starting here in the US."
+  },
+  {
+    "audio_start_offset": 5746.5,
+    "audio_end_offset": 5769.9,
+    "speaker_id": "Peter",
+    "content": "I have a student who sent me a note, couple of days ago saying that he wanted an extension on the assignment that was due Saturday, because \"he and his family might be subject to an emergency evacuation from Uganda.\" So I don't know whether he's in the foreign service, or the military, or why he's out there, but he's out there."
+  },
+  {
+    "audio_start_offset": 5769.9,
+    "audio_end_offset": 5795.2,
+    "speaker_id": "Peter",
+    "content": "And he sent me a note today saying, \"They have decided, it's safer for us to stay here. Than to come back to D.C.\" Uh-huh (affirmative)! That says a lot that they think that whoever, whatever organization he's part of thinks it's safer for him and his family to stay in Uganda, than to come back to the US right now."
+  },
+  {
+    "audio_start_offset": 5795.2,
+    "audio_end_offset": 5850.5,
+    "speaker_id": "Jen",
+    "content": "I live next to the Pittsburgh airport, it's part of why my family moved to the town we're in. And speaking of quiet, it's been eerily quiet, because I'm used to hearing planes all the time. But my next door neighbor is a pilot, who flies internationally out of New York, there are several pilots and/or stewardesses in our neighborhood, and so our town is filled with the airline industry. And so that was, a couple weeks ago we had this school meeting where we were like, \"Maybe we should stop field trips,\" even to like the zoo downtown. And it was this idea that if we didn't let people go on field trips, no one would travel out of the area. And I said to my colleagues, \"Guys. We're filled with airline industry kids.\" My neighbor just went to Mexico two weeks ago for a family wedding, people are just... That's just the nature of our lives anymore, people travel so much, and they move so much around."
+  },
+  {
+    "audio_start_offset": 5850.5,
+    "audio_end_offset": 5869.8,
+    "speaker_id": "Jen",
+    "content": "But I would say that I was feeling relatively fragmented. It feels like the States are really taking the lead on the response to this, and so I felt like in America we were all having very different experiences. But it seems like here in this group, we all have a lot in common, we're all experiencing a lot of the same things, even if there's different situations in our states."
+  },
+  {
+    "audio_start_offset": 5869.8,
+    "audio_end_offset": 5876.5,
+    "speaker_id": "Jennifer",
+    "content": "Peter, right? You mentioned Uganda, you just did, right?"
+  },
+  {
+    "audio_start_offset": 5876.5,
+    "audio_end_offset": 5885.5,
+    "speaker_id": "Peter",
+    "content": "Yep, that was me."
+  },
+  {
+    "audio_start_offset": 5885.5,
+    "audio_end_offset": 5932.6,
+    "speaker_id": "Jennifer",
+    "content": "Yeah. I have friends that are stationed in, what we call the \"Africa Bureau\", AF and there's something going around about the... the Assistant Secretary for African Affairs has not come to any type of idea about departure from those posts. And so a lot of my friends in the embassy are there at the embassies, and they really can't go and do anything, but they haven't been given orders to go home, and African posts they are mostly are with families and things like that. But they've also said there's a rise in anti-Americanism in a lot of these posts, and they're stuck there doing nothing, no instructions to come home, but also they're worried about bands of locals who blame all this on the United States, on America. They don't care about China, they're talking about it being the US virus, because they read stuff about not testing and them not having enough equipment and things like that."
+  },
+  {
+    "audio_start_offset": 5932.6,
+    "audio_end_offset": 5972.9,
+    "speaker_id": "Jennifer",
+    "content": "So they blame the United States for the spread of the virus, and I just thought that was an interesting perspective from Africa, that somehow we're being labeled the demons for all this. Again, it comes down to me for leadership, there's no clear message coming out of Washington. We're leaving a lot of our diplomats and probably military also John, stranded from lack of any type of coherent message or policy. That's not as dangerous as the breakdown in social order in the United States, I'm not saying that it is. But I'm just saying there's also a ripple effect of the US reputation outside of our borders for how we're handling this."
+  },
+  {
+    "audio_start_offset": 5972.9,
+    "audio_end_offset": 6016.1,
+    "speaker_id": "Jon",
+    "content": "Yeah, don't underestimate as well, Jennifer the fact that the Chinese have been investing heavily in Africa and building a lot of infrastructure: schools, hospitals, railroads, etcetera. And I read somewhere yesterday that I think in Nigeria? The percentage of people that get their news from the China news service is higher than the percentage of people who get their news from the BBC or CNN. And that is probably having a profound effect on the attitudes of local populations in places like Uganda and Nigeria and who knows where else."
+  },
+  {
+    "audio_start_offset": 6017.2,
+    "audio_end_offset": 6018.2,
+    "speaker_id": "Jennifer",
+    "content": "You're probably right."
+  },
+  {
+    "audio_start_offset": 6018.2,
+    "audio_end_offset": 6062.8,
+    "speaker_id": "Parisa",
+    "content": "I'm going to have to draw us to a close, I know we're well 30 minutes past the time that you all committed to, so I appreciate you hanging in! And like I said, I feel like I could do this all day. But I just want to remind you that these recordings will be transcribed and indexed and shared. And if you'd like to listen to some of the other conversations we've been having, please be sure to... Well did you all log in with your email address, when you came onto Zoom? Okay, awesome. So you'll get an email from me actually pretty quickly after this call, just inviting you to fill out a quick feedback survey if you have time."
+  },
+  {
+    "audio_start_offset": 6062.8,
+    "audio_end_offset": 6101.2,
+    "speaker_id": "Parisa",
+    "content": "And then in about 2-3 days is usually when the conversations are ready, transcribed and uploaded, and you'll get an invitation from me then that will give you your log in to the site where you can listen to and read over this conversation and it looks like we have two or three other conversations on this topic happening within the next couple of days, and that collection will continue to grow. But I also will be in touch in the Facebook group to see about other opportunities for all all to get together, because this has just been good for my soul, for sure."
+  },
+  {
+    "audio_start_offset": 6101.2,
+    "audio_end_offset": 6101.2,
+    "speaker_id": "Jen",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 6101.2,
+    "audio_end_offset": 6102.8,
+    "speaker_id": "David",
+    "content": "Good for me as well."
+  },
+  {
+    "audio_start_offset": 6102.8,
+    "audio_end_offset": 6102.8,
+    "speaker_id": "Jennifer",
+    "content": "Thank you."
+  },
+  {
+    "audio_start_offset": 6102.8,
+    "audio_end_offset": 6102.8,
+    "speaker_id": "Jon",
+    "content": "Yeah, ours too [crosstalk 01:41:46]."
+  },
+  {
+    "audio_start_offset": 6102.8,
+    "audio_end_offset": 6112.9,
+    "speaker_id": "Parisa",
+    "content": "I appreciate you all so much, and take good care, and I'll look forward to hearing more of your wisdom at other times!"
+  },
+  {
+    "audio_start_offset": 6114.1,
+    "audio_end_offset": 6114.7,
+    "speaker_id": "Jon",
+    "content": "Thank you [crosstalk 01:41:55]."
+  },
+  {
+    "audio_start_offset": 6114.7,
+    "audio_end_offset": 6115.8,
+    "speaker_id": "Peter",
+    "content": "Yeah, nice to see you, everybody."
+  },
+  {
+    "audio_start_offset": 6115.8,
+    "audio_end_offset": 6116.7,
+    "speaker_id": "Parisa",
+    "content": "Bye!"
+  }
+]

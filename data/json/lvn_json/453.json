@@ -1,0 +1,2258 @@
+[
+  {
+    "audio_start_offset": 23.8,
+    "audio_end_offset": 24.3,
+    "speaker_id": "Jess",
+    "content": "Yay."
+  },
+  {
+    "audio_start_offset": 24.3,
+    "audio_end_offset": 24.3,
+    "speaker_id": "Kenny",
+    "content": "How's it going?"
+  },
+  {
+    "audio_start_offset": 24.3,
+    "audio_end_offset": 35.0,
+    "speaker_id": "Jess",
+    "content": "Okay. Here we are. I just got a message from Tess saying that she was here, which is worrisome."
+  },
+  {
+    "audio_start_offset": 35.0,
+    "audio_end_offset": 40.8,
+    "speaker_id": "Kenny",
+    "content": "There's also [inaudible] on the calendar invitation. At least for me."
+  },
+  {
+    "audio_start_offset": 40.8,
+    "audio_end_offset": 40.8,
+    "speaker_id": "Jess",
+    "content": "It what?"
+  },
+  {
+    "audio_start_offset": 40.8,
+    "audio_end_offset": 47.7,
+    "speaker_id": "Kenny",
+    "content": "Announce is also an option. I hope people click on this [inaudible 00:00:48]."
+  },
+  {
+    "audio_start_offset": 47.7,
+    "audio_end_offset": 47.7,
+    "speaker_id": "Jess",
+    "content": "Oh, yep. I'm sure that's what it was."
+  },
+  {
+    "audio_start_offset": 56.5,
+    "audio_end_offset": 61.5,
+    "speaker_id": "Kenny",
+    "content": "Is my audio clear and consistent? Because I had various feedback on it that it's like-"
+  },
+  {
+    "audio_start_offset": 61.5,
+    "audio_end_offset": 61.5,
+    "speaker_id": "Jess",
+    "content": "It's a bit choppy for me."
+  },
+  {
+    "audio_start_offset": 65.7,
+    "audio_end_offset": 66.6,
+    "speaker_id": "Kenny",
+    "content": "Interesting."
+  },
+  {
+    "audio_start_offset": 66.6,
+    "audio_end_offset": 112.6,
+    "speaker_id": "Jess",
+    "content": "Okay. So hopefully they should ... Oh my God. How do I get rid of this? You don't want the, there to be a Google invite. Jesus. Alright, hang on. This is why we test the things ... Okay."
+  },
+  {
+    "audio_start_offset": 125.4,
+    "audio_end_offset": 127.0,
+    "speaker_id": "Kenny",
+    "content": "Is my audio more consistent now?"
+  },
+  {
+    "audio_start_offset": 128.4,
+    "audio_end_offset": 129.7,
+    "speaker_id": "Jess",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 129.7,
+    "audio_end_offset": 129.7,
+    "speaker_id": "Kenny",
+    "content": "Great! That's frustrating."
+  },
+  {
+    "audio_start_offset": 136.9,
+    "audio_end_offset": 138.0,
+    "speaker_id": "Jess",
+    "content": "What did you change?"
+  },
+  {
+    "audio_start_offset": 140.7,
+    "audio_end_offset": 141.4,
+    "speaker_id": "Kenny",
+    "content": "Headphones."
+  },
+  {
+    "audio_start_offset": 141.4,
+    "audio_end_offset": 148.6,
+    "speaker_id": "Jess",
+    "content": "Oh, okay. I feel like Zoom and headphones is particularly funky sometimes."
+  },
+  {
+    "audio_start_offset": 148.6,
+    "audio_end_offset": 156.3,
+    "speaker_id": "Kenny",
+    "content": "Oh, I didn't have headphones in before it. It was just my mic, my computer mic."
+  },
+  {
+    "audio_start_offset": 158.7,
+    "audio_end_offset": 170.2,
+    "speaker_id": "Jess",
+    "content": "Okay. So let me go ahead and make you the cohost. Make cohost. Yes."
+  },
+  {
+    "audio_start_offset": 170.2,
+    "audio_end_offset": 170.5,
+    "speaker_id": "Kenny",
+    "content": "(singing)."
+  },
+  {
+    "audio_start_offset": 177.1,
+    "audio_end_offset": 183.1,
+    "speaker_id": "Jess",
+    "content": "Okay, so I changed the invite. So hopefully people should just see the, yeah, the Zoom link."
+  },
+  {
+    "audio_start_offset": 183.1,
+    "audio_end_offset": 183.1,
+    "speaker_id": "Kenny",
+    "content": "They'll give them a nice little bump too."
+  },
+  {
+    "audio_start_offset": 183.1,
+    "audio_end_offset": 183.1,
+    "speaker_id": "Jess",
+    "content": "Yeah, a nice little reminder. There's Tess."
+  },
+  {
+    "audio_start_offset": 183.1,
+    "audio_end_offset": 183.1,
+    "speaker_id": "Tess",
+    "content": "Hi."
+  },
+  {
+    "audio_start_offset": 194.5,
+    "audio_end_offset": 195.9,
+    "speaker_id": "Jess",
+    "content": "Hey."
+  },
+  {
+    "audio_start_offset": 195.9,
+    "audio_end_offset": 198.1,
+    "speaker_id": "Tess",
+    "content": "Sorry about that. I was in the wrong one."
+  },
+  {
+    "audio_start_offset": 198.1,
+    "audio_end_offset": 210.0,
+    "speaker_id": "Jess",
+    "content": "No, it was actually a great reminder because I didn't, I always forget that when I create invites, it sometimes will just auto-populate with Hangouts."
+  },
+  {
+    "audio_start_offset": 210.0,
+    "audio_end_offset": 210.6,
+    "speaker_id": "Tess",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 210.6,
+    "audio_end_offset": 213.4,
+    "speaker_id": "Jess",
+    "content": "And I have to be like, no, no, no. It's on Zoom really, really."
+  },
+  {
+    "audio_start_offset": 213.4,
+    "audio_end_offset": 221.3,
+    "speaker_id": "Tess",
+    "content": "Yeah. No, you're good. I think, because I didn't know I had to register too, so I just registered as, that's what it took me to."
+  },
+  {
+    "audio_start_offset": 221.3,
+    "audio_end_offset": 222.6,
+    "speaker_id": "Jess",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 226.9,
+    "audio_end_offset": 228.5,
+    "speaker_id": "Tess",
+    "content": "And you had to-"
+  },
+  {
+    "audio_start_offset": 228.5,
+    "audio_end_offset": 228.7,
+    "speaker_id": "Kenny",
+    "content": "Yeah it took me, yeah, same."
+  },
+  {
+    "audio_start_offset": 228.7,
+    "audio_end_offset": 229.5,
+    "speaker_id": "Tess",
+    "content": "It still lets you join the meeting."
+  },
+  {
+    "audio_start_offset": 229.5,
+    "audio_end_offset": 230.5,
+    "speaker_id": "Jess",
+    "content": "You still got here okay?"
+  },
+  {
+    "audio_start_offset": 235.4,
+    "audio_end_offset": 236.2,
+    "speaker_id": "Tess",
+    "content": "Mm-hmm (affirmative)."
+  },
+  {
+    "audio_start_offset": 236.2,
+    "audio_end_offset": 236.2,
+    "speaker_id": "Kenny",
+    "content": "Hi Tess, nice to meet you."
+  },
+  {
+    "audio_start_offset": 236.2,
+    "audio_end_offset": 239.7,
+    "speaker_id": "Tess",
+    "content": "Nice to meet you too, Kenny. How have you been?"
+  },
+  {
+    "audio_start_offset": 241.4,
+    "audio_end_offset": 243.0,
+    "speaker_id": "Kenny",
+    "content": "I've been, it's been-"
+  },
+  {
+    "audio_start_offset": 243.0,
+    "audio_end_offset": 245.7,
+    "speaker_id": "Jess",
+    "content": "Kenny's had a rough go of it."
+  },
+  {
+    "audio_start_offset": 245.7,
+    "audio_end_offset": 245.7,
+    "speaker_id": "Kenny",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 247.7,
+    "audio_end_offset": 249.1,
+    "speaker_id": "Tess",
+    "content": "What's the update?"
+  },
+  {
+    "audio_start_offset": 250.7,
+    "audio_end_offset": 256.2,
+    "speaker_id": "Kenny",
+    "content": "Coronavirus has officially struck close to home. Lost a friend in the last 24 hours to it."
+  },
+  {
+    "audio_start_offset": 256.2,
+    "audio_end_offset": 256.2,
+    "speaker_id": "Tess",
+    "content": "Oh I'm sorry."
+  },
+  {
+    "audio_start_offset": 256.2,
+    "audio_end_offset": 263.9,
+    "speaker_id": "Kenny",
+    "content": "And had to make tough decisions as a board member of a nonprofit where we laid off our entire staff, so-"
+  },
+  {
+    "audio_start_offset": 263.9,
+    "audio_end_offset": 272.7,
+    "speaker_id": "Tess",
+    "content": "Wow."
+  },
+  {
+    "audio_start_offset": 272.7,
+    "audio_end_offset": 274.3,
+    "speaker_id": "Kenny",
+    "content": "Yeah. Coronavirus-related as well."
+  },
+  {
+    "audio_start_offset": 274.3,
+    "audio_end_offset": 274.3,
+    "speaker_id": "Tess",
+    "content": "Yeah, that's very difficult. I'm sorry for your loss."
+  },
+  {
+    "audio_start_offset": 274.3,
+    "audio_end_offset": 282.5,
+    "speaker_id": "Kenny",
+    "content": "Yeah. He was actually featured in a CNN article today as people that have profound, influential people that have been lost to Coronavirus so-"
+  },
+  {
+    "audio_start_offset": 283.3,
+    "audio_end_offset": 283.9,
+    "speaker_id": "Tess",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 283.9,
+    "audio_end_offset": 283.9,
+    "speaker_id": "Kenny",
+    "content": "At least getting his ... bless you."
+  },
+  {
+    "audio_start_offset": 283.9,
+    "audio_end_offset": 283.9,
+    "speaker_id": "Jess",
+    "content": "Excuse me."
+  },
+  {
+    "audio_start_offset": 283.9,
+    "audio_end_offset": 283.9,
+    "speaker_id": "Tess",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 290.4,
+    "audio_end_offset": 293.5,
+    "speaker_id": "Kenny",
+    "content": "How are you, Tess? Hopefully better. I set the nice baseline."
+  },
+  {
+    "audio_start_offset": 293.5,
+    "audio_end_offset": 327.1,
+    "speaker_id": "Tess",
+    "content": "Yeah. I'm doing okay. Just trying to stay positive. I talked to my dad today about going home and he said that it's probably best that I don't stay here. Home is in Maine. So yeah, I'll probably just, I'll stay here. I mean, it doesn't mean in the future I can't, but I don't want to, there's not many cases up there, so there's no reason for me to really travel. So my whole family's home right now, so I'm kind of just, I want to see everyone. But-"
+  },
+  {
+    "audio_start_offset": 327.1,
+    "audio_end_offset": 327.5,
+    "speaker_id": "Jess",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 328.8,
+    "audio_end_offset": 331.1,
+    "speaker_id": "Tess",
+    "content": "It's okay. At least everyone's healthy."
+  },
+  {
+    "audio_start_offset": 332.4,
+    "audio_end_offset": 335.6,
+    "speaker_id": "Jess",
+    "content": "Are your roommates going to stay put, do you think?"
+  },
+  {
+    "audio_start_offset": 335.6,
+    "audio_end_offset": 359.5,
+    "speaker_id": "Tess",
+    "content": "Yeah. So my roommate Emma, she went home this past week and she's coming back. And [Nona 00:00:05:42], my other roommate, she's staying here and not going home, but everyone's doing pretty okay. A lot of people are going home though, and now. I keep learning that. I think total maybe 15 people have left."
+  },
+  {
+    "audio_start_offset": 359.5,
+    "audio_end_offset": 360.4,
+    "speaker_id": "Jess",
+    "content": "Oh wow."
+  },
+  {
+    "audio_start_offset": 360.4,
+    "audio_end_offset": 363.0,
+    "speaker_id": "Tess",
+    "content": "Yeah. So it's sad, but-"
+  },
+  {
+    "audio_start_offset": 363.0,
+    "audio_end_offset": 365.3,
+    "speaker_id": "Jess",
+    "content": "That's like almost half the cohort."
+  },
+  {
+    "audio_start_offset": 365.3,
+    "audio_end_offset": 366.1,
+    "speaker_id": "Tess",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 367.3,
+    "audio_end_offset": 368.1,
+    "speaker_id": "Kenny",
+    "content": "What cohort?"
+  },
+  {
+    "audio_start_offset": 368.1,
+    "audio_end_offset": 413.7,
+    "speaker_id": "Tess",
+    "content": "For, so I'm in a program called the College for Social Innovation. It's through my school, UNH. And we are placed with a nonprofit and we do a semester in Boston. So I was placed with the Cortico and it's been a perfect match. Just kind of a bump in the road right now with everything. Yeah. But it's, I've met so many amazing people here and we're still doing classes online or you can do, like today I just, I did do class, you can do a TED talk and a reflection on it because of this meeting. But yeah, it's just different."
+  },
+  {
+    "audio_start_offset": 418.8,
+    "audio_end_offset": 419.2,
+    "speaker_id": "Jess",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 419.2,
+    "audio_end_offset": 420.4,
+    "speaker_id": "Kenny",
+    "content": "Yeah, yeah and that's an understatement for sure."
+  },
+  {
+    "audio_start_offset": 420.4,
+    "audio_end_offset": 449.8,
+    "speaker_id": "Jess",
+    "content": "Yeah. Well, and we were talking, too, about just Tess's perspective as somebody who's going through what a lot of college students are going through right now, which is just being in senior year and having this totally jarring thing happen and not being able to get closure on this very kind of foundational experience. Right?"
+  },
+  {
+    "audio_start_offset": 450.4,
+    "audio_end_offset": 500.8,
+    "speaker_id": "Tess",
+    "content": "Yeah, it's definitely, it was something that was really, I'm, was looking forward to and I got a lot out of it and I'm still getting a lot. It's just there's so many shifts in the learning process and kind of just a different approach to everything. CSS CFSI has been doing a really great job with giving us resources and different opportunities to stay connected. They even gave us an apartment goodie bag with, when all the grocery stores were going out, they give us paper towels or tried to give every apartment one or something and canned goods. So that was really nice and we appreciated that."
+  },
+  {
+    "audio_start_offset": 500.8,
+    "audio_end_offset": 516.6,
+    "speaker_id": "Tess",
+    "content": "But just staying motivated is definitely difficult. I try to go outside on a walk, but yeah. So I'm excited to share and see other people's perspective too."
+  },
+  {
+    "audio_start_offset": 516.6,
+    "audio_end_offset": 530.0,
+    "speaker_id": "Jess",
+    "content": "I was telling Kenny, I hopefully will have someone who's actually a doctor signed up who is a roommate of one of the, of Fenny, who you met last night."
+  },
+  {
+    "audio_start_offset": 530.0,
+    "audio_end_offset": 530.0,
+    "speaker_id": "Tess",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 530.0,
+    "audio_end_offset": 543.5,
+    "speaker_id": "Jess",
+    "content": "So it'll be exciting to hear from her. Kenny, is there anything that you want to run through before folks start to join?"
+  },
+  {
+    "audio_start_offset": 543.5,
+    "audio_end_offset": 546.3,
+    "speaker_id": "Kenny",
+    "content": "No, not that I can think of."
+  },
+  {
+    "audio_start_offset": 546.3,
+    "audio_end_offset": 546.3,
+    "speaker_id": "Jess",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 546.3,
+    "audio_end_offset": 555.3,
+    "speaker_id": "Kenny",
+    "content": "Just, so you'll be sharing the, you'll do all the technical things like the sharing or do you want me to do some of that as well? Just to rehash."
+  },
+  {
+    "audio_start_offset": 555.3,
+    "audio_end_offset": 561.3,
+    "speaker_id": "Jess",
+    "content": "It's up to you. I don't mind. I don't mind doing it if you're going through the script."
+  },
+  {
+    "audio_start_offset": 561.3,
+    "audio_end_offset": 561.3,
+    "speaker_id": "Kenny",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 561.3,
+    "audio_end_offset": 574.0,
+    "speaker_id": "Jess",
+    "content": "Because I know the script pretty well so I can know when to change slides, just at the very beginning and when to bounce out."
+  },
+  {
+    "audio_start_offset": 574.0,
+    "audio_end_offset": 574.0,
+    "speaker_id": "Kenny",
+    "content": "Yeah. And there's only really one slide in the beginning, right? Just the-"
+  },
+  {
+    "audio_start_offset": 574.0,
+    "audio_end_offset": 581.7,
+    "speaker_id": "Jess",
+    "content": "Yeah. Just the welcome and then the agreements."
+  },
+  {
+    "audio_start_offset": 581.7,
+    "audio_end_offset": 584.4,
+    "speaker_id": "Kenny",
+    "content": "Mm-hmm (affirmative) yeah."
+  },
+  {
+    "audio_start_offset": 584.4,
+    "audio_end_offset": 598.1,
+    "speaker_id": "Jess",
+    "content": "So yeah. Do you, I'm happy to do that if you want. I was going to share the link to the presentation like you suggested in the chat, but then I think it does make sense at least at the beginning for me to do that. And then again when we're doing the highlights I'll pop back in."
+  },
+  {
+    "audio_start_offset": 598.1,
+    "audio_end_offset": 598.1,
+    "speaker_id": "Kenny",
+    "content": "Cool. Yeah. Yeah. Share it and frame it as for reference. Like they're not expected to follow along, but if they-"
+  },
+  {
+    "audio_start_offset": 598.1,
+    "audio_end_offset": 598.1,
+    "speaker_id": "Jess",
+    "content": "Absolutely."
+  },
+  {
+    "audio_start_offset": 598.1,
+    "audio_end_offset": 618.0,
+    "speaker_id": "Kenny",
+    "content": "And they can always refer to it and should have some landmarks. And then with highlights, the highlight, you're going to share your screen and share your audio?"
+  },
+  {
+    "audio_start_offset": 618.0,
+    "audio_end_offset": 618.0,
+    "speaker_id": "Jess",
+    "content": "Yep, exactly."
+  },
+  {
+    "audio_start_offset": 618.0,
+    "audio_end_offset": 628.5,
+    "speaker_id": "Kenny",
+    "content": "Do you want, I don't want to even walk that and say that I had anything to do with it, so I'd rather you actually introduce it."
+  },
+  {
+    "audio_start_offset": 628.5,
+    "audio_end_offset": 695.6,
+    "speaker_id": "Jess",
+    "content": "Yeah, no problem. I, yeah, yeah. This was just from a conversation that our ED Parisa hosted yesterday. And it's actually, it's really cool and I don't need to go into all this detail in the actual conversation, but, so Theresa and I used to work together at a dialogue organization that was specifically about training people to have dialogues about really divisive topics. And so we did this project, this was, they did this after I left, but I was there for the beginning of it, which was basically around the issue of guns in public safety. And it was a combination of, they had these in-person conversations, but then they, after that, that was I think maybe two days or something like that. After that the conversation continued on Facebook and so it was this, and now I guess they're still, this was in 2017 maybe."
+  },
+  {
+    "audio_start_offset": 695.6,
+    "audio_end_offset": 696.5,
+    "speaker_id": "Kenny",
+    "content": "And this is locally? This is in Boston?"
+  },
+  {
+    "audio_start_offset": 696.5,
+    "audio_end_offset": 707.8,
+    "speaker_id": "Jess",
+    "content": "No, this is, this was, I think this was actually in Alabama was where it initially was."
+  },
+  {
+    "audio_start_offset": 707.8,
+    "audio_end_offset": 709.4,
+    "speaker_id": "Fenny",
+    "content": "Hey everybody."
+  },
+  {
+    "audio_start_offset": 709.4,
+    "audio_end_offset": 709.8,
+    "speaker_id": "Kenny",
+    "content": "Hi Fenny."
+  },
+  {
+    "audio_start_offset": 709.8,
+    "audio_end_offset": 709.8,
+    "speaker_id": "Fenny",
+    "content": "It's Fenny."
+  },
+  {
+    "audio_start_offset": 709.8,
+    "audio_end_offset": 709.8,
+    "speaker_id": "Jess",
+    "content": "Hey Fenny."
+  },
+  {
+    "audio_start_offset": 709.8,
+    "audio_end_offset": 711.9,
+    "speaker_id": "Fenny",
+    "content": "I'm going to go off video for a second because I'm finishing my ramen."
+  },
+  {
+    "audio_start_offset": 711.9,
+    "audio_end_offset": 724.7,
+    "speaker_id": "Jess",
+    "content": "You're good. Ramen sounds so good right about now."
+  },
+  {
+    "audio_start_offset": 724.7,
+    "audio_end_offset": 730.8,
+    "speaker_id": "Fenny",
+    "content": "You know, I've been eating really healthy and stuff and then my roommate broke out ramen and I was like, thank you for doing that."
+  },
+  {
+    "audio_start_offset": 730.8,
+    "audio_end_offset": 730.8,
+    "speaker_id": "Kenny",
+    "content": "Chicken flavored?"
+  },
+  {
+    "audio_start_offset": 730.8,
+    "audio_end_offset": 730.8,
+    "speaker_id": "Jess",
+    "content": "Wait, I thought ramen was healthy."
+  },
+  {
+    "audio_start_offset": 738.6,
+    "audio_end_offset": 739.8,
+    "speaker_id": "Fenny",
+    "content": "In college days maybe."
+  },
+  {
+    "audio_start_offset": 739.8,
+    "audio_end_offset": 743.5,
+    "speaker_id": "Jess",
+    "content": "Is your roommate going to join us?"
+  },
+  {
+    "audio_start_offset": 743.5,
+    "audio_end_offset": 750.0,
+    "speaker_id": "Fenny",
+    "content": "Oh, I'm sorry. She actually got caught up with work, so yeah, she's-"
+  },
+  {
+    "audio_start_offset": 750.0,
+    "audio_end_offset": 750.0,
+    "speaker_id": "Jess",
+    "content": "Oh bummer. Okay. Yeah."
+  },
+  {
+    "audio_start_offset": 750.0,
+    "audio_end_offset": 750.0,
+    "speaker_id": "Fenny",
+    "content": "So-"
+  },
+  {
+    "audio_start_offset": 750.0,
+    "audio_end_offset": 752.2,
+    "speaker_id": "Jess",
+    "content": "Well thank you for sharing the information with her."
+  },
+  {
+    "audio_start_offset": 752.2,
+    "audio_end_offset": 752.2,
+    "speaker_id": "Fenny",
+    "content": "Absolutely. For sure."
+  },
+  {
+    "audio_start_offset": 752.2,
+    "audio_end_offset": 754.9,
+    "speaker_id": "Jess",
+    "content": "Maybe she can join for one of our next ones."
+  },
+  {
+    "audio_start_offset": 754.9,
+    "audio_end_offset": 755.5,
+    "speaker_id": "Fenny",
+    "content": "That'd be great."
+  },
+  {
+    "audio_start_offset": 759.8,
+    "audio_end_offset": 763.6,
+    "speaker_id": "Jess",
+    "content": "Yay. I love how early everyone is."
+  },
+  {
+    "audio_start_offset": 763.6,
+    "audio_end_offset": 774.4,
+    "speaker_id": "Kenny",
+    "content": "Welcome, Faye."
+  },
+  {
+    "audio_start_offset": 774.4,
+    "audio_end_offset": 774.7,
+    "speaker_id": "Faye",
+    "content": "Hello, hello."
+  },
+  {
+    "audio_start_offset": 774.7,
+    "audio_end_offset": 774.7,
+    "speaker_id": "Tess",
+    "content": "Hi, Faye."
+  },
+  {
+    "audio_start_offset": 774.7,
+    "audio_end_offset": 774.7,
+    "speaker_id": "Fenny",
+    "content": "Hi, Faye."
+  },
+  {
+    "audio_start_offset": 774.7,
+    "audio_end_offset": 774.7,
+    "speaker_id": "Faye",
+    "content": "Hi."
+  },
+  {
+    "audio_start_offset": 774.7,
+    "audio_end_offset": 811.5,
+    "speaker_id": "Jess",
+    "content": "So Faye is our admin director at Cortico. Faye, these are the people. Kenny is our awesome volunteer facilitator who I know from a fellowship program from 2016 and our work lives have just been very, I feel like very connected and so I'm really excited to get him, or yeah, taken similar paths I guess. So super excited to get him involved with LVN and then you know, Tess and-"
+  },
+  {
+    "audio_start_offset": 811.5,
+    "audio_end_offset": 811.5,
+    "speaker_id": "Faye",
+    "content": "Mm-hmm (affirmative)."
+  },
+  {
+    "audio_start_offset": 811.5,
+    "audio_end_offset": 816.4,
+    "speaker_id": "Jess",
+    "content": "And yeah, Fenny is another one of our volunteer facilitators."
+  },
+  {
+    "audio_start_offset": 816.4,
+    "audio_end_offset": 816.4,
+    "speaker_id": "Fenny",
+    "content": "Hello."
+  },
+  {
+    "audio_start_offset": 816.4,
+    "audio_end_offset": 818.5,
+    "speaker_id": "Faye",
+    "content": "Awesome."
+  },
+  {
+    "audio_start_offset": 823.6,
+    "audio_end_offset": 830.5,
+    "speaker_id": "Jess",
+    "content": "So how is, what's the game you've been playing, Faye? Animal-"
+  },
+  {
+    "audio_start_offset": 830.5,
+    "audio_end_offset": 832.3,
+    "speaker_id": "Faye",
+    "content": "Animal Crossing."
+  },
+  {
+    "audio_start_offset": 832.3,
+    "audio_end_offset": 840.1,
+    "speaker_id": "Jess",
+    "content": "Crossing? Okay."
+  },
+  {
+    "audio_start_offset": 840.1,
+    "audio_end_offset": 840.1,
+    "speaker_id": "Faye",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 840.1,
+    "audio_end_offset": 840.1,
+    "speaker_id": "Kenny",
+    "content": "You have a Switch?"
+  },
+  {
+    "audio_start_offset": 840.1,
+    "audio_end_offset": 862.7,
+    "speaker_id": "Faye",
+    "content": "I do. Yeah. We say that we gave it, we bought it for, I have a nine year old and we told him, in order to encourage his writing, that he needed to write us a report on why we needed to get Animal Crossing, which we were going to get anyway because it's an amazing game. So I've been having him do homework during my lunch hour and I've been sneaking the Switch into another room and playing without him knowing."
+  },
+  {
+    "audio_start_offset": 863.4,
+    "audio_end_offset": 865.6,
+    "speaker_id": "Kenny",
+    "content": "Well done. Well done."
+  },
+  {
+    "audio_start_offset": 865.6,
+    "audio_end_offset": 868.6,
+    "speaker_id": "Faye",
+    "content": "I'm really parenting the right way."
+  },
+  {
+    "audio_start_offset": 870.9,
+    "audio_end_offset": 881.7,
+    "speaker_id": "Jess",
+    "content": "You guys should see the schedule that Faye made for Max. It was absolute parenting goals. It was amazing."
+  },
+  {
+    "audio_start_offset": 881.7,
+    "audio_end_offset": 885.6,
+    "speaker_id": "Faye",
+    "content": "Oh it's gone by the wayside. It's gone."
+  },
+  {
+    "audio_start_offset": 885.6,
+    "audio_end_offset": 887.4,
+    "speaker_id": "Jess",
+    "content": "I'm not shocked by that, but-"
+  },
+  {
+    "audio_start_offset": 898.8,
+    "audio_end_offset": 906.3,
+    "speaker_id": "Kenny",
+    "content": "The sign feels like a certain power move. I like that. Right? Some people would bring a glass into and you're just like, \"Oh excuse me.\""
+  },
+  {
+    "audio_start_offset": 906.3,
+    "audio_end_offset": 906.3,
+    "speaker_id": "Faye",
+    "content": "That's right. So that everyone knows."
+  },
+  {
+    "audio_start_offset": 906.3,
+    "audio_end_offset": 912.9,
+    "speaker_id": "Jess",
+    "content": "What does it say?"
+  },
+  {
+    "audio_start_offset": 912.9,
+    "audio_end_offset": 932.8,
+    "speaker_id": "Faye",
+    "content": "It says, \"I would like to rage.\" Which is, it's from a Dungeons & Dragons thing called Critical Role. Yeah. But this way no one knows what I'm drinking because it can hold warm things too. So it's my all- purpose mystery stein."
+  },
+  {
+    "audio_start_offset": 934.9,
+    "audio_end_offset": 938.5,
+    "speaker_id": "Kenny",
+    "content": "It allows for a smooth transition from like the day to the happy hour."
+  },
+  {
+    "audio_start_offset": 946.1,
+    "audio_end_offset": 946.5,
+    "speaker_id": "Faye",
+    "content": "Exactly."
+  },
+  {
+    "audio_start_offset": 946.5,
+    "audio_end_offset": 946.9,
+    "speaker_id": "Kenny",
+    "content": "Cool environments."
+  },
+  {
+    "audio_start_offset": 946.9,
+    "audio_end_offset": 947.1,
+    "speaker_id": "Faye",
+    "content": "Yes. Too smooth at times."
+  },
+  {
+    "audio_start_offset": 947.1,
+    "audio_end_offset": 947.1,
+    "speaker_id": "Kenny",
+    "content": "Hi Wandy."
+  },
+  {
+    "audio_start_offset": 947.1,
+    "audio_end_offset": 951.9,
+    "speaker_id": "Jess",
+    "content": "Hi Wandy. Can you hear us okay?"
+  },
+  {
+    "audio_start_offset": 951.9,
+    "audio_end_offset": 955.0,
+    "speaker_id": "Wandy",
+    "content": "Whoa. Hey."
+  },
+  {
+    "audio_start_offset": 956.4,
+    "audio_end_offset": 956.9,
+    "speaker_id": "Jess",
+    "content": "Hello!"
+  },
+  {
+    "audio_start_offset": 956.9,
+    "audio_end_offset": 956.9,
+    "speaker_id": "Wandy",
+    "content": "Hi."
+  },
+  {
+    "audio_start_offset": 961.7,
+    "audio_end_offset": 962.6,
+    "speaker_id": "Jess",
+    "content": "How you doing today?"
+  },
+  {
+    "audio_start_offset": 962.6,
+    "audio_end_offset": 962.6,
+    "speaker_id": "Wandy",
+    "content": "I'm good. How are you?"
+  },
+  {
+    "audio_start_offset": 962.6,
+    "audio_end_offset": 962.6,
+    "speaker_id": "Wandy",
+    "content": "Good."
+  },
+  {
+    "audio_start_offset": 962.6,
+    "audio_end_offset": 962.6,
+    "speaker_id": "Jess",
+    "content": "There you are. Good to see you."
+  },
+  {
+    "audio_start_offset": 962.6,
+    "audio_end_offset": 962.6,
+    "speaker_id": "Wandy",
+    "content": "You too. It's been a minute."
+  },
+  {
+    "audio_start_offset": 962.6,
+    "audio_end_offset": 975.7,
+    "speaker_id": "Jess",
+    "content": "It's been a minute. And since then the world is falling apart."
+  },
+  {
+    "audio_start_offset": 975.7,
+    "audio_end_offset": 983.1,
+    "speaker_id": "Wandy",
+    "content": "Pretty much. Yes. Yep."
+  },
+  {
+    "audio_start_offset": 983.1,
+    "audio_end_offset": 1045.2,
+    "speaker_id": "Jess",
+    "content": "Well this is, this is actually everybody, you guys are unsurprisingly a super timely and punctual crew. So first of all, thank you guys so, so much for taking the time to have this conversation with us today. I think because this is our first sort of Zoom pilot conversation and also at least my first time both co-facilitating over Zoom and also using this particular script and using some of the systems that we're going to be using for future conversations, Kenny and I really wanted to kind of not open this up necessarily to people who would be like what's LVN? But kind of have an opportunity to try things out with folks who already know about our work and are sort of invested in seeing where these particular conversations can go."
+  },
+  {
+    "audio_start_offset": 1045.2,
+    "audio_end_offset": 1070.0,
+    "speaker_id": "Jess",
+    "content": "So I just wanted to say thank you and I think at the end we'll want to take a few minutes just to kind of debrief and see what you guys thought, what works, what doesn't work. Yeah. I hope that we can co-facilitate more of these conversations. So kind of figuring out what some of the pain points are will be really helpful."
+  },
+  {
+    "audio_start_offset": 1070.0,
+    "audio_end_offset": 1087.0,
+    "speaker_id": "Jess",
+    "content": "So I guess I'm going to kind of take a back seat for the conversation and leave most of the facilitation to Kenny and I'll really just be doing kind of the tech side and walking through some of the slides and doing the highlight sharing."
+  },
+  {
+    "audio_start_offset": 1087.0,
+    "audio_end_offset": 1133.5,
+    "speaker_id": "Jess",
+    "content": "And so I'll be sharing my screen a little bit throughout, but just know that, I'll share this with you guys now, we will be walking through this PowerPoint. And this is just for reference. Do not feel like you have to look at this as we talk, but it has all of the questions that we'll be going through. I think our, Kenny and my, general preference was let's not share our screen the whole time just so we can kind of focus on seeing each other's faces. But I just wanted to make sure that you guys had access to that if it would be useful to you as we go through. So yeah, with that I will open it up for you, Kenny."
+  },
+  {
+    "audio_start_offset": 1133.5,
+    "audio_end_offset": 1170.0,
+    "speaker_id": "Kenny",
+    "content": "Cool. Thank you, Jess. And this is, I'm hoping that this can be like a, I feel equally the teacher and the grasshopper kind of situation, where this is my first time facilitating an LVN conversation. But at the same time I do facilitate and host a lot of digital community and digital space. So hopefully there's things that I can practice and intone today that are helpful and hopefully we can have a kind of smooth experience as much as possible. I should also say that my camera is down here because I have a Dell XPS. So when it looks like I'm drifting off, that's just how this computer was designed."
+  },
+  {
+    "audio_start_offset": 1170.0,
+    "audio_end_offset": 1222.2,
+    "speaker_id": "Kenny",
+    "content": "And then actually, Jess, as a good model, can I actually get you to change your name on your camera? If you go to the ellipses, the blue ellipses. And then another opportunity for all of us, we can go to the blue ellipses, rename ourselves, and add our gender pronouns if that's something that we want to do or to model. Just to come across like that. Excellent. Cool. And then the only other thing that I think is really important for virtual spaces is when you're not speaking, it's better to mute because we never know what's happening in our background. And if someone forgets to mute, Jess and I as host can always do that. So just take a peek at your microphone before you start talking to see if you're muted or not or try to mute yourself."
+  },
+  {
+    "audio_start_offset": 1222.2,
+    "audio_end_offset": 1222.2,
+    "speaker_id": "Fenny",
+    "content": "You're sounding a little gravelly."
+  },
+  {
+    "audio_start_offset": 1222.2,
+    "audio_end_offset": 1225.9,
+    "speaker_id": "Kenny",
+    "content": "Am I?"
+  },
+  {
+    "audio_start_offset": 1225.9,
+    "audio_end_offset": 1227.4,
+    "speaker_id": "Fenny",
+    "content": "Is it just me?"
+  },
+  {
+    "audio_start_offset": 1227.4,
+    "audio_end_offset": 1228.0,
+    "speaker_id": "Kenny",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 1228.0,
+    "audio_end_offset": 1232.0,
+    "speaker_id": "Jess",
+    "content": "No, I was getting that too, but you sound better now."
+  },
+  {
+    "audio_start_offset": 1232.0,
+    "audio_end_offset": 1247.1,
+    "speaker_id": "Kenny",
+    "content": "Okay. Yes. Thank you for that feedback. That is helpful. So those are other things in which, in digital spaces, a lot of those social norms kind of go by the wayside and just help each other be better at this is usually a good practice."
+  },
+  {
+    "audio_start_offset": 1247.1,
+    "audio_end_offset": 1280.4,
+    "speaker_id": "Kenny",
+    "content": "So I guess I'll go into just the prompt that you all probably know better than I do, as you've participated in more of these. But just to read through all of it, we've begun recording at this time and just want to share a little bit of information with you before we begin our conversation and following our conversation today, this video recording will actually be discarded, but the audio will become part of the LVN collection. So don't worry about what happens in your background. We've all seen those videos over the last few weeks of faux pas, but this is just going to be about the audio recording."
+  },
+  {
+    "audio_start_offset": 1280.4,
+    "audio_end_offset": 1304.0,
+    "speaker_id": "Kenny",
+    "content": "There are three main purposes for this conversation. First, we want to create a new space for community members to listen and learn about each other's lives. Second, we want to connect across groups and build a relationship with one another. And then third, we want to create a unique listening channel through which we will lift up the voices and needs of the community to candidates, local policy members, policymakers, and members of the media."
+  },
+  {
+    "audio_start_offset": 1306.0,
+    "audio_end_offset": 1333.5,
+    "speaker_id": "Kenny",
+    "content": "And to this end, we're inviting you to have a different type of conversation with local places. Network today. Conversations are focused on sharing personal stories or lived experience, rather than beginning the conversation with [inaudible] issues. We're doing this in order to help build connections and to foster conversations that improve our understanding of one another."
+  },
+  {
+    "audio_start_offset": 1333.5,
+    "audio_end_offset": 1355.3,
+    "speaker_id": "Kenny",
+    "content": "And the next thing we're about to read ... I'll slow down my cadence. Hopefully that will help. So the next thing I'm about to read is our disclaimer, there, that hopefully you can all hear me through. And then at the end I'll go around and ask everyone if they agree with the statement and then we can continue on in our session."
+  },
+  {
+    "audio_start_offset": 1355.3,
+    "audio_end_offset": 1386.4,
+    "speaker_id": "Kenny",
+    "content": "This conversation is being recorded, transcribed, and added to a growing collection of similar conversations. We'll be making the recordings available to journalists, public officials, researchers, and other participants and partners in the project at Cortico's discretion with the goal of eventually making them accessible to the general public. As a participant in this conversation, you are providing consent to Cortico, the operator of Local Voices Network, to use the recording in accordance with its mission of fostering conversations in communities and in the media that improve our understanding of one another."
+  },
+  {
+    "audio_start_offset": 1386.4,
+    "audio_end_offset": 1413.0,
+    "speaker_id": "Kenny",
+    "content": "This is a public conversation and portions of it may appear in a local newspaper or website or be broadcast on a local radio station or appear elsewhere, including other forms of media. So please share only what you are comfortable with being heard by the general public. If you understand this and agree to this, please say I agree. So we'll go in order. Jess, I guess, since you were our last participant."
+  },
+  {
+    "audio_start_offset": 1413.0,
+    "audio_end_offset": 1413.9,
+    "speaker_id": "Jess",
+    "content": "I'm Jess, I agree."
+  },
+  {
+    "audio_start_offset": 1413.9,
+    "audio_end_offset": 1415.1,
+    "speaker_id": "Kenny",
+    "content": "Faye, you could go next."
+  },
+  {
+    "audio_start_offset": 1415.1,
+    "audio_end_offset": 1415.4,
+    "speaker_id": "Faye",
+    "content": "I'm Faye and I agree."
+  },
+  {
+    "audio_start_offset": 1416.9,
+    "audio_end_offset": 1417.9,
+    "speaker_id": "Kenny",
+    "content": "Fenny, if you would go next?"
+  },
+  {
+    "audio_start_offset": 1420.8,
+    "audio_end_offset": 1423.4,
+    "speaker_id": "Fenny",
+    "content": "Fenny, I agree."
+  },
+  {
+    "audio_start_offset": 1423.4,
+    "audio_end_offset": 1423.4,
+    "speaker_id": "Kenny",
+    "content": "Tess?"
+  },
+  {
+    "audio_start_offset": 1423.4,
+    "audio_end_offset": 1423.8,
+    "speaker_id": "Tess",
+    "content": "Tess and I agree."
+  },
+  {
+    "audio_start_offset": 1423.8,
+    "audio_end_offset": 1425.5,
+    "speaker_id": "Kenny",
+    "content": "And finally, Wandy."
+  },
+  {
+    "audio_start_offset": 1425.5,
+    "audio_end_offset": 1427.8,
+    "speaker_id": "Wandy",
+    "content": "Wandy and I agree."
+  },
+  {
+    "audio_start_offset": 1427.8,
+    "audio_end_offset": 1430.9,
+    "speaker_id": "Kenny",
+    "content": "And then I guess also Kenny. I agree."
+  },
+  {
+    "audio_start_offset": 1430.9,
+    "audio_end_offset": 1470.5,
+    "speaker_id": "Kenny",
+    "content": "So actually, Jess, could you share the PowerPoint [inaudible 00:23:56]? And, Jess, even a good facilitation point with that. You can select or choose what you share when you go into the share option, if you know what I mean? Rather than go to your desktop, you can click the arrow next to share or actually when you click share it will give you the option-"
+  },
+  {
+    "audio_start_offset": 1470.5,
+    "audio_end_offset": 1475.2,
+    "speaker_id": "Jess",
+    "content": "I got you. I see. I see what you're putting down, like that."
+  },
+  {
+    "audio_start_offset": 1475.2,
+    "audio_end_offset": 1475.2,
+    "speaker_id": "Kenny",
+    "content": "Mm-hmm (affirmative)."
+  },
+  {
+    "audio_start_offset": 1475.2,
+    "audio_end_offset": 1478.9,
+    "speaker_id": "Jess",
+    "content": "Okay. Did that work?"
+  },
+  {
+    "audio_start_offset": 1482.0,
+    "audio_end_offset": 1482.6,
+    "speaker_id": "Kenny",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 1482.6,
+    "audio_end_offset": 1485.5,
+    "speaker_id": "Jess",
+    "content": "Okay. Sorry about that. Thank you. Okay."
+  },
+  {
+    "audio_start_offset": 1485.5,
+    "audio_end_offset": 1508.1,
+    "speaker_id": "Kenny",
+    "content": "No, of course. Cool. So we have general guidelines for our conversations and I just wanted to share those with [inaudible] in achieving our goals. And I'm going to share those with everyone here just so we have them as an equal understanding, equal footing as we get to our conversation."
+  },
+  {
+    "audio_start_offset": 1508.1,
+    "audio_end_offset": 1565.1,
+    "speaker_id": "Kenny",
+    "content": "So one, speak for yourself and out of your own experiences. Two, allow others to speak for themselves. Three, share the time. And this means allow others to finish speaking and take turns. When we're online that means silence between conversation or between people talking is okay. It might be awkward at first, but it is okay. Four, stay curious. So ask honest questions. Five, pause and take time for reflection. So that's when those moments of silence can actually be helpful. Six, listen generously. So assume good intentions while recognizing that your words have an impact. And then seven, silence all devices including cell phones and smartwatches. And if you have a computer that has notifications pop up at this time or from whatever chat services you might use, this could be a good opportunity to either close or mute those. So you don't have like a Slack notification popping up every five seconds."
+  },
+  {
+    "audio_start_offset": 1565.1,
+    "audio_end_offset": 1572.0,
+    "speaker_id": "Kenny",
+    "content": "Is everyone on board with these guidelines and is there anything else that you'd like to add or change?"
+  },
+  {
+    "audio_start_offset": 1577.7,
+    "audio_end_offset": 1578.7,
+    "speaker_id": "Faye",
+    "content": "Yep. On board."
+  },
+  {
+    "audio_start_offset": 1578.7,
+    "audio_end_offset": 1580.3,
+    "speaker_id": "Jess",
+    "content": "Sounds good."
+  },
+  {
+    "audio_start_offset": 1581.6,
+    "audio_end_offset": 1632.1,
+    "speaker_id": "Kenny",
+    "content": "All right. Yeah, you can give me a visual or verbal acknowledgement and those are great. Cool. And Jess and I were talking, we thought this could be a fun slide to add, depending on what our experiences are with video conferencing, with Zoom or otherwise. There's some general norms or faux pas that happen, whether it's me having the gravelly microphone or someone forgetting to mute and us hearing their dog barking in the background. Or, for example, poor connections. These are just kind of things that we want to kind of normalize if they happen and not really let them derail our conversation. So there's a certain grace that we have to have in video conversations, which allows it to go a lot more smoothly despite technical difficulties. But yeah, just wanted to offer that up."
+  },
+  {
+    "audio_start_offset": 1634.9,
+    "audio_end_offset": 1700.8,
+    "speaker_id": "Kenny",
+    "content": "And also for the ease of the virtual conversation, we're going to use a modified circle process. Whereas if we were in a room together, we would clearly have a circle defined. But in this space, one of the fun parts of Zoom is that all of our, if we're like the Brady Bunch, all of our squares are in different orders. So whoever is to my left probably isn't to your left if there is anyone to your left. So I'm going to choose an order for us right now that we'll go in generally through the beginning of this conversation. Then once we're in it, we can of course just let the conversation flow, but this is just for general cadence. So I will go, I'm in the top right corner, so I'll go down and around. So we'll go me, Fenny, Wandy, Tess, Faye, and Jess. So just remember the person in front of you and I can repeat that if you need me to. Does anyone have questions about this process?"
+  },
+  {
+    "audio_start_offset": 1700.8,
+    "audio_end_offset": 1737.3,
+    "speaker_id": "Kenny",
+    "content": "Great. Cool. So to begin, we want to do a quick round of introductions. So we'll start by sharing our first name or a pseudonym, a bit of background information about who we are, like where we live, what we do, and a value that is important to you and how that is related to what brought you here today. And Jess is going to throw that in the chat. There we go. And we can use that for reference. So we have this visual guide. If the conversation drifts you can always go back to there and it'll tell you what question we're on."
+  },
+  {
+    "audio_start_offset": 1737.3,
+    "audio_end_offset": 1786.8,
+    "speaker_id": "Kenny",
+    "content": "So I guess to start that off, my name is Kenny. He/him are my preferred gender pronouns. A little bit of background about myself, I grew up outside Chicago, I spent the majority of my life in the Midwest, and I'm a bit of a vagabond, but in a good way. And I just do a lot of community development work in physical and digital spaces. And a value that's important to me? I was trying to land on this, but I want to say generosity in this time where everyone is, a majority of us are having to learn to do with less. But at the same time that doesn't mean that we can bet it will be helpful for us to kind of close our doors and not help one another. So holding onto generosity in whatever way we can I think is really important value right now."
+  },
+  {
+    "audio_start_offset": 1792.6,
+    "audio_end_offset": 1800.3,
+    "speaker_id": "Fenny",
+    "content": "Hi, my name is Fenny and I grew up in the Midwest as well, actually outside of Milwaukee. Have traveled around a bit and settled back into Boston because it feels most like home."
+  },
+  {
+    "audio_start_offset": 1800.3,
+    "audio_end_offset": 1825.7,
+    "speaker_id": "Fenny",
+    "content": "I was around a bit and settled back into Boston because it feels most like home for me now. I am working in medical editing had worked out of primary care medicine years ago and a value that I've been holding on to recently is just kindness and being kind to people with different views, different ways of reacting to the crazy world we're in now and being kind to myself as well."
+  },
+  {
+    "audio_start_offset": 1833.9,
+    "audio_end_offset": 1887.5,
+    "speaker_id": "Wandy",
+    "content": "This is me, so I am Wandy, a she, her pronouns. I am from Luanda, Angola. I've been in the US for just over 10 years now. I work in housing, particularly how design and policy can come together and sort of facilitate the creation of affordable housing in the city. And a value that I am holding onto is just learning in general. I think that a lot of us have been learning and figuring out new ways to sort of like navigate through the world. I am making sure that just as like I stumble in everybody else's sort of stumbling away to make sure that that is something that we're all being kind towards each other about."
+  },
+  {
+    "audio_start_offset": 1893.1,
+    "audio_end_offset": 1933.9,
+    "speaker_id": "Tess",
+    "content": "My name is Tess she, her pronouns. I'm from Boston and I'm currently am studying at university of New Hampshire doing a program called semester for social innovation. Thats what I'm doing here in Boston. I'm working with Jess at Cortico and I'm loving it. And a value that's important to me is practicing empathy. And especially during this time also to go with kindness."
+  },
+  {
+    "audio_start_offset": 1940.2,
+    "audio_end_offset": 1981.5,
+    "speaker_id": "Faye",
+    "content": "I'm Fay she, her pronouns. I was born in Minnesota but raised in Hawaii and I live now in Brookline. I work for Cortico on the operation side. And what I'm trying to improve about myself at this time is connectedness to people. I've been talking more to people than I have in months. Just reaching out, just touching base, making sure that everyone's doing okay."
+  },
+  {
+    "audio_start_offset": 1985.1,
+    "audio_end_offset": 2023.3,
+    "speaker_id": "Jess",
+    "content": "I'm Jess. The she series is good for me and building off of what they said, I feel like something that I'm really valuing in how I'm trying to do it myself. I'm also really appreciating it and how others are treating me is like small gestures and I think that's what will help us survive this or is like showing up for people in small but really important ways."
+  },
+  {
+    "audio_start_offset": 2023.3,
+    "audio_end_offset": 2061.2,
+    "speaker_id": "Kenny",
+    "content": "Okay. Thank you Jess. Thank you everyone for sharing. It's good to be in the space with all of you and I'm looking forward to the conversation we're about to hold. So opening to our first, a general question on, we're going to follow the circle series for this as well, or the modified circle stays with this as well. I want everyone to take it to take a second to reflect on this as well before just jumping into an answer and allowing others to reflect on it before you might jump in."
+  },
+  {
+    "audio_start_offset": 2063.3,
+    "audio_end_offset": 2093.6,
+    "speaker_id": "Kenny",
+    "content": "Take a minute to think of a memory or personal story in your life that has shaped who you are and what help others understand what is important to you. You know, especially as it relates to the moment that brings us to this conversation. I actually will not be leading on this one, so if any, if you would like to kick us off. Sorry."
+  },
+  {
+    "audio_start_offset": 2098.5,
+    "audio_end_offset": 2122.3,
+    "speaker_id": "Fenny",
+    "content": "Okay. Wow, that's a tough one to jump into. I'm going to take just a moment, I guess what feels relevant right now and what first thing that sort of comes to mind is about..."
+  },
+  {
+    "audio_start_offset": 2124.4,
+    "audio_end_offset": 2174.4,
+    "speaker_id": "Fenny",
+    "content": "Right before I was going to get my first job, I had a job offer in Boston where I had gone to school previously, so I was familiar with Boston. I'd also been through SWAT, California for a long time and had a job offer in California as well. At the time, you know, I am, I grew up in a family of my parents and then my sister and me and I remember talking with my sister at the time about what her thoughts were. She's a few years younger than me and we had been because of schooling, been in all sorts of different parts of the country and not living in the same city. And I remember talking with my sister, you know, about thoughts about going out to California or staying on the East coast. And at the time she said to me, you know what, she didn't see herself going out to California."
+  },
+  {
+    "audio_start_offset": 2175.2,
+    "audio_end_offset": 2212.9,
+    "speaker_id": "Fenny",
+    "content": "That was really the tipping point for me in terms of my first job actually after all my training was actually in the Boston area. The value that that highlights from me sort of, you know, there's a lot of things that go into decisions, but for me of what's really close and dear to my heart is sort of the sense of home being around the people that are just really near and dear to my heart. And having traveled around a bit throughout training, that's made it a little challenging because I've made connections in different cities. And so there's not one location that I can say like, here's where all my friends and family are."
+  },
+  {
+    "audio_start_offset": 2214.4,
+    "audio_end_offset": 2261.6,
+    "speaker_id": "Fenny",
+    "content": "Then you know, there are some things that happened after that. And eventually I had sort of like a period of time where I was able to go out to California and my sister and I were, you know, not in as close contact for a period of time. And during that period of time I went up to California and spent three years there and then just recently moved back. But my driving factor for coming back is has not changed. And it was really with sort of grappling with some of the, some sort of personal issues that have happened in the last couple of years. Just really thinking about what home means to me. And a lot of my sort of close friends would become like family to me are based in the Boston area. So that's sort of what's brought me back two weeks ago."
+  },
+  {
+    "audio_start_offset": 2267.5,
+    "audio_end_offset": 2280.4,
+    "speaker_id": "Kenny",
+    "content": "Thank you for sharing. Funny. And I also, I didn't mention this before, but this part is of course optional. Any questions or any questions are optional that you don't want to respond to. So sorry for not giving you the opportunity, if any. But no problem for anyone else as well."
+  },
+  {
+    "audio_start_offset": 2287.7,
+    "audio_end_offset": 2347.2,
+    "speaker_id": "Wandy",
+    "content": "I can go next. So I've been just now thinking about the, I guess the period before I like moved to the US just over 10 years back and specifically thinking about how there were, there weren't really that many ways that I could sort of like leave the house. And so it actually felt like it was a summer being indoors. And so it's an interesting sort of way to contrast the two different experiences. I just remember really experiencing maybe like some loneliness like as a teenager sort of like preparing to like move to this like country and then also having all of these, you know, sort of like goals to like pursue education here and that sort of thing. And then thinking about how to essentially start over in a new place and then thinking a little bit about the key differences."
+  },
+  {
+    "audio_start_offset": 2347.7,
+    "audio_end_offset": 2402.5,
+    "speaker_id": "Wandy",
+    "content": "And so funny when you end up mentioning about the factors of home and like making that, I also had a lot of experiences sort of like moving around when I was younger and really trying to think about how to exist in the world. Yes. With the people around you but how to exist in the world on your own and how to create the home for yourself. And it's something that I still am thinking about. Most of my family, all of my family is in Angola right now. And so even in having like daily conversations with them and being like oceans apart, trying to like figure out how to create that sense of home independently. That has been really interesting and I think that now I'm maybe a little bit more equipped to sort of grapple with those things. But it's just something that is an interesting contrast to consider."
+  },
+  {
+    "audio_start_offset": 2408.9,
+    "audio_end_offset": 2427.6,
+    "speaker_id": "Tess",
+    "content": "I think I'm next. So I was, as you guys were saying that I wanted to talk about a story that has to do with being like a home buddy and you know, finding that sense of home even though you're not in comfort even though you're not necessarily close."
+  },
+  {
+    "audio_start_offset": 2427.6,
+    "audio_end_offset": 2502.2,
+    "speaker_id": "Tess",
+    "content": "So when I was the first, when I was first applying to different colleges, I was mostly looking down South, being from mass, I kind of just wanted to be in the warmth and get that change. I thought I wanted to be in a sorority and have this whole different life. I ended up going to a college called Roanoke college in Virginia. That whole kind of shock change was very difficult for me. It challenged me to be a lot more strong than I thought I ever had to be and you know, use the resources around me to find that comfort. I was able to make really good friends and, I had people that were from home that were just very supportive and there for me and someone very special to me came down and visited that weekend when I called her. And it was just showing that kindness and empathy, which is a value that I was talking about earlier. So yeah, I think that's an experience that I wanted to share."
+  },
+  {
+    "audio_start_offset": 2502.2,
+    "audio_end_offset": 2538.3,
+    "speaker_id": "Faye",
+    "content": "Well, I think I can echo a lot of the things that other people mentioned about community and family. I have a very small family that kind of immigrated together from country to country and we were always physically very close in Minnesota before kind of the shift happened to Hawaii."
+  },
+  {
+    "audio_start_offset": 2539.7,
+    "audio_end_offset": 2613.5,
+    "speaker_id": "Faye",
+    "content": "One thing that I think that's kind of why I'm struggling so much right now, especially with, you know, older parents that I can't get to if anything happens to them during this time. I think that's also why I'm kind of consciously building or strengthening the community that I have here now in Boston as well as older friends from different places just because, 40 some years later I can see the importance of having those, those really strong connections so that, let's say my, my father gets sick, I'll still have people in Minnesota that can reach out to him. So definitely see the value of a strong community base, even if it's not your blood family that you're pouring into everyone knows about Ohana from various Disney films probably, but just the idea of the family that you build and the importance of that."
+  },
+  {
+    "audio_start_offset": 2613.5,
+    "audio_end_offset": 2626.9,
+    "speaker_id": "Kenny",
+    "content": "And Jess, would you like to participate at this time or are you falling back into facilitator mode?"
+  },
+  {
+    "audio_start_offset": 2626.9,
+    "audio_end_offset": 2641.2,
+    "speaker_id": "Jess",
+    "content": "Oh no, I don't, I think everybody did a really great job of, of sharing a lot of the things that I've been thinking about. So I'm good to just hold back for now if that's okay."
+  },
+  {
+    "audio_start_offset": 2641.2,
+    "audio_end_offset": 2681.8,
+    "speaker_id": "Kenny",
+    "content": "Cool. Yeah, thank you. I'm glad that everyone can wear was attracted to similar themes in that conversation and that's going to probably help or in introducing your stories and that's probably going to help us as we go on to this, this conversation further. So for this next phase, we're going to shift away from the circle, the modified circle conversation to kind of bounce around. So it's going to be really important to practice that like digital etiquette of pausing and if you do interrupt, no, it's just kind of happens. We don't have those nonverbal cues as much as we do rely on in person. So any questions about that? Great. We're humans, we know how to communicate with each other."
+  },
+  {
+    "audio_start_offset": 2683.9,
+    "audio_end_offset": 2691.8,
+    "speaker_id": "Wandy",
+    "content": "Not a question but I'm just going to be walking around so if my camera moves that's why."
+  },
+  {
+    "audio_start_offset": 2694.1,
+    "audio_end_offset": 2695.8,
+    "speaker_id": "Kenny",
+    "content": "Sounds good."
+  },
+  {
+    "audio_start_offset": 2699.1,
+    "audio_end_offset": 2716.9,
+    "speaker_id": "Kenny",
+    "content": "So the first question I have is what has been, what happened, some of the things that have given you hope since Covid-19 began spreading in your community. If you could share this in a story from your experience that will help give us a picture and what gave you hope and why? That'd be great."
+  },
+  {
+    "audio_start_offset": 2716.9,
+    "audio_end_offset": 2779.0,
+    "speaker_id": "Faye",
+    "content": "Yeah, I can go first. Going back to my, my to say elderly, but my elderly father in Minnesota, I was touching base with someone about a different unrelated topic completely. And they had mentioned that they did reach out to my dad because they also knew him through work and you know, they had made a point to reach out to their older friends to check on them and see if they needed anything. And that was very touching to me."
+  },
+  {
+    "audio_start_offset": 2794.7,
+    "audio_end_offset": 2835.1,
+    "speaker_id": "Fenny",
+    "content": "So Faye, some of what you say specifically about your older father really resonates with me. I plan to move back to Boston, this early March for a while and my dad was actually out visiting me in the Bay area, right. Just moved back from, and the day I was supposed to fly, like the day before I sort of had a panic attack and thought, Hey, things hadn't really, it was starting to see, we're starting to see some things but wasn't quite clear yet. And you know, I struggled with whether or not to get on the plane and ultimately I did get on the plane, thinking well if things change I can always go back. But I'd sort of planned this for a while."
+  },
+  {
+    "audio_start_offset": 2837.8,
+    "audio_end_offset": 2891.2,
+    "speaker_id": "Fenny",
+    "content": "I guess part of me was also sort of nervous about actually being in the same space as my dad. In some ways I was super anxious cause I'd be like, if I have a cough I'll be like, Oh my gosh, I need to leave. And so, but that thing, but since then it's, it's funny how I think I've been a little bit kind of manage some of these feelings of fear, having something happened with my dad and me not being there. And you know, I have a few good close friends who are in the Bay area now. And so they've said, Hey, if your dad needs something we can bring him check in. And I've been saying to them like, if I need to, I can just hop on a flight and be there like the next day. But I know there's people there to kind of bridge. Right. But, but yeah, so that's really given me hope."
+  },
+  {
+    "audio_start_offset": 2891.2,
+    "audio_end_offset": 2951.2,
+    "speaker_id": "Fenny",
+    "content": "And the other thing too is I've actually been, I think this is the sort of like control freak part of me where I'm here but I sort of stayed on the neighborhood app. There's I think in a few cities there's like neighborhood apps. So I've actually been continuing conversation with people there, just sort of like helping to kind of answer some questions but also feeling connected and it's been really great to see how people have actually really come together in the neighborhood. You know, people volunteering to make runs for anyone in the community who needs it and you know, people throwing together like Google documents that people can sign up for what they need and other people to volunteer. People coming up with ways to support our local businesses, urging neighbors to buy gift cards during this time to kind of help tie people over. So that's really giving me a lot of hope. I think it's a double edged sword tuning into those social networks because sometimes I hear things that I'm like, stop it"
+  },
+  {
+    "audio_start_offset": 2957.1,
+    "audio_end_offset": 2964.9,
+    "speaker_id": "Fenny",
+    "content": "But, overwhelmingly it's been really a positive experience and very hopeful and optimistic and you know, it's the only way like we can get through all of this."
+  },
+  {
+    "audio_start_offset": 2972.2,
+    "audio_end_offset": 3024.1,
+    "speaker_id": "Wandy",
+    "content": "Yeah, similarly I have to say that something that definitely gave me a lot of hope a couple of weeks back was helping out some friends, put up some mutual aid like network flyers around our neighborhood and just going around and then taking the time to like continuously go back and then put them specially in places that a lot of folks might not actually like reach. And so, and then inspiring some of us to also start our own like mutual aid networks within our buildings. And it's been interesting because I've lived in my current building for about a year and have always been like, well I really want to meet my neighbors. Like I don't, don't necessarily want to go knocking on specific people's doors, but like keep wanting to find opportunities to build community with folks."
+  },
+  {
+    "audio_start_offset": 3025.3,
+    "audio_end_offset": 3049.3,
+    "speaker_id": "Wandy",
+    "content": "The only other time that that happened before was when there the fire alarm went off and we all had to go outside and then I actually got to know people's names and it for some reason it's starting to feel like it's under a stressful like situations that we're getting to know each other but still a lot of like folks have signed up for our buildings, mutual aid network."
+  },
+  {
+    "audio_start_offset": 3050.6,
+    "audio_end_offset": 3056.6,
+    "speaker_id": "Wandy",
+    "content": "It's been really good to just see about people want to help each other out and yeah. Care for each other."
+  },
+  {
+    "audio_start_offset": 3056.6,
+    "audio_end_offset": 3056.6,
+    "speaker_id": "Kenny",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 3061.4,
+    "audio_end_offset": 3123.2,
+    "speaker_id": "Tess",
+    "content": "Something that has been giving me hope during this time of the spread of the Covid-19 is yesterday I was on a walk with one of my friends cause we're stuck as we all know, we're all stuck inside all day. But we went on a walk and we saw one of the other students in the cohort and she just had a really nice smile on her face and she still looked happy and we just had like a really nice conversation with her. It's not something that I usually or she's not someone that I've really connected with or gone to know as much in the program. And it was just nice seeing how even then we were both checking in on each other and stuff and that was just really nice to see that the community still in the cohort even living so close to each other and not being able to really see each other that much, still having that."
+  },
+  {
+    "audio_start_offset": 3127.7,
+    "audio_end_offset": 3186.5,
+    "speaker_id": "Jess",
+    "content": "I'll just add on the mutual aid front, since it sounds like a few of us are involved with those networks, one of those things that has made me really happy and actually kind of changed my perspective a little bit has been seeing what things people volunteer because people are just volunteering things that are, that I would never think to offer of Netflix passwords or just like sending someone a hopeful message every day to check in, having extra copies of New Yorker magazine or whatever if people want to read something. So, it's been an interesting education in how people think about what we can offer each other that I haven't just really thought about in that way before."
+  },
+  {
+    "audio_start_offset": 3190.4,
+    "audio_end_offset": 3203.4,
+    "speaker_id": "Kenny",
+    "content": "[inaudible] Can I pose that as a question to the group actually, is there ways in which you've shown up or given during this time that you don't in normal circumstances or that you know, has even surprised yourself?"
+  },
+  {
+    "audio_start_offset": 3206.0,
+    "audio_end_offset": 3253.6,
+    "speaker_id": "Fenny",
+    "content": "Yes. I have not been on Facebook for seven years. I've never had a Twitter account until four days ago. I like to hide in social media. I don't like putting my voice out there. I don't like putting my name on neighborhood apps. I like to kind of observe and listen and I'll admit it. Just kind of like glean all the cool, tidbits that other people offer on those neighborhood sites. So it's been really kind of, it's been very out of character for me to sort of jump in and actually start a quick Twitter account. And of course you can't just build up a big thing over overnight, but you know, but it's something."
+  },
+  {
+    "audio_start_offset": 3253.6,
+    "audio_end_offset": 3316.6,
+    "speaker_id": "Fenny",
+    "content": "Two days ago I posted my first post ever on LinkedIn. It just sort of takes this kind of like, I guess an overwhelming sense of like the need to do something that's helpful that sort of got me to overcome that barrier. It did surprise me. I think the other thing too is that in a lot of my friendships and communities, people kind of see me as being pretty like easygoing and quiet and not that I, I hope I haven't been annoying. I've checked in with people, but I think my more sort of outspoken side has come out and I think mostly it's been positive. I haven't lost any friendships yet and no one's told me to shut up or unfriended me. But, that's been definitely something that's sort of surprised me."
+  },
+  {
+    "audio_start_offset": 3316.6,
+    "audio_end_offset": 3363.6,
+    "speaker_id": "Faye",
+    "content": "I'm also a lurker on social media, so lurkers unite. I just recently, I think two days ago I put in a fabric order cause I've read that there is a dire need for face masks in a lot of the area hospitals. So I figured it'll be a good way to release some of my nervous anxiety when you know, I don't want to play switch or practice ukulele, I can get on the sewing machine and make some face masks for people and then distribute them."
+  },
+  {
+    "audio_start_offset": 3367.2,
+    "audio_end_offset": 3371.1,
+    "speaker_id": "Jess",
+    "content": "That's really cool. You actually can sew face masks?"
+  },
+  {
+    "audio_start_offset": 3372.1,
+    "audio_end_offset": 3389.0,
+    "speaker_id": "Faye",
+    "content": "Yeah. So the efficacy is 70 to 90% even to a fabric face masks. So it's absolutely better than nothing. Yeah, I can certainly send around the PDF instructions. Yeah. Just need some good quality cotton."
+  },
+  {
+    "audio_start_offset": 3392.3,
+    "audio_end_offset": 3405.7,
+    "speaker_id": "Fenny",
+    "content": "Yeah, that's really cool Faye, I mean that, that you're putting a face on like I've seen a lot of that go around on, on those apps and it's really neat. It's been very touching to see people come together like that."
+  },
+  {
+    "audio_start_offset": 3410.8,
+    "audio_end_offset": 3411.5,
+    "speaker_id": "Faye",
+    "content": "Thank you."
+  },
+  {
+    "audio_start_offset": 3422.7,
+    "audio_end_offset": 3495.4,
+    "speaker_id": "Wandy",
+    "content": "I think that in terms of like surprising myself that I've actually ended up tapping back into some forms of art making that I feel I've kind of like left behind for a long time like photography and even wanting to get back into creating music and that sort of thing. And it's definitely one of those instances where part of it is making sure that I'm doing okay enough to call up friends and be able to sort of like do that check in and do some caretaking in that way. But also in revisiting the things that I know bring me joy and making sure that I'm just hanging in there and have had a more natural way of engaging with those when I quite literally have spent years trying to force myself to do that. And they could also just be that I'm a home more and so I see them and I'm like, well, might as well do something with this. And yeah, it's been, it's been very surprised."
+  },
+  {
+    "audio_start_offset": 3508.8,
+    "audio_end_offset": 3538.1,
+    "speaker_id": "Kenny",
+    "content": "[inaudible] I just add for myself, it's been interesting how much busier I have been during this period. I feel that there's just so much to do in such an uncertain time that I've felt almost engaged more in this time to do, to do work than in I was in Vegas normalcy quote unquote. But I think it's, it's been interesting to see how I've seen that in myself and seen that in others who just like called it the seven call to duty, whatever that might be."
+  },
+  {
+    "audio_start_offset": 3540.4,
+    "audio_end_offset": 3579.3,
+    "speaker_id": "Jess",
+    "content": "Something that has surprised me. This is not like an act of generosity that I've done, but it's typically really difficult for me to share how I actually am with people. Even really close friends and I feel because I'm not able to be distracted or dive in or, or sort of escape in any way that I've had to be pretty open with people close to me about how I'm actually doing. That has surprised me."
+  },
+  {
+    "audio_start_offset": 3579.3,
+    "audio_end_offset": 3600.5,
+    "speaker_id": "Faye",
+    "content": "Yeah. I agree with that. I don't share often, people know if I'm in a bad mood, but certainly if I'm feeling less than chipper, people generally don't hear about it. So I have been very consciously reaching out to people."
+  },
+  {
+    "audio_start_offset": 3600.5,
+    "audio_end_offset": 3636.9,
+    "speaker_id": "Faye",
+    "content": "[inaudible] So I have been very consciously reaching out to people saying, \"Hey, I'm having a hard day,\" and then we can start a conversation. Everyone's been incredibly supportive, not surprisingly. So it's wonderful to know that there's a comfort and a safety there that I didn't... that I won't [inaudible] before."
+  },
+  {
+    "audio_start_offset": 3638.5,
+    "audio_end_offset": 3664.0,
+    "speaker_id": "Kenny",
+    "content": "In this line of hope, the one other thing I'd love to hear people speak to is around this sense in relation to our homes and our families that I think everyone acknowledged and what [inaudible] I think that you acknowledge this in terms of people back home, checking in on your family and [inaudible] as well. How have you seen that distance kind of mediated in a way that's given you hope?"
+  },
+  {
+    "audio_start_offset": 3667.0,
+    "audio_end_offset": 3705.5,
+    "speaker_id": "Faye",
+    "content": "Both of my parents actually agreed to go on Zoom calls with me, which is very surprising because my dad does printing press work, so he is 100% Luddite, but he was willing to give it a shot. I think I've seen that a lot more people are a lot more open, like they let their wounds show a little bit more, which I think we all need every now and then."
+  },
+  {
+    "audio_start_offset": 3708.8,
+    "audio_end_offset": 3744.4,
+    "speaker_id": "Tess",
+    "content": "Yeah, I have to agree with Faye. My dad and my stepmom have been facetiming a lot and I've been talking to my grandparents a lot more just because on my mom's side they're both in care right now. They are doing well. They're not having any visitors, but just kind of knowing that they're doing okay and knowing that they're always there on the phone, which is nice."
+  },
+  {
+    "audio_start_offset": 3750.9,
+    "audio_end_offset": 3829.7,
+    "speaker_id": "Wandy",
+    "content": "I have to say that I'm really grateful for what technology is able to offer us in today's age. Every once in a while I think about... So both of my parents did their undergrad in countries abroad a couple of years... oops, a couple of decades ago. It was interesting sort of hearing their experiences with how they communicated with their folks back home. Lots of like having to not go home for a couple of years, sending letters, sending care packages back to them. It's a very different story with me and it's also been interesting because there is this also impact of distance and time. So the way Angola just got its third case, confirmed case, this week and now is going into like a state of emergency now. So it's really interesting sort of like being here and experiencing all these things. The government, they are sort of taking precautions now. Having conversations with my family and parents has been really interesting because they've been following this also but now they're actually experiencing it."
+  },
+  {
+    "audio_start_offset": 3832.1,
+    "audio_end_offset": 3860.4,
+    "speaker_id": "Wandy",
+    "content": "It's been interesting in having those conversations with them and then sort of doing their run through in my brain about logistics, about do you guys have contingency plans. What's the government doing? How are they going to help folks? It's a very different context. So it's been an interesting sort of experience."
+  },
+  {
+    "audio_start_offset": 3860.4,
+    "audio_end_offset": 3861.7,
+    "speaker_id": "Fenny",
+    "content": "Wandy, you've mentioned it's a very different context. Can you maybe say a little bit more about that?"
+  },
+  {
+    "audio_start_offset": 3861.7,
+    "audio_end_offset": 3912.9,
+    "speaker_id": "Wandy",
+    "content": "Yeah. So Angola is a country of the global South. We are what I call a baby country, got our independence in '75 from Portugal and then had a civil war until 2002. So a lot of our infrastructure was created in a short period of time, and that infrastructure is the built infrastructure and like technological infrastructure also. It's also in knowing that the way that this might unfold there is going to be very different because of how the infrastructure is laid out. Yeah."
+  },
+  {
+    "audio_start_offset": 3912.9,
+    "audio_end_offset": 3933.5,
+    "speaker_id": "Kenny",
+    "content": "I actually want to use that as an opportunity to transition to kind of the other side of this coin. And thank you for sharing that, Wandy]. But I guess to go further in that direction, but what concerns do you have regarding the spread of COVID-19 in your community and share a story from your experience that will help us understand that concern a little better."
+  },
+  {
+    "audio_start_offset": 3949.0,
+    "audio_end_offset": 4021.2,
+    "speaker_id": "Faye",
+    "content": "I think my concern is pretty generic, just the health and wellbeing of not only my family. Speaking of contingency plans, we had to have the conversation of what happens to our son if my husband and I are both hospitalized. I'm kind of prepping layered backup plans personally, but just the economic devastation that it's already wreaking on these smaller communities and storefronts. I just read on Twitter that a small company that I support pretty heavily had to lay off about 75% of their employees today. I'm not sure how it's going to look afterwards physically with the closed up store fronts or just kind of the economic devastation that we're going to really have to build up from."
+  },
+  {
+    "audio_start_offset": 4032.2,
+    "audio_end_offset": 4086.3,
+    "speaker_id": "Wandy",
+    "content": "Yeah, I've also been thinking about obviously the wellbeing of everyone currently and making it through this but have also been really interested in how a lot of things have been able to be put into place quite quickly. That maybe there was some sort of hesitation before. That it wasn't financially feasible to make happen before. I guess part of me is concerned that after this is better managed or it doesn't have the same level of impacts, that those things will all revert back to how they were before and that there could be some sort of, oh, we didn't actually learn any of those lessons and are totally comfortable with just moving things along nothing ever happened. That's a really big concern that I have."
+  },
+  {
+    "audio_start_offset": 4086.3,
+    "audio_end_offset": 4096.2,
+    "speaker_id": "Tess",
+    "content": "Oh sorry, go ahead Fenny."
+  },
+  {
+    "audio_start_offset": 4098.5,
+    "audio_end_offset": 4142.0,
+    "speaker_id": "Fenny",
+    "content": "I'm trying to see how to make this articulate. So, I mean, first of all I feel like it's really heartbreaking to be in a situation where... Well, the word that I jotted down on my paper was trust. My concern is mainly one about sort of trust between groups, and I'm talking about more leadership. We have spoken before about how in the community so many positive things are happening. There's a lot of great dialogue of people disagreeing. What breaks my heart is the fact that there's going to be devastation, right? There's going to be lives lost. There's going to be people whose livelihoods that are... People are losing their livelihoods already."
+  },
+  {
+    "audio_start_offset": 4145.0,
+    "audio_end_offset": 4192.0,
+    "speaker_id": "Fenny",
+    "content": "I think what's been really sort of worrisome for me and scary is that there's some lack of trust sort of at, not to make it a political discussion at all, but just to say that there's lack of trust between sort of the medical scientific community and, not the economic community, but people who are really concerned about the economic. Economic is such a dry term, but really people's lives they're intertwined. So there's people out there saying, and I fall a little bit more just to sort of reveal my bias, I fall into the camp of it breaks my heart. I'm talking from a point of view where my job is stable so it's easier for me to say that."
+  },
+  {
+    "audio_start_offset": 4193.5,
+    "audio_end_offset": 4238.2,
+    "speaker_id": "Fenny",
+    "content": "I'm terrified that I have a lot of people that I know who are medical field nursing. Close friends who have been sort of around the clock on-call, kind of develop... plans changing daily for COVID response. Hearing from around the country various friends in different hospitals saying things like they've... A friend of mine in Seattle had said that she had put herself voluntarily on furlough because she was worried about everybody at their hospital getting sick at the same time. So they've sort of come up with these ways to kind of protect themselves so that... We haven't reached the peak yet and that's a fact."
+  },
+  {
+    "audio_start_offset": 4238.2,
+    "audio_end_offset": 4299.3,
+    "speaker_id": "Fenny",
+    "content": "But at the same time, I'm also hearing from a lot of people and on the neighborhood app, people are struggling to pay their rent and people have lost their jobs. Even though there's going to be relief, there's a lot of anxiety and fear about if it's going to be enough? When's this going to get to me and my family? I'm also worried from there too because what about depression and suicide and all those things. So I guess my biggest concern and sort of what I wish I knew how to do was how do we really balance all those and come from a place of having people trust each other. That we do need to consider all of those. We can only do it if people can trust each other on certain things, but then also compromise, right? Don't know if that made any sense at all."
+  },
+  {
+    "audio_start_offset": 4310.8,
+    "audio_end_offset": 4364.2,
+    "speaker_id": "Jess",
+    "content": "I mean it makes a lot of sense to me. I think one of the things that's really scary to me that I'm hearing a little bit in what you're saying, Fenny, is like the reality of scarcity, economic scarcity, like lack of access to medical treatment tests, dah, dah, dah, dah, dah, and then like perceived scarcity. This feeling that I certainly have that I think other people are having too of just this general I feel like there's not... like I will suffer economically and I'm scared and I feel, even though that hasn't happened, but there is still this looming sense of scarcity and desperation."
+  },
+  {
+    "audio_start_offset": 4364.2,
+    "audio_end_offset": 4424.5,
+    "speaker_id": "Jess",
+    "content": "Kenny and I were talking, I think we were talking about this maybe the other day, but being in the generation that I'm in where I graduated right in the economic recession, the last economic recession. Now this is all happening and there won't be social security when I'm old. I'm afraid for my family and their health but I'm also actually really scared, and this is totally selfish and biased but it is what it. It's like because I'm the oldest cousin and there are... I'm significantly older. There's like more family than there are next generation."
+  },
+  {
+    "audio_start_offset": 4424.5,
+    "audio_end_offset": 4461.2,
+    "speaker_id": "Jess",
+    "content": "I am like so scared of having to make decisions that I don't feel equipped to make and also pay for things that I don't think I can pay for. I hear that from other people too of like this is pushing me into a place that I don't feel ready for. I think about what Faye said and like that cannot be a conversation you ever thought you were going to have with your husband. So, that's what I have to say about that."
+  },
+  {
+    "audio_start_offset": 4465.1,
+    "audio_end_offset": 4548.1,
+    "speaker_id": "Faye",
+    "content": "Yeah, I mean the context that I put this all in is my grandmother is 95. She lived through the war, World War II, and the economic devastation, the physical devastation, the emotional, spiritual devastation that that generation has gone through. They've gone through it; they've survived it. Certainly I think now we have largely de-stigmatized a lot of things that are quite mental health... seeking assistance with mental health. It's been de-stigmatized to an extent now where I think that, yes, if it gets to the point where it is as devastating as these experiences were for the kind of the World War II generation and certainly that they're not alone in this. There are wars everywhere, but I think that we're going to be okay."
+  },
+  {
+    "audio_start_offset": 4548.1,
+    "audio_end_offset": 4600.1,
+    "speaker_id": "Faye",
+    "content": "I think that it's a terrible thing that's happening and certainly when it affects you personally. It's easy to put a silver lining on it when you don't have a sick loved one and when you still have a job. But I do think about when I'm whinging about not being able to go outside as much or go hiking. It's like you have to think about there are people that lived for years in solitude, not being able to go outside. It's okay to go through this. So that helps me kind of find my strength and my stability in it all for what it's worth."
+  },
+  {
+    "audio_start_offset": 4610.0,
+    "audio_end_offset": 4668.8,
+    "speaker_id": "Kenny",
+    "content": "I actually want to share a concern that I think aligns with what Fenny offered where I... To the opposite of you Finny, I am someone who's highly engaged on social media. I have been for as long as I can remember. A concern that I was actually having during the... Well I don't want to even say the political season, but like we've reached a point where everyone feels entitled to their opinion. You see whatever the news topic of the day is, everyone will let you know what their opinion is on it. They think that it has a certain authority, whether it's a potential world war, whether it's someone's untimely passing, whether it's anything like that. But they'll weigh in to let you know how they feel about it. I saw how in the US we shifted from the democratic primary to Coronavirus and COVID-19. Everyone had their opinion on what would happen with it."
+  },
+  {
+    "audio_start_offset": 4670.2,
+    "audio_end_offset": 4699.0,
+    "speaker_id": "Kenny",
+    "content": "On a very personal level, yesterday I actually lost a mentor unexpectedly to COVID. He was 43, no preexisting health conditions, hadn't traveled. Two days ago he ended up in the hospital and yesterday he passed away. He was a very prominent person to Detroit. I watched that entire community... Like it [inaudible] community and it hit really close to home. Where to your point Faye about the sacrifices of not going outside and how uncomfortable and inconvenient it is."
+  },
+  {
+    "audio_start_offset": 4699.0,
+    "audio_end_offset": 4744.5,
+    "speaker_id": "Kenny",
+    "content": "It isn't about opinion at the end of the day. It's `about the reality that you have to set into to just act in solidarity and like allow us to progress forward through this. I'm concerned that not enough of us are willing to do that. Especially as you had like last week, kids enjoying spring break in Florida because they... I was in Panama city beach when I was 19 years old. I get it. You feel that's the only thing that matters in the world at the time. But I'm really concerned that we can't get out of those cycles of ego and selfishness to act in solidarity beyond ourselves and our community."
+  },
+  {
+    "audio_start_offset": 4744.5,
+    "audio_end_offset": 4797.8,
+    "speaker_id": "Fenny",
+    "content": "Kenny, I'm really sorry for your loss and really appreciate you saying it so bluntly of sort of like of not being able to get past it. I felt a lot of anger actually in... and I very needed ways of showing anger, but I felt myself being super, super, super angry. Especially because every single person, including the kids partying on the beach or the people who decided to hold a coronavirus party... like everyone knows someone who... and anyone can lose someone, right? The fact that people are... and I understand people are saying that that's how some people cope. That's the only way they can cope. Otherwise, they're going to go crazy. Well, there are other ways to cope, but yeah, like ego and I'm terrified, too."
+  },
+  {
+    "audio_start_offset": 4797.8,
+    "audio_end_offset": 4834.2,
+    "speaker_id": "Fenny",
+    "content": "I feel like this is actually like the first time in my life [redacted]. It's the first time in my life where I actually had thoughts of like, Hey... [redacted] I came here when I was very, very young, like less than five. I found myself for the first time this week having thoughts of like, Oh my gosh, come on, there's so much good about us, but what is... Okay, I'm just going to say it. There have been moments when I've been feeling like F American individualism. Come on people, come on."
+  },
+  {
+    "audio_start_offset": 4839.9,
+    "audio_end_offset": 4860.8,
+    "speaker_id": "Fenny",
+    "content": "Yeah. But I'm still hopeful like I still feel like the majority of, and I have to think this way otherwise I will go crazy, and is that I feel like there are more of us in this country that do get it and who will get it."
+  },
+  {
+    "audio_start_offset": 4876.8,
+    "audio_end_offset": 4910.7,
+    "speaker_id": "Kenny",
+    "content": "I don't want to force us away from this conversation, but I do feel that a lot of us have framed things in this more kind of proactive and action oriented kind of way. So I almost want to transition us onto the highlight also in consideration of time. It is late at night and some of us have family [inaudible] other commitments or just we're exhausted. It's a day. But so now we're going to bring in the voice of someone who participated in a similar conversation in the Local Voices Network and it's in Alabama, right, Jess?"
+  },
+  {
+    "audio_start_offset": 4912.6,
+    "audio_end_offset": 4919.8,
+    "speaker_id": "Jess",
+    "content": "No, the original conversations took place there, but I think these folks are actually from all over."
+  },
+  {
+    "audio_start_offset": 4919.8,
+    "audio_end_offset": 4925.8,
+    "speaker_id": "Kenny",
+    "content": "Got it. Do you actually want to introduce the clips?"
+  },
+  {
+    "audio_start_offset": 4925.8,
+    "audio_end_offset": 4987.6,
+    "speaker_id": "Jess",
+    "content": "Yeah, sure. So I'll share this with you guys. So this was a highlight that came out of a conversation yesterday. So it was a group that originally met in Alabama and it was... The idea was to engage people in conversation about guns in public safety in the wake of the Parkland shootings. They have remained in a closed Facebook group that's moderated. So this... Parisa, who's our executive director, has facilitated a conversation yesterday with some of those people about COVID. So... Oops, sorry. I'm going to do this one more time and share my sound with you guys so that you can hear it."
+  },
+  {
+    "audio_start_offset": 4991.9,
+    "audio_end_offset": 5027.4,
+    "speaker_id": "Hearth",
+    "content": "So while this is all crazy, I feel like my community is responding really well to it. Just to give you guys a little bit of background, this year, by the end of November, the incidence of flu in Pennsylvania was up 1000%. The epicenter of it was here in Western PA. It went through my son's school. I joke that the elementary schools are just infectious disease wards. [inaudible] I mean they're just gross. So my whole family had the croup go through in November. Then we all got the flu in December. So a lot of people have just been sick and like laid out."
+  },
+  {
+    "audio_start_offset": 5027.4,
+    "audio_end_offset": 5055.2,
+    "speaker_id": "Hearth",
+    "content": "A dear friend of mine who lives here in town, her niece who's 20 two weeks ago was in Disney for spring break. Last week she was in the hospital. They did test her. She has not received the results yet, but they also said to her, well you just have pneumonia. The fact that a 20 year old is hospitalized for pneumonia is kind of par for the course this winter. They didn't even necessarily think it meant she had COVID. They just tested her because she had traveled because she had been in Disney."
+  },
+  {
+    "audio_start_offset": 5055.2,
+    "audio_end_offset": 5098.8,
+    "speaker_id": "Hearth",
+    "content": "So I know I've seen in some other areas of the country they're like truthers about this, who don't think it's real. It's the flip side, like around me, people were like, have we just had this the whole time? It's just been so bad. So some of the stuff that we're doing in local town Facebook groups, St Patrick's day it was print out a Shamrock and put it in your window so that when people walk around with their kids they can play like scavenger hunt, right? Writing messages on driveways. We have a local gym teacher who, he and his family are making videos teaching you how to do a dance. They're putting them out every day and it's a way to like get you moving."
+  },
+  {
+    "audio_start_offset": 5098.8,
+    "audio_end_offset": 5131.4,
+    "speaker_id": "Hearth",
+    "content": "So it just seems like we're doing some creative things to try to stay connected. Oh, putting Christmas lights back up. I don't know if you guys are doing this. People are putting their Christmas lights back up or for some people just turning them on again cause they never actually got to take them down. I don't want to say like everything's fine here with what's going on, but it does seem to me that it's forcing us to do some creative things to stay connected and so that feels good."
+  },
+  {
+    "audio_start_offset": 5139.7,
+    "audio_end_offset": 5149.6,
+    "speaker_id": "Kenny",
+    "content": "So letting that marinate for a second, would anyone like to share what insights, reactions or memories came to mind in listening to this?"
+  },
+  {
+    "audio_start_offset": 5153.7,
+    "audio_end_offset": 5218.1,
+    "speaker_id": "Wandy",
+    "content": "Yeah. Last week was my first work from home almost full week. Part of my job was sort of in... We got pulled into helping some folks sort of like figure out some of the plans that they had for everything that's going on. I just also remember going... And my birthday was last week. So being in this mental haze with being, Oh like, why aren't I freaking out? What's going on? What, I feel relatively calm. Then sort of going online and on Twitter specifically and people talking about conversations that they had had with their therapists and sort of mentioning and specifically other folks that also have anxiety and/or OCD and naming that because this is almost like a constant state of mind, but there specific like... This is like the norm, therefore you already know how to like engage with these emotions and these feelings."
+  },
+  {
+    "audio_start_offset": 5218.1,
+    "audio_end_offset": 5256.7,
+    "speaker_id": "Wandy",
+    "content": "Realistically it's been an ebb and flow. I feel like things are slowly sinking in a little bit more this week. But it's just been interesting to also be like, Oh this is like you're, you basically been given some of the tools to sort of like engage with these emotions and these feelings. So when I was hearing them in the highlight, that's sort of like, Oh, we're handling... Even the sort of way that the person was speaking and that it didn't seem like this very daunting moment, but it almost seemed like a cheerful way of having this conversation. So that's definitely what came to mind."
+  },
+  {
+    "audio_start_offset": 5284.7,
+    "audio_end_offset": 5288.6,
+    "speaker_id": "Kenny",
+    "content": "Anyone else has something that's coming top of mind for them?"
+  },
+  {
+    "audio_start_offset": 5301.0,
+    "audio_end_offset": 5362.0,
+    "speaker_id": "Kenny",
+    "content": "I'll say one thing for me is that a value that I hold really strongly is that no place, no physical geographic place has a monopoly on strong community. I choose to give the benefit of the doubt that everywhere there's local actions like this. So the fact that this is in Western PA I think is great. I didn't expect it to not be there, to be anywhere else. So I think in the greater Boston area and Cambridge and Somerville, these are really thriving, connected communities with a lot of resources. For me, it's always humbling to see wherever else this kind of work can be done and this kind of organizing and effective community action can take place."
+  },
+  {
+    "audio_start_offset": 5362.0,
+    "audio_end_offset": 5370.1,
+    "speaker_id": "Kenny",
+    "content": "How does it relate to the values that we brought in earlier, even the hopeful conversations or questions? We kind of [inaudible] broader conversation."
+  },
+  {
+    "audio_start_offset": 5380.2,
+    "audio_end_offset": 5391.6,
+    "speaker_id": "Jess",
+    "content": "It made me think of the gift bags that you got, Tess. Just like the little magic that people make."
+  },
+  {
+    "audio_start_offset": 5396.7,
+    "audio_end_offset": 5403.6,
+    "speaker_id": "Tess",
+    "content": "I think something that we're trying to do in our cohort is-."
+  },
+  {
+    "audio_start_offset": 5403.6,
+    "audio_end_offset": 5443.9,
+    "speaker_id": "Tess",
+    "content": "We're trying to do in our cohort is have ... also we have this in Cortico, but like coffee chats, or just little FaceTime meetings to just check in that have been really nice. Since my hall mates across the hall, everyone has been quarantined for like two weeks, we're able to see each other. We did a Taco Tuesday, which was nice, too with just sharing a meal. Which was really nice, yeah."
+  },
+  {
+    "audio_start_offset": 5444.3,
+    "audio_end_offset": 5500.1,
+    "speaker_id": "Fenny",
+    "content": "I feel like that highlight ... you asked about how it ties into sort of the feeling of hope and is that ... This is someone who, you said that the group was connected after Parkland or during Parkland, and connected, and that was such a tragic and such a traumatic event. So, to actually hear the voice of someone who survived that. Of course sure there's still a lot of pain in all that, but that is hopeful. It's a nice reminder for us to kind of, in moments of depression and despair, remember that we will get through it and there's going to be pain, but we will get through it. I feel like that really helped ... temporizes the moment where ... there are moments where I do feel panicked. Sometimes when I feel that way I want to just crawl under the covers, and then there are other times where, hey, it really just spurs me to actions."
+  },
+  {
+    "audio_start_offset": 5518.1,
+    "audio_end_offset": 5533.5,
+    "speaker_id": "Kenny",
+    "content": "What I'm hearing from you, Fenny, is also an acceptance of that, the acknowledgement, what you can and can't control on it. There were like the times where you feel oriented towards action and the times where you're just like, \"I'm going to be under this blanket.\""
+  },
+  {
+    "audio_start_offset": 5533.5,
+    "audio_end_offset": 5586.0,
+    "speaker_id": "Fenny",
+    "content": "Yeah, well I'm just trying to be okay with both. I've really been trying to be mindful of being aware of how I feel and where I am, and then also how the people around me are, and also being more vocal. This sort of goes back to something that they had ... and actually Jess had said too, is that I'm pretty aware of how I feel about things, but I don't usually explicitly communicate that to people. So, I've actually been doing that explicitly, and also explicitly asking people more how they're doing. Half the time it feels awkward because sometimes it just feels kind of awkward, \"Hey.\" I wish I could just tell, sometimes I can't and I don't want to assume things. The other odd thing is I've talked about anxiety about my dad still being in the Bay Area."
+  },
+  {
+    "audio_start_offset": 5586.0,
+    "audio_end_offset": 5653.4,
+    "speaker_id": "Fenny",
+    "content": "I think one of the anxieties ... I don't want to take too much time on this, but I think one of the anxieties is that he and I sort of had a period of time where we were not in a lot of contact with each other and reconnected about four or five years ago. I'm realizing and starting to learn how to sit with the fact that a lot of it is my own thing, honestly. I FaceTime with him every day and every time I FaceTime with him we laugh and my dad is very relaxed, and when I got super anxious he brought up the thing of how his parents had basically gone through their 20s and 30s living through World War II, and then fleeing China when the communists took over, and then spent the first 10 years in China, in Taiwan, in poverty. About three decades of really, really crappy life, including when my dad was young. It's kind of like, I talk to him and it gives me perspective. It also is a reminder for me to really just chill out."
+  },
+  {
+    "audio_start_offset": 5660.9,
+    "audio_end_offset": 5750.4,
+    "speaker_id": "Faye",
+    "content": "One thing that it's also making me do is being aware of how I present things. Being quarantined with my son and my husband is largely really fantastic and I'm a creature of routines, so being able to know exactly what's going to happen every day. I have my set schedule, not having to commute is pretty great. But when I have to kind of read the room really well before I present those things to people because just being like, \"Life's great, things are fantastic.\" There are people that are having really hard times with it, emotionally, certainly being quarantined alone is very much more challenging, but it's really making me very conscious of the context of the conversation, and who I'm speaking to as well. It's very interesting and it's something that I'm trying to get better at."
+  },
+  {
+    "audio_start_offset": 5750.4,
+    "audio_end_offset": 5784.0,
+    "speaker_id": "Kenny",
+    "content": "Thanks for sharing that, Fay, Fenny, and everyone. I want to be conscious of time. We're at risk of running a little over so I want to transition us through. We're going into the raising your voice section of the conversation. We want to invite everyone in this conversation to think of how they can raise their voice beyond this group. Along the lines of, if you could ask a question to another group that is gathering, whether it's in these conversations or in communities or spaces similar to this one, what would it be?"
+  },
+  {
+    "audio_start_offset": 5802.9,
+    "audio_end_offset": 5838.8,
+    "speaker_id": "Faye",
+    "content": "I guess one question that I would ask is how people present the facts as we know them to family members and how do they negotiate with family members that aren't necessarily social distancing or self quarantining as much as they potentially should. I think regionally, socioeconomic, regional, all of those things affect people's reactions."
+  },
+  {
+    "audio_start_offset": 5844.7,
+    "audio_end_offset": 5860.9,
+    "speaker_id": "Jess",
+    "content": "Yeah, I second that. I feel like I've actually had some pretty active text threads with friends that are specifically about how are you talking to your parents? What are you saying? Because we've been needing to do some collective messaging around that."
+  },
+  {
+    "audio_start_offset": 5882.8,
+    "audio_end_offset": 5928.6,
+    "speaker_id": "Faye",
+    "content": "And if I could have a second one, if that's okay. I don't want to monopolize the conversation. I'm curious how other school districts are dealing with this. I think we're on week two now of our quarantine and we just started getting materials from the teachers. I'm curious if there's been any direction from other districts and what this is going to look like or what people think this is going to look like nationwide for kids that aren't going to finish their year, yeah."
+  },
+  {
+    "audio_start_offset": 5928.6,
+    "audio_end_offset": 5952.3,
+    "speaker_id": "Kenny",
+    "content": "To that point, a question that really comes up for me is, as we get into practicing these things we're doing, whether it's mutual aid, whether it's digital learning, how are we sharing best practices? There's so much information flying around, there's an abundance of resources that we're all trying to disseminate. But how do we get to a point where we start sharing those effectively and learning and growing and [inaudible] approach."
+  },
+  {
+    "audio_start_offset": 5959.6,
+    "audio_end_offset": 5988.4,
+    "speaker_id": "Wandy",
+    "content": "Yeah, to tie into that thread, I would ask how people have felt cared for during this time. On a variety of ways, institutionally, through interpersonal relationships and that sort of thing. Just to also allow for that to be like a lessons learned or shared practices also, falling into that."
+  },
+  {
+    "audio_start_offset": 5995.7,
+    "audio_end_offset": 5997.6,
+    "speaker_id": "Fenny",
+    "content": "I just want to say happy birthday [inaudible 00:09:57]."
+  },
+  {
+    "audio_start_offset": 5999.4,
+    "audio_end_offset": 6000.6,
+    "speaker_id": "Wandy",
+    "content": "Thank you, I appreciate it."
+  },
+  {
+    "audio_start_offset": 6000.6,
+    "audio_end_offset": 6030.0,
+    "speaker_id": "Kenny",
+    "content": "[Inaudible] and then unless anyone has a burning question they want to share, the last question that we have is we'd love to invite everyone to share one thing that they heard today that they'll be taking away from this conversation, that you'd like other people to hear. Whether it's an acknowledgement, whether it's just a reflection or an appreciation or just something that you think was profound."
+  },
+  {
+    "audio_start_offset": 6045.4,
+    "audio_end_offset": 6056.7,
+    "speaker_id": "Faye",
+    "content": "I just want to thank everyone for being very transparent and honest about how they're feeling. I think it's nice to hear."
+  },
+  {
+    "audio_start_offset": 6061.3,
+    "audio_end_offset": 6091.1,
+    "speaker_id": "Wandy",
+    "content": "As someone who is not from here. I think that it was really enlightening to be in conversation with you all just because it was really helpful to see how other people are also not thinking about this just like on a US based ... and to care for each other in really different ways and to think about people that might not share the exact same or even similar experiences. So, thank you."
+  },
+  {
+    "audio_start_offset": 6094.5,
+    "audio_end_offset": 6126.5,
+    "speaker_id": "Tess",
+    "content": "Yeah, I also want to thank everyone for being transparent and open to everyone's feelings. I think right now everyone should remember that our feelings are valid no matter what we're experiencing, because this is a really hard time and I think that it's important to remember that we have community and that it's important to reach out to people and take care of mental health. That's something I took away from today's conversation."
+  },
+  {
+    "audio_start_offset": 6131.3,
+    "audio_end_offset": 6163.8,
+    "speaker_id": "Fenny",
+    "content": "Sort of what goes along with what everyone else has said, is sort of the openness about learning to be more open about how we feel and being more vulnerable, and also just making space for others. Everyone's feelings in this time and how that can really just help us all get through it. So thanks, this has been great and I'm looking forward to more and getting more people to do it."
+  },
+  {
+    "audio_start_offset": 6165.6,
+    "audio_end_offset": 6197.6,
+    "speaker_id": "Jess",
+    "content": "Yeah, I just wanted to say on our end, thank you all so much for sharing everything that you did and for being willing to show up for LVN as we go into this new chapter. And just a huge thank you to Kenny for facilitating, particularly this week when you've just had a lot of shit. I'm just really appreciative for you, thank you."
+  },
+  {
+    "audio_start_offset": 6201.2,
+    "audio_end_offset": 6231.9,
+    "speaker_id": "Kenny",
+    "content": "Thank you, Jess, and you're welcome. I just want to say thank you to everyone for letting me do this with my training wheels on, and also for sharing how your relationships with your families are deepening or evolving. I think that was a common thread for all of us as we're navigating this space, whether it's the distance and the concern and the deeper engagement, all those complex things coming together I think is something that we'll be reflecting on a lot."
+  },
+  {
+    "audio_start_offset": 6231.9,
+    "audio_end_offset": 6260.6,
+    "speaker_id": "Kenny",
+    "content": "We're entering the wrap up phase, where I'll get us out of here really soon. But those are all the questions that we have for you. If there's any additional closing thoughts or general reflections on the conversations, we'd love to hear them, and we would actually ... I think since this is the first time we've run this and we're trying to really refine this process, and all of you are engaged in this work through LVN and Cortico, does anyone have any immediate thoughts or feedback that they want to throw out there?"
+  },
+  {
+    "audio_start_offset": 6267.3,
+    "audio_end_offset": 6285.3,
+    "speaker_id": "Faye",
+    "content": "I think that the round table worked really well. I'm actually quite impressed there was so little over-talking, which is quite uncommon in teleconferences, and I think that you did a great job, so thank you."
+  },
+  {
+    "audio_start_offset": 6297.5,
+    "audio_end_offset": 6354.0,
+    "speaker_id": "Fenny",
+    "content": "I'm coming out of this feeling more hopeful, and a sense of joy from the connection. One of the questions I have remaining is how can we get ... I know that this is going to be posted, I've seen how it's posted on the website, but I'm trying to figure out how we can spread the word more to get more people to participate because I feel like it's one of these things that ... well, it's super key. It's sort of like having a place for people to express themselves safely. It will actually solve some of the concerns and worries that we had. Just dialogue and conversation, and breaking people out of their silos, whether it's geographical ones or different backgrounds, and stuff like that."
+  },
+  {
+    "audio_start_offset": 6358.7,
+    "audio_end_offset": 6427.9,
+    "speaker_id": "Jess",
+    "content": "Yeah, I can share a little bit about that, it won't take too long, but just on the LVN side. I think we want to continue hosting conversations, hosting this conversation specifically in the Boston area, but one thing that our team is also thinking about and strategizing around is actually doing cross geographic conversations with folks who are particularly acutely affected by this. Thinking about conversations across all of our chapters with educators, with health workers, with DACA students, with performers, with people who work at food pantries, really wanting to create spaces for people who are truly under-heard around this issue, and making a really solid set of media partnerships so that we know that those stories are being told."
+  },
+  {
+    "audio_start_offset": 6428.8,
+    "audio_end_offset": 6475.6,
+    "speaker_id": "Jess",
+    "content": "It's kind of a combo of the local conversations where we can connect across the city as we socially distance responsibly, but also wanting to look at having ... I think one thing that's really unique about LVN and what it can do right now is it can connect people who otherwise wouldn't be connected to one another. I think it can amplify those voices. That's what we're going to be working on, and I think we would love for you all to be involved in facilitating conversations, and in maybe helping us identify some of those really important affinity groups."
+  },
+  {
+    "audio_start_offset": 6480.1,
+    "audio_end_offset": 6497.9,
+    "speaker_id": "Kenny",
+    "content": "Did this timing work for everyone? Because I know we're reaching the certain witching hour for the activity, and especially having to stare at a screen for an hour and a half can be really ... and like focus in on, I know it can be really, really straining."
+  },
+  {
+    "audio_start_offset": 6497.9,
+    "audio_end_offset": 6502.0,
+    "speaker_id": "Fenny",
+    "content": "This is all right."
+  },
+  {
+    "audio_start_offset": 6502.0,
+    "audio_end_offset": 6518.0,
+    "speaker_id": "Jess",
+    "content": "Was it okay to not have the questions on slides, just for me to throw them into the chat, or was that distracting, or how did that appear to folks?"
+  },
+  {
+    "audio_start_offset": 6518.0,
+    "audio_end_offset": 6537.8,
+    "speaker_id": "Fenny",
+    "content": "I think the chat worked really well just because you see them come up, and that sort of thing. I think that a part of the screen-sharing can be a little vertigo inducing. But I think, yeah just having the questions on the side worked really well."
+  },
+  {
+    "audio_start_offset": 6537.8,
+    "audio_end_offset": 6578.0,
+    "speaker_id": "Fenny",
+    "content": "I also like it in the side, because I've had ... I guess it's the gallery view or whatever ... you can actually just see people and it feels more like a real conversation. I feel like if it was on a slide, then it would be shifting back and forth and it would feel more like a work presentation than a conversation. I actually did refer to the questions again because I would forget exactly what the question was. And so it's a very easy, subtle way to check in without distracting."
+  },
+  {
+    "audio_start_offset": 6578.0,
+    "audio_end_offset": 6580.0,
+    "speaker_id": "Kenny",
+    "content": "Cool, I'm trying to think if there's anything else pertinent to this ..."
+  },
+  {
+    "audio_start_offset": 6580.0,
+    "audio_end_offset": 6601.7,
+    "speaker_id": "Jess",
+    "content": "I'm just going to throw the survey link into the chat, but otherwise yeah, and any feedback that you have around how Kenny and I managed moving through the questions or anything that is kind of like Zoom specific that would help us improve, please add that in."
+  },
+  {
+    "audio_start_offset": 6607.9,
+    "audio_end_offset": 6616.5,
+    "speaker_id": "Fenny",
+    "content": "I felt it went really smoothly and it was really well facilitated. If I didn't know, I would not have known it was your first time facilitating it."
+  },
+  {
+    "audio_start_offset": 6616.5,
+    "audio_end_offset": 6622.3,
+    "speaker_id": "Jess",
+    "content": "Oh, it's not his first time. He's like a pro."
+  },
+  {
+    "audio_start_offset": 6622.3,
+    "audio_end_offset": 6632.3,
+    "speaker_id": "Kenny",
+    "content": "It is my first time facilitating this, I'd say it was my first time, thank you."
+  },
+  {
+    "audio_start_offset": 6632.3,
+    "audio_end_offset": 6632.3,
+    "speaker_id": "Jess",
+    "content": "It is, he's an LVN first-timer but yeah-"
+  },
+  {
+    "audio_start_offset": 6632.3,
+    "audio_end_offset": 6633.5,
+    "speaker_id": "Fenny",
+    "content": "Correct, that's right, you did say that, yeah."
+  },
+  {
+    "audio_start_offset": 6633.5,
+    "audio_end_offset": 6644.5,
+    "speaker_id": "Jess",
+    "content": "He has something to teach us all, for sure."
+  },
+  {
+    "audio_start_offset": 6644.5,
+    "audio_end_offset": 6644.5,
+    "speaker_id": "Kenny",
+    "content": "I'm an LVNer at heart."
+  },
+  {
+    "audio_start_offset": 6644.5,
+    "audio_end_offset": 6644.5,
+    "speaker_id": "Fenny",
+    "content": "Well, it was a great model of what needs to be done, what we're to aspire to."
+  },
+  {
+    "audio_start_offset": 6644.5,
+    "audio_end_offset": 6678.7,
+    "speaker_id": "Kenny",
+    "content": "Actually, I think one looming question for me is there is a challenge by not having nonverbal cues, in terms of the natural flow of conversation, and this is just digital, someone noted it earlier, just digital spaces, but could there be some kind of trust building at the beginning, like something to engage the group effectively in a digital medium? Do you think that would help, or is the natural development of community still what we need to go on? You know, this natural cadence, or is there some kind of early thing we can do to build trust and break down this discomfort and those kinds of things? That's a question that I'm leaving with."
+  },
+  {
+    "audio_start_offset": 6681.9,
+    "audio_end_offset": 6720.9,
+    "speaker_id": "Faye",
+    "content": "It is interesting though, how people's mannerisms changed from the beginning with the organic conversation to the actual structured conversation to the breakout or the breakdown. I wonder if ... and I don't have experience with the in person conversations Jess, maybe you can speak more on that ... but is it more casual and relaxed in person, or do you think that the technology is creating kind of this buffer where people are kind of sitting up a little straighter and speaking with a little bit more thought?"
+  },
+  {
+    "audio_start_offset": 6720.9,
+    "audio_end_offset": 6781.1,
+    "speaker_id": "Jess",
+    "content": "On average, yes, would be my answer to that. I think that also there's ... my experience with in person conversations is that there just tends to be more back and forth because people can give those nonverbal cues that indicates like, \"Yeah, yeah, I'm feeling what you're saying, I'm feeling what you're saying, let me in, coach, let me in.\" They'll just go in. I think that's a little bit trickier, particularly if our recommendation to people is to keep themselves on mute. I think that's one thing that I'm thinking about for the community conversation is, do we actually all want to be on mute? Because I do wonder if by creating just that shared channel, that people might feel a little bit more ... they might kind of jump in a little bit more, I don't know."
+  },
+  {
+    "audio_start_offset": 6784.2,
+    "audio_end_offset": 6803.3,
+    "speaker_id": "Kenny",
+    "content": "I mean, if anyone could do it, I think LVNers at Cortico could do it. I saw a LinkedIn post about LinkedIn hand signals or hand gestures. Sorry, Zoom hand gestures, that might be helpful."
+  },
+  {
+    "audio_start_offset": 6803.3,
+    "audio_end_offset": 6806.4,
+    "speaker_id": "Faye",
+    "content": "We do have the option of a clapping hand or a thumbs up."
+  },
+  {
+    "audio_start_offset": 6808.5,
+    "audio_end_offset": 6809.9,
+    "speaker_id": "Jess",
+    "content": "Oh whoa, how did you do that?"
+  },
+  {
+    "audio_start_offset": 6809.9,
+    "audio_end_offset": 6815.0,
+    "speaker_id": "Faye",
+    "content": "If you go to the thumbs at the bottom of the screen. You can-"
+  },
+  {
+    "audio_start_offset": 6815.0,
+    "audio_end_offset": 6815.0,
+    "speaker_id": "Jess",
+    "content": "Wait where? What did she do, where?"
+  },
+  {
+    "audio_start_offset": 6815.0,
+    "audio_end_offset": 6820.4,
+    "speaker_id": "Faye",
+    "content": "Next to the leave meeting, if you go to the left of that, there's the reaction."
+  },
+  {
+    "audio_start_offset": 6820.4,
+    "audio_end_offset": 6822.2,
+    "speaker_id": "Fenny",
+    "content": "I find that distracting."
+  },
+  {
+    "audio_start_offset": 6822.2,
+    "audio_end_offset": 6822.8,
+    "speaker_id": "Kenny",
+    "content": "Oh, we don't have that."
+  },
+  {
+    "audio_start_offset": 6822.8,
+    "audio_end_offset": 6822.8,
+    "speaker_id": "Tess",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 6822.8,
+    "audio_end_offset": 6822.8,
+    "speaker_id": "Jess",
+    "content": "Whoa."
+  },
+  {
+    "audio_start_offset": 6822.8,
+    "audio_end_offset": 6822.8,
+    "speaker_id": "Kenny",
+    "content": "I can see it on your side?"
+  },
+  {
+    "audio_start_offset": 6822.8,
+    "audio_end_offset": 6831.6,
+    "speaker_id": "Jess",
+    "content": "Oh yeah. Oh wait, also there's like a coffee cup?"
+  },
+  {
+    "audio_start_offset": 6831.6,
+    "audio_end_offset": 6833.3,
+    "speaker_id": "Faye",
+    "content": "You have a coffee cup?"
+  },
+  {
+    "audio_start_offset": 6833.3,
+    "audio_end_offset": 6834.9,
+    "speaker_id": "Jess",
+    "content": "I have a coffee cup."
+  },
+  {
+    "audio_start_offset": 6834.9,
+    "audio_end_offset": 6834.9,
+    "speaker_id": "Kenny",
+    "content": "[Crosstalk 01:53:55]. Where is this?"
+  },
+  {
+    "audio_start_offset": 6834.9,
+    "audio_end_offset": 6843.7,
+    "speaker_id": "Tess",
+    "content": "So, at the bottom, to the far right there's, \"Leave meeting,\" and then there's the reactions button."
+  },
+  {
+    "audio_start_offset": 6843.7,
+    "audio_end_offset": 6844.0,
+    "speaker_id": "Kenny",
+    "content": "I don't have that."
+  },
+  {
+    "audio_start_offset": 6844.0,
+    "audio_end_offset": 6845.6,
+    "speaker_id": "Tess",
+    "content": "You don't have that? Oh. Who's the lead in the meeting? Is it-"
+  },
+  {
+    "audio_start_offset": 6845.6,
+    "audio_end_offset": 6851.1,
+    "speaker_id": "Jess",
+    "content": "It's me and Kenny, but I don't have that either, Fay. I have-"
+  },
+  {
+    "audio_start_offset": 6851.1,
+    "audio_end_offset": 6853.6,
+    "speaker_id": "Fenny",
+    "content": "I have it too. How come some of us have it?"
+  },
+  {
+    "audio_start_offset": 6853.6,
+    "audio_end_offset": 6856.9,
+    "speaker_id": "Jess",
+    "content": "Do you really?"
+  },
+  {
+    "audio_start_offset": 6856.9,
+    "audio_end_offset": 6856.9,
+    "speaker_id": "Fenny",
+    "content": "Maybe it's just the participants that have the option."
+  },
+  {
+    "audio_start_offset": 6856.9,
+    "audio_end_offset": 6870.8,
+    "speaker_id": "Jess",
+    "content": "That could be. I think that's a good question though. I think that's a good thing to try out, experiment with that."
+  },
+  {
+    "audio_start_offset": 6870.8,
+    "audio_end_offset": 6894.1,
+    "speaker_id": "Wandy",
+    "content": "Is there typically the expectation to have these as video conversations? I'm wondering about for future conversations if there are folks that are going to join in, and this is also because I personally want to figure this out too ... the folks that want to jump in with just audio, and what does that end up looking like?"
+  },
+  {
+    "audio_start_offset": 6894.1,
+    "audio_end_offset": 6932.5,
+    "speaker_id": "Jess",
+    "content": "Yeah, that's a great question. We have set it up so that participants can join through phone or their computer. I think the only thing is ... and because we're not using the slide show, which I'm a fan of, I'm a fan of not using it, then I think it might just require the facilitator to repeat the questions sometimes and obviously to then prompt ... and Kenny did this, prompt the next person to speak. So, they are accessible by phone."
+  },
+  {
+    "audio_start_offset": 6932.5,
+    "audio_end_offset": 6946.3,
+    "speaker_id": "Kenny",
+    "content": "Yeah, it almost evolves into like an accessibility consideration, like someone with a visual disability. That's how you're including them in the conversation. Always having that reinforcement if they can't see whatever it is that is being shared, you need to communicate it."
+  },
+  {
+    "audio_start_offset": 6946.3,
+    "audio_end_offset": 6964.2,
+    "speaker_id": "Fenny",
+    "content": "Oh, as for whether or not to keep people on mute, I'm maybe just curious to try that for the next facilitated conversation, see how it goes."
+  },
+  {
+    "audio_start_offset": 6964.8,
+    "audio_end_offset": 6977.9,
+    "speaker_id": "Jess",
+    "content": "Yeah, I think that's right. I think that's absolutely right. It'd be good data for us because I think we generally have done it just with folks on mute for the whole time. I think that's a good idea."
+  },
+  {
+    "audio_start_offset": 6977.9,
+    "audio_end_offset": 6985.9,
+    "speaker_id": "Kenny",
+    "content": "I think we can preface it two ways where one is try to be in a room without much distraction, and if that's not possible, we might mute you. Don't take it personal, what we're trying to [inaudible 01:56:28]."
+  },
+  {
+    "audio_start_offset": 6985.9,
+    "audio_end_offset": 6989.2,
+    "speaker_id": "Jess",
+    "content": "Yeah, that's a great idea."
+  },
+  {
+    "audio_start_offset": 6989.2,
+    "audio_end_offset": 6989.3,
+    "speaker_id": "Kenny",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 6989.3,
+    "audio_end_offset": 7016.5,
+    "speaker_id": "Jess",
+    "content": "And then to the other question, Kenny, usually for in person conversations before they start, I'll do some kind of once around of either what's giving you life this week, or what's something new and good. Just those general prompts. I think we could do ... maybe try something like that to bring people into the conversation."
+  },
+  {
+    "audio_start_offset": 7016.5,
+    "audio_end_offset": 7035.0,
+    "speaker_id": "Kenny",
+    "content": "Yeah, I think that could be great as well. And yeah, I just shared the link in the chat for hand signals. From a facilitation perspective, because even if multiple people want to talk, they can put their fingers up and then be acknowledged as one, two."
+  },
+  {
+    "audio_start_offset": 7037.3,
+    "audio_end_offset": 7049.2,
+    "speaker_id": "Faye",
+    "content": "That is how we play Dungeons & Dragons on Zoom, is you have to raise your hands to actually talk."
+  },
+  {
+    "audio_start_offset": 7049.2,
+    "audio_end_offset": 7051.0,
+    "speaker_id": "Jess",
+    "content": "I think what this is telling me is that it's basically like scuba speak, you know how when you're like, \"Okay? Okay.\""
+  },
+  {
+    "audio_start_offset": 7051.0,
+    "audio_end_offset": 7057.0,
+    "speaker_id": "Kenny",
+    "content": "Oh yeah, I actually think that's a great comparison, that's cool."
+  },
+  {
+    "audio_start_offset": 7060.5,
+    "audio_end_offset": 7067.5,
+    "speaker_id": "Jess",
+    "content": "Yeah, we should let you guys go, but thank you again. Thank you Kenny. Thank you everyone for trying this out with us."
+  },
+  {
+    "audio_start_offset": 7067.5,
+    "audio_end_offset": 7077.8,
+    "speaker_id": "Fenny",
+    "content": "Yeah, thank you so much. This was really great. Hope to see many of you again, or all of you again soon."
+  },
+  {
+    "audio_start_offset": 7077.8,
+    "audio_end_offset": 7077.8,
+    "speaker_id": "Speaker 5",
+    "content": "Thank you, you did a great job Kenny and Jess."
+  },
+  {
+    "audio_start_offset": 7077.8,
+    "audio_end_offset": 7077.8,
+    "speaker_id": "Jess",
+    "content": "Yeah, all right."
+  },
+  {
+    "audio_start_offset": 7077.8,
+    "audio_end_offset": 7077.8,
+    "speaker_id": "Kenny",
+    "content": "See you."
+  },
+  {
+    "audio_start_offset": 7077.8,
+    "audio_end_offset": 7078.3,
+    "speaker_id": "Jess",
+    "content": "Good night you guys."
+  },
+  {
+    "audio_start_offset": 7079.8,
+    "audio_end_offset": 7081.2,
+    "speaker_id": "Wandy",
+    "content": "Bye."
+  },
+  {
+    "audio_start_offset": 7081.2,
+    "audio_end_offset": 7081.2,
+    "speaker_id": "Fenny",
+    "content": "Goodnight."
+  },
+  {
+    "audio_start_offset": 7081.2,
+    "audio_end_offset": 7083.8,
+    "speaker_id": "Jess",
+    "content": "I'm going to see if I can turn this off."
+  },
+  {
+    "audio_start_offset": 7083.8,
+    "audio_end_offset": 7084.3,
+    "speaker_id": "Kenny",
+    "content": "Should we stop the recording?"
+  },
+  {
+    "audio_start_offset": 7084.3,
+    "audio_end_offset": 7084.3,
+    "speaker_id": "Jess",
+    "content": "Yeah, I think so."
+  }
+]

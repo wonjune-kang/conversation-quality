@@ -1,0 +1,1706 @@
+[
+  {
+    "audio_start_offset": 0.0,
+    "audio_end_offset": 29.5,
+    "speaker_id": "Maggie",
+    "content": "Great, thank you. Okay, so we're going to get started. So today, what we're going to do is have a conversation. First, we're going to do a few pretty basic activities and then I'll ask questions to prompt conversation. To start, could everybody just say their name and where they're at in the world."
+  },
+  {
+    "audio_start_offset": 30.0,
+    "audio_end_offset": 32.5,
+    "speaker_id": "Miranda",
+    "content": "[crosstalk 00:01:15]. Oh, go ahead."
+  },
+  {
+    "audio_start_offset": 33.0,
+    "audio_end_offset": 37.5,
+    "speaker_id": "Naomi",
+    "content": "Hi, I'm Naomi. I'm in Dallas, Texas."
+  },
+  {
+    "audio_start_offset": 38.0,
+    "audio_end_offset": 43.5,
+    "speaker_id": "Miranda",
+    "content": "I'm Miranda. I'm in Somerville, Massachusetts."
+  },
+  {
+    "audio_start_offset": 44.0,
+    "audio_end_offset": 52.5,
+    "speaker_id": "Shashank",
+    "content": "Hi, I'm Shashank. And I am in Boston, Massachusetts."
+  },
+  {
+    "audio_start_offset": 53.0,
+    "audio_end_offset": 59.5,
+    "speaker_id": "Speaker 5",
+    "content": "Hi, my name is and I stay in Cambridge, Massachusetts."
+  },
+  {
+    "audio_start_offset": 60.0,
+    "audio_end_offset": 64.5,
+    "speaker_id": "Prassad",
+    "content": "Hi, I'm and I'm in Cambridge, Massachusetts."
+  },
+  {
+    "audio_start_offset": 65.0,
+    "audio_end_offset": 115.5,
+    "speaker_id": "Maggie",
+    "content": "Great. And I'm Maggie. I'm in Boston, Massachusetts right now. So to start, I'd like to do a quick activity. The question is first, if you guys could try to find a few things that you all share in common. And so what we're going to try to avoid is our first physical traits, like everybody has a nose or hair or something like that. And rather try to dig a little bit deeper thinking about characteristics about yourself, things you like to do and so forth. As you all find things that every one of you shares, you can type them and put them in the chat, whoever comes up with the idea."
+  },
+  {
+    "audio_start_offset": 116.0,
+    "audio_end_offset": 118.5,
+    "speaker_id": "Miranda",
+    "content": "So you put the idea in the chat. And then ..."
+  },
+  {
+    "audio_start_offset": 119.0,
+    "audio_end_offset": 125.5,
+    "speaker_id": "Maggie",
+    "content": "After you've discussed and figure out that you all share this thing, then you can throw it in the chat."
+  },
+  {
+    "audio_start_offset": 126.0,
+    "audio_end_offset": 132.5,
+    "speaker_id": "Miranda",
+    "content": "Oh, okay. So are we all grad students? I am."
+  },
+  {
+    "audio_start_offset": 133.0,
+    "audio_end_offset": 134.5,
+    "speaker_id": "Shashank",
+    "content": "I am."
+  },
+  {
+    "audio_start_offset": 135.0,
+    "audio_end_offset": 135.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yep."
+  },
+  {
+    "audio_start_offset": 136.0,
+    "audio_end_offset": 137.5,
+    "speaker_id": "Prassad",
+    "content": "Yeah, me too."
+  },
+  {
+    "audio_start_offset": 138.0,
+    "audio_end_offset": 139.5,
+    "speaker_id": "Miranda",
+    "content": "I'm not."
+  },
+  {
+    "audio_start_offset": 140.0,
+    "audio_end_offset": 143.5,
+    "speaker_id": "Prassad",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 144.0,
+    "audio_end_offset": 149.5,
+    "speaker_id": "Miranda",
+    "content": "Are we all in school? Naomi, are you in school [crosstalk 00:03:13]."
+  },
+  {
+    "audio_start_offset": 150.0,
+    "audio_end_offset": 154.5,
+    "speaker_id": "Naomi",
+    "content": "So this semester just finished. I'm also student at MIT."
+  },
+  {
+    "audio_start_offset": 155.0,
+    "audio_end_offset": 155.5,
+    "speaker_id": "Miranda",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 156.0,
+    "audio_end_offset": 157.5,
+    "speaker_id": "Naomi",
+    "content": "Yeah-"
+  },
+  {
+    "audio_start_offset": 158.0,
+    "audio_end_offset": 166.5,
+    "speaker_id": "Speaker 5",
+    "content": "I have studied or are studying in Massachusetts. Does that sound similar to everybody, I think."
+  },
+  {
+    "audio_start_offset": 167.0,
+    "audio_end_offset": 168.5,
+    "speaker_id": "Prassad",
+    "content": "Even I'm studying in Massachusetts."
+  },
+  {
+    "audio_start_offset": 169.0,
+    "audio_end_offset": 173.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, me too."
+  },
+  {
+    "audio_start_offset": 174.0,
+    "audio_end_offset": 173.5,
+    "speaker_id": "Naomi",
+    "content": "Same."
+  },
+  {
+    "audio_start_offset": 174.0,
+    "audio_end_offset": 186.5,
+    "speaker_id": "Speaker 5",
+    "content": "Okay, so we have or we are studying in Massachusetts is one common thing. Maggie do we or just one is fine."
+  },
+  {
+    "audio_start_offset": 187.0,
+    "audio_end_offset": 193.5,
+    "speaker_id": "Maggie",
+    "content": "Yeah. So we're going to do this for about five to 10 minutes. I'll let you know when we can stop."
+  },
+  {
+    "audio_start_offset": 194.0,
+    "audio_end_offset": 211.5,
+    "speaker_id": "Speaker 5",
+    "content": "Okay. So I can just put it down."
+  },
+  {
+    "audio_start_offset": 212.0,
+    "audio_end_offset": 214.5,
+    "speaker_id": "Miranda",
+    "content": "What are you guys studying?"
+  },
+  {
+    "audio_start_offset": 215.0,
+    "audio_end_offset": 232.5,
+    "speaker_id": "Speaker 5",
+    "content": "So I'm doing a master's in finance. So anyone from finance field or? Is anyone really interested in numbers?"
+  },
+  {
+    "audio_start_offset": 233.0,
+    "audio_end_offset": 240.5,
+    "speaker_id": "Miranda",
+    "content": "I study biological engineering. So that's technical in nature."
+  },
+  {
+    "audio_start_offset": 241.0,
+    "audio_end_offset": 240.5,
+    "speaker_id": "Speaker 5",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 241.0,
+    "audio_end_offset": 249.5,
+    "speaker_id": "Prassad",
+    "content": "I am studying Pharmaceutical Sciences, but I do like stock market. So maybe and maybe not liking numbers."
+  },
+  {
+    "audio_start_offset": 250.0,
+    "audio_end_offset": 256.5,
+    "speaker_id": "Miranda",
+    "content": "Is anyone not in STEM?"
+  },
+  {
+    "audio_start_offset": 257.0,
+    "audio_end_offset": 256.5,
+    "speaker_id": "Naomi",
+    "content": "I am."
+  },
+  {
+    "audio_start_offset": 257.0,
+    "audio_end_offset": 257.5,
+    "speaker_id": "Shashank",
+    "content": "I am in STEM."
+  },
+  {
+    "audio_start_offset": 258.0,
+    "audio_end_offset": 261.5,
+    "speaker_id": "Prassad",
+    "content": "I am in STEM. So we are all studying as STEM cohorts."
+  },
+  {
+    "audio_start_offset": 262.0,
+    "audio_end_offset": 264.5,
+    "speaker_id": "Speaker 5",
+    "content": "No, but I think mine is not a STEM course."
+  },
+  {
+    "audio_start_offset": 265.0,
+    "audio_end_offset": 265.5,
+    "speaker_id": "Miranda",
+    "content": "That's okay."
+  },
+  {
+    "audio_start_offset": 266.0,
+    "audio_end_offset": 267.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 268.0,
+    "audio_end_offset": 269.5,
+    "speaker_id": "Miranda",
+    "content": "What do you study?"
+  },
+  {
+    "audio_start_offset": 270.0,
+    "audio_end_offset": 279.5,
+    "speaker_id": "Speaker 5",
+    "content": "I'm doing my masters in finance. So I think finance is not a part of STEM."
+  },
+  {
+    "audio_start_offset": 280.0,
+    "audio_end_offset": 284.5,
+    "speaker_id": "Prassad",
+    "content": "I think finance would be a part of mathematics."
+  },
+  {
+    "audio_start_offset": 285.0,
+    "audio_end_offset": 297.5,
+    "speaker_id": "Speaker 5",
+    "content": "[crosstalk 00:05:30]. I mean, my school is not providing a STEM field. Maybe in some other universities it's a part of STEM."
+  },
+  {
+    "audio_start_offset": 298.0,
+    "audio_end_offset": 298.5,
+    "speaker_id": "Miranda",
+    "content": "Do we all deal with numbers?"
+  },
+  {
+    "audio_start_offset": 299.0,
+    "audio_end_offset": 305.5,
+    "speaker_id": "Naomi",
+    "content": "There we go."
+  },
+  {
+    "audio_start_offset": 306.0,
+    "audio_end_offset": 325.5,
+    "speaker_id": "Miranda",
+    "content": "We have to do math. Yeah. How about for fun? Do you guys like to cook or bake or play an instrument? I love baking and dancing."
+  },
+  {
+    "audio_start_offset": 326.0,
+    "audio_end_offset": 343.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, I'm into music. So I play some instruments like I know how to play guitar and piano. So I'm also associated with music."
+  },
+  {
+    "audio_start_offset": 344.0,
+    "audio_end_offset": 345.5,
+    "speaker_id": "Miranda",
+    "content": "[crosstalk 00:06:29] music."
+  },
+  {
+    "audio_start_offset": 346.0,
+    "audio_end_offset": 361.5,
+    "speaker_id": "Prassad",
+    "content": "[crosstalk 00:06:31] but I don't really think that ... Puberty really hit me hard. So I don't have a voice. So I don't take time associated to music anymore."
+  },
+  {
+    "audio_start_offset": 362.0,
+    "audio_end_offset": 369.5,
+    "speaker_id": "Shashank",
+    "content": "Me also. I don't play or sing."
+  },
+  {
+    "audio_start_offset": 370.0,
+    "audio_end_offset": 369.5,
+    "speaker_id": "Miranda",
+    "content": "[crosstalk 00:06:55]."
+  },
+  {
+    "audio_start_offset": 370.0,
+    "audio_end_offset": 373.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, go ahead."
+  },
+  {
+    "audio_start_offset": 374.0,
+    "audio_end_offset": 380.5,
+    "speaker_id": "Miranda",
+    "content": "Oh, okay. Yeah, I think we don't have that in common. I was going to say, do you guys have any siblings or?"
+  },
+  {
+    "audio_start_offset": 381.0,
+    "audio_end_offset": 388.5,
+    "speaker_id": "Speaker 5",
+    "content": "I have one sibling, so I have an older brother. One sibling."
+  },
+  {
+    "audio_start_offset": 389.0,
+    "audio_end_offset": 393.5,
+    "speaker_id": "Miranda",
+    "content": "Okay. I also have-"
+  },
+  {
+    "audio_start_offset": 394.0,
+    "audio_end_offset": 398.5,
+    "speaker_id": "Shashank",
+    "content": "I don't have any siblings."
+  },
+  {
+    "audio_start_offset": 399.0,
+    "audio_end_offset": 398.5,
+    "speaker_id": "Prassad",
+    "content": "I'm a single child. I don't have any siblings."
+  },
+  {
+    "audio_start_offset": 399.0,
+    "audio_end_offset": 401.5,
+    "speaker_id": "Speaker 5",
+    "content": "What about staying? I'm staying in a rented apartment? Is everyone [crosstalk 00:07:27]."
+  },
+  {
+    "audio_start_offset": 402.0,
+    "audio_end_offset": 402.5,
+    "speaker_id": "Shashank",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 403.0,
+    "audio_end_offset": 407.5,
+    "speaker_id": "Speaker 5",
+    "content": "So yeah, I'm also staying in a rented apartment or rented house."
+  },
+  {
+    "audio_start_offset": 408.0,
+    "audio_end_offset": 408.5,
+    "speaker_id": "Miranda",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 409.0,
+    "audio_end_offset": 414.5,
+    "speaker_id": "Naomi",
+    "content": "So I'm in a house owned by my parents."
+  },
+  {
+    "audio_start_offset": 415.0,
+    "audio_end_offset": 422.5,
+    "speaker_id": "Speaker 5",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 423.0,
+    "audio_end_offset": 429.5,
+    "speaker_id": "Prassad",
+    "content": "How many countries have you all stayed in? I've stayed in two."
+  },
+  {
+    "audio_start_offset": 430.0,
+    "audio_end_offset": 431.5,
+    "speaker_id": "Shashank",
+    "content": "Yeah, same. Two."
+  },
+  {
+    "audio_start_offset": 432.0,
+    "audio_end_offset": 435.5,
+    "speaker_id": "Miranda",
+    "content": "I've stayed in two. How about you, Naomi?"
+  },
+  {
+    "audio_start_offset": 436.0,
+    "audio_end_offset": 440.5,
+    "speaker_id": "Naomi",
+    "content": "By stayed in, do you mean lived in or [crosstalk 00:08:04]?"
+  },
+  {
+    "audio_start_offset": 441.0,
+    "audio_end_offset": 447.5,
+    "speaker_id": "Miranda",
+    "content": "Maybe studied abroad. Just some period of time. I guess it's a very flexible question."
+  },
+  {
+    "audio_start_offset": 448.0,
+    "audio_end_offset": 450.5,
+    "speaker_id": "Naomi",
+    "content": "Yeah. I'd say I've lived in more than two then."
+  },
+  {
+    "audio_start_offset": 451.0,
+    "audio_end_offset": 451.5,
+    "speaker_id": "Prassad",
+    "content": "Oh, God."
+  },
+  {
+    "audio_start_offset": 452.0,
+    "audio_end_offset": 454.5,
+    "speaker_id": "Miranda",
+    "content": "Well, we've all lived in at least two countries."
+  },
+  {
+    "audio_start_offset": 455.0,
+    "audio_end_offset": 472.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, at least two."
+  },
+  {
+    "audio_start_offset": 473.0,
+    "audio_end_offset": 477.5,
+    "speaker_id": "Prassad",
+    "content": "At least two. So let's."
+  },
+  {
+    "audio_start_offset": 478.0,
+    "audio_end_offset": 481.5,
+    "speaker_id": "Miranda",
+    "content": "Yeah. I'm sure that there has to be something more fun than just what we study to talk about, right?"
+  },
+  {
+    "audio_start_offset": 482.0,
+    "audio_end_offset": 496.5,
+    "speaker_id": "Prassad",
+    "content": "Maybe. What's your favorite food? I like Mexican."
+  },
+  {
+    "audio_start_offset": 497.0,
+    "audio_end_offset": 502.5,
+    "speaker_id": "Miranda",
+    "content": "I like Mexican food as well. Does anyone not like Mexican?"
+  },
+  {
+    "audio_start_offset": 503.0,
+    "audio_end_offset": 507.5,
+    "speaker_id": "Prassad",
+    "content": "I love Mexican."
+  },
+  {
+    "audio_start_offset": 508.0,
+    "audio_end_offset": 515.5,
+    "speaker_id": "Shashank",
+    "content": "I won't stick to a cuisine type, but I really like Mexican food."
+  },
+  {
+    "audio_start_offset": 516.0,
+    "audio_end_offset": 517.5,
+    "speaker_id": "Miranda",
+    "content": "Naomi, what were you going to say?"
+  },
+  {
+    "audio_start_offset": 518.0,
+    "audio_end_offset": 519.5,
+    "speaker_id": "Naomi",
+    "content": "I said me too."
+  },
+  {
+    "audio_start_offset": 520.0,
+    "audio_end_offset": 532.5,
+    "speaker_id": "Prassad",
+    "content": "Okay, so we all like Mexican food."
+  },
+  {
+    "audio_start_offset": 533.0,
+    "audio_end_offset": 536.5,
+    "speaker_id": "Miranda",
+    "content": "So, is that how you say your name?"
+  },
+  {
+    "audio_start_offset": 537.0,
+    "audio_end_offset": 539.5,
+    "speaker_id": "Speaker 5",
+    "content": "Prassad. Yeah, that's correct."
+  },
+  {
+    "audio_start_offset": 540.0,
+    "audio_end_offset": 545.5,
+    "speaker_id": "Miranda",
+    "content": "Okay, I want to make sure I said that right. What's your favorite movie? What genre of movie do you love?"
+  },
+  {
+    "audio_start_offset": 546.0,
+    "audio_end_offset": 572.5,
+    "speaker_id": "Speaker 5",
+    "content": "I would say I like watching mostly ... It's a difficult question but I would say mystery which has a twist at the end. So [crosstalk 00:10:17] movies."
+  },
+  {
+    "audio_start_offset": 573.0,
+    "audio_end_offset": 585.5,
+    "speaker_id": "Prassad",
+    "content": "Well, in my case I like those suspense and thriller movies, which a mystery and at the end, finally they reveal the whole story."
+  },
+  {
+    "audio_start_offset": 586.0,
+    "audio_end_offset": 591.5,
+    "speaker_id": "Miranda",
+    "content": "more than thrillers."
+  },
+  {
+    "audio_start_offset": 592.0,
+    "audio_end_offset": 600.5,
+    "speaker_id": "Naomi",
+    "content": "Yeah, I like thrillers. I like comedy as well, a variety of movies."
+  },
+  {
+    "audio_start_offset": 601.0,
+    "audio_end_offset": 623.5,
+    "speaker_id": "Miranda",
+    "content": "Yeah, I agree with you there. I especially love the old fashioned style type of thriller fiction like the Alfred Hitchcock type of movies. And I actually recently watched The Interview, which is a really slightly offensive comedy with my roommates. I don't know if you guys have heard of it."
+  },
+  {
+    "audio_start_offset": 624.0,
+    "audio_end_offset": 624.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 625.0,
+    "audio_end_offset": 633.5,
+    "speaker_id": "Miranda",
+    "content": "It's controversial."
+  },
+  {
+    "audio_start_offset": 634.0,
+    "audio_end_offset": 636.5,
+    "speaker_id": "Prassad",
+    "content": "Does anybody like Friends?"
+  },
+  {
+    "audio_start_offset": 637.0,
+    "audio_end_offset": 638.5,
+    "speaker_id": "Miranda",
+    "content": "Actually, I don't. I'm sorry."
+  },
+  {
+    "audio_start_offset": 639.0,
+    "audio_end_offset": 642.5,
+    "speaker_id": "Shashank",
+    "content": "No, not a fan."
+  },
+  {
+    "audio_start_offset": 643.0,
+    "audio_end_offset": 646.5,
+    "speaker_id": "Miranda",
+    "content": "I don't think a lot of the humor."
+  },
+  {
+    "audio_start_offset": 647.0,
+    "audio_end_offset": 650.5,
+    "speaker_id": "Speaker 5",
+    "content": "Let's find out something which is really common. Say everyone has mobile phones?"
+  },
+  {
+    "audio_start_offset": 651.0,
+    "audio_end_offset": 653.5,
+    "speaker_id": "Miranda",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 654.0,
+    "audio_end_offset": 667.5,
+    "speaker_id": "Speaker 5",
+    "content": "Maybe. Okay. I think that's a very common thing. It's similar to something like something."
+  },
+  {
+    "audio_start_offset": 668.0,
+    "audio_end_offset": 671.5,
+    "speaker_id": "Prassad",
+    "content": "Does everybody have an iPhone?"
+  },
+  {
+    "audio_start_offset": 672.0,
+    "audio_end_offset": 675.5,
+    "speaker_id": "Shashank",
+    "content": "[crosstalk 00:11:57]."
+  },
+  {
+    "audio_start_offset": 676.0,
+    "audio_end_offset": 677.5,
+    "speaker_id": "Prassad",
+    "content": "So everybody has an iPhone."
+  },
+  {
+    "audio_start_offset": 678.0,
+    "audio_end_offset": 679.5,
+    "speaker_id": "Naomi",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 680.0,
+    "audio_end_offset": 681.5,
+    "speaker_id": "Shashank",
+    "content": "No, I have an Android."
+  },
+  {
+    "audio_start_offset": 682.0,
+    "audio_end_offset": 687.5,
+    "speaker_id": "Prassad",
+    "content": "Everybody has a smartphone. [crosstalk 00:12:10]. Okay."
+  },
+  {
+    "audio_start_offset": 688.0,
+    "audio_end_offset": 718.5,
+    "speaker_id": "Maggie",
+    "content": "Okay, great. Thank you guys. Thank you for this list. For the next question on the opposite side of that, could you try to find something that each one of you has that is unique to you within this conversation? So something about you that isn't the same as anyone else here. And you can share it in the chat as well. We're going to try to find two things for each person."
+  },
+  {
+    "audio_start_offset": 719.0,
+    "audio_end_offset": 725.5,
+    "speaker_id": "Prassad",
+    "content": "Okay. I think I'm the only one who likes Friends."
+  },
+  {
+    "audio_start_offset": 726.0,
+    "audio_end_offset": 727.5,
+    "speaker_id": "Miranda",
+    "content": "I guess so."
+  },
+  {
+    "audio_start_offset": 728.0,
+    "audio_end_offset": 734.5,
+    "speaker_id": "Prassad",
+    "content": "Okay, so I have my one thing with this. I am the only one who likes Friends."
+  },
+  {
+    "audio_start_offset": 735.0,
+    "audio_end_offset": 743.5,
+    "speaker_id": "Miranda",
+    "content": "And sounds like Naomi is the only one who's living with family right now. Is that correct?"
+  },
+  {
+    "audio_start_offset": 744.0,
+    "audio_end_offset": 743.5,
+    "speaker_id": "Prassad",
+    "content": "Yep."
+  },
+  {
+    "audio_start_offset": 744.0,
+    "audio_end_offset": 746.5,
+    "speaker_id": "Miranda",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 747.0,
+    "audio_end_offset": 752.5,
+    "speaker_id": "Speaker 5",
+    "content": "Okay, so I'm associated music so I own a guitar. Is anyone here who has a guitar?"
+  },
+  {
+    "audio_start_offset": 753.0,
+    "audio_end_offset": 753.5,
+    "speaker_id": "Miranda",
+    "content": "No."
+  },
+  {
+    "audio_start_offset": 754.0,
+    "audio_end_offset": 762.5,
+    "speaker_id": "Speaker 5",
+    "content": "Okay. I'll write it down."
+  },
+  {
+    "audio_start_offset": 763.0,
+    "audio_end_offset": 786.5,
+    "speaker_id": "Prassad",
+    "content": "For Naomi, I think she's the only one who is not in Massachusetts right now. She's not in the same time zone if I can say that. So that's a different thing for ... Naomi, you got two different things very quickly."
+  },
+  {
+    "audio_start_offset": 787.0,
+    "audio_end_offset": 806.5,
+    "speaker_id": "Miranda",
+    "content": "So, Prassad is there something ... Something that's I think maybe unique to me would be, I studied ballet. That's really random. Has anyone done that?"
+  },
+  {
+    "audio_start_offset": 807.0,
+    "audio_end_offset": 806.5,
+    "speaker_id": "Miranda",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 807.0,
+    "audio_end_offset": 824.5,
+    "speaker_id": "Shashank",
+    "content": "For me, it's ... Does anyone know how to ice skate?"
+  },
+  {
+    "audio_start_offset": 825.0,
+    "audio_end_offset": 826.5,
+    "speaker_id": "Miranda",
+    "content": "Define ..."
+  },
+  {
+    "audio_start_offset": 827.0,
+    "audio_end_offset": 833.5,
+    "speaker_id": "Prassad",
+    "content": "I mean, I've done ice skating. I'm not. I know how to ..."
+  },
+  {
+    "audio_start_offset": 834.0,
+    "audio_end_offset": 839.5,
+    "speaker_id": "Miranda",
+    "content": "I cannot fall on my ass for minutes but I don't think that counts. Are you able to do tricks?"
+  },
+  {
+    "audio_start_offset": 840.0,
+    "audio_end_offset": 843.5,
+    "speaker_id": "Shashank",
+    "content": "I can do with the."
+  },
+  {
+    "audio_start_offset": 844.0,
+    "audio_end_offset": 844.5,
+    "speaker_id": "Miranda",
+    "content": "Yeah, I can't do that."
+  },
+  {
+    "audio_start_offset": 845.0,
+    "audio_end_offset": 855.5,
+    "speaker_id": "Shashank",
+    "content": "And and all that but I'm not that good, but I can play ice hockey."
+  },
+  {
+    "audio_start_offset": 856.0,
+    "audio_end_offset": 855.5,
+    "speaker_id": "Speaker 5",
+    "content": "I can play ice hockey."
+  },
+  {
+    "audio_start_offset": 856.0,
+    "audio_end_offset": 876.5,
+    "speaker_id": "Shashank",
+    "content": "[crosstalk 00:15:01] that would be a unique one. And one more thing is I would say, has anyone been doing yoga or is anyone good at yoga?"
+  },
+  {
+    "audio_start_offset": 877.0,
+    "audio_end_offset": 880.5,
+    "speaker_id": "Naomi",
+    "content": "I am, fortunately."
+  },
+  {
+    "audio_start_offset": 881.0,
+    "audio_end_offset": 882.5,
+    "speaker_id": "Prassad",
+    "content": "I can do yoga."
+  },
+  {
+    "audio_start_offset": 883.0,
+    "audio_end_offset": 895.5,
+    "speaker_id": "Speaker 5",
+    "content": "Even I can do but I'm not a regular. There's a difference between right now so I can do yoga, but that's not the thing that I do right now. Not exactly."
+  },
+  {
+    "audio_start_offset": 896.0,
+    "audio_end_offset": 900.5,
+    "speaker_id": "Shashank",
+    "content": "The second thing I'm has anyone played golf?"
+  },
+  {
+    "audio_start_offset": 901.0,
+    "audio_end_offset": 903.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, I've played golf."
+  },
+  {
+    "audio_start_offset": 904.0,
+    "audio_end_offset": 904.5,
+    "speaker_id": "Shashank",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 905.0,
+    "audio_end_offset": 911.5,
+    "speaker_id": "Miranda",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 912.0,
+    "audio_end_offset": 917.5,
+    "speaker_id": "Miranda",
+    "content": "Wait, wait, where were you born? We've all been born in different places, right? Different cities. That's pretty easy."
+  },
+  {
+    "audio_start_offset": 918.0,
+    "audio_end_offset": 923.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, maybe different."
+  },
+  {
+    "audio_start_offset": 924.0,
+    "audio_end_offset": 924.5,
+    "speaker_id": "Miranda",
+    "content": "Go ahead."
+  },
+  {
+    "audio_start_offset": 925.0,
+    "audio_end_offset": 932.5,
+    "speaker_id": "Speaker 5",
+    "content": "So I'm from India, and I was born and raised in New Delhi, the capital of India."
+  },
+  {
+    "audio_start_offset": 933.0,
+    "audio_end_offset": 933.5,
+    "speaker_id": "Miranda",
+    "content": "Okay. Is that unique?"
+  },
+  {
+    "audio_start_offset": 934.0,
+    "audio_end_offset": 938.5,
+    "speaker_id": "Speaker 5",
+    "content": "I don't know. India would be maybe common because Prassad and Shashank seems to be Indian."
+  },
+  {
+    "audio_start_offset": 939.0,
+    "audio_end_offset": 940.5,
+    "speaker_id": "Prassad",
+    "content": "I am born and brought up in Mumbai."
+  },
+  {
+    "audio_start_offset": 941.0,
+    "audio_end_offset": 946.5,
+    "speaker_id": "Shashank",
+    "content": "Same. Mumbai. I think it should be unique for ..."
+  },
+  {
+    "audio_start_offset": 947.0,
+    "audio_end_offset": 949.5,
+    "speaker_id": "Speaker 5",
+    "content": "Right."
+  },
+  {
+    "audio_start_offset": 950.0,
+    "audio_end_offset": 953.5,
+    "speaker_id": "Prassad",
+    "content": "So Naomi's done. Miranda, do you have anything."
+  },
+  {
+    "audio_start_offset": 954.0,
+    "audio_end_offset": 958.5,
+    "speaker_id": "Miranda",
+    "content": "I was born in Hawaii. That's unique."
+  },
+  {
+    "audio_start_offset": 959.0,
+    "audio_end_offset": 961.5,
+    "speaker_id": "Prassad",
+    "content": "That's very unique."
+  },
+  {
+    "audio_start_offset": 962.0,
+    "audio_end_offset": 969.5,
+    "speaker_id": "Shashank",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 970.0,
+    "audio_end_offset": 971.5,
+    "speaker_id": "Prassad",
+    "content": "Am I the only one who doesn't have a sibling?"
+  },
+  {
+    "audio_start_offset": 972.0,
+    "audio_end_offset": 978.5,
+    "speaker_id": "Miranda",
+    "content": "You're the only one that was born in New Delhi, right?"
+  },
+  {
+    "audio_start_offset": 979.0,
+    "audio_end_offset": 987.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah. Right. So maybe."
+  },
+  {
+    "audio_start_offset": 988.0,
+    "audio_end_offset": 997.5,
+    "speaker_id": "Miranda",
+    "content": "So Prassad, do you play on an intramural sports team or something with ice hockey?"
+  },
+  {
+    "audio_start_offset": 998.0,
+    "audio_end_offset": 1003.5,
+    "speaker_id": "Prassad",
+    "content": "I would say more like an amateur. Because I've been doing it for a year and a half."
+  },
+  {
+    "audio_start_offset": 1004.0,
+    "audio_end_offset": 1006.5,
+    "speaker_id": "Miranda",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 1007.0,
+    "audio_end_offset": 1007.5,
+    "speaker_id": "Prassad",
+    "content": "Yeah. I'm learning, actually."
+  },
+  {
+    "audio_start_offset": 1008.0,
+    "audio_end_offset": 1024.5,
+    "speaker_id": "Miranda",
+    "content": "Let's see. Go ahead."
+  },
+  {
+    "audio_start_offset": 1025.0,
+    "audio_end_offset": 1034.5,
+    "speaker_id": "Speaker 5",
+    "content": "I don't eat red meat. Does it count because I'm assuming ... I shouldn't assume that."
+  },
+  {
+    "audio_start_offset": 1035.0,
+    "audio_end_offset": 1039.5,
+    "speaker_id": "Prassad",
+    "content": "So I didn't get you. You've never consumed [crosstalk 00:18:05]."
+  },
+  {
+    "audio_start_offset": 1040.0,
+    "audio_end_offset": 1042.5,
+    "speaker_id": "Speaker 5",
+    "content": "I don't eat red meat. I don't eat beef and [crosstalk 00:18:08]."
+  },
+  {
+    "audio_start_offset": 1043.0,
+    "audio_end_offset": 1061.5,
+    "speaker_id": "Prassad",
+    "content": "Oh, red meat. Okay. Is anyone out here who has never tried red meat? Or everyone has tried. I don't usually take it but I have tried it."
+  },
+  {
+    "audio_start_offset": 1062.0,
+    "audio_end_offset": 1063.5,
+    "speaker_id": "Speaker 5",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 1064.0,
+    "audio_end_offset": 1064.5,
+    "speaker_id": "Miranda",
+    "content": "Same."
+  },
+  {
+    "audio_start_offset": 1065.0,
+    "audio_end_offset": 1071.5,
+    "speaker_id": "Shashank",
+    "content": "I haven't tried red meat."
+  },
+  {
+    "audio_start_offset": 1072.0,
+    "audio_end_offset": 1084.5,
+    "speaker_id": "Miranda",
+    "content": "There has to be something really random. Some crazy story ... You've gone to a country. I'm sure there's something."
+  },
+  {
+    "audio_start_offset": 1085.0,
+    "audio_end_offset": 1092.5,
+    "speaker_id": "Prassad",
+    "content": "I have a big tortoise. I'm pretty sure nobody has that. That is what."
+  },
+  {
+    "audio_start_offset": 1093.0,
+    "audio_end_offset": 1094.5,
+    "speaker_id": "Miranda",
+    "content": "I don't have one. So yes."
+  },
+  {
+    "audio_start_offset": 1095.0,
+    "audio_end_offset": 1111.5,
+    "speaker_id": "Prassad",
+    "content": "Okay. So I think is the only one who's left."
+  },
+  {
+    "audio_start_offset": 1112.0,
+    "audio_end_offset": 1114.5,
+    "speaker_id": "Shashank",
+    "content": "Does anyone have a Fitbit device?"
+  },
+  {
+    "audio_start_offset": 1115.0,
+    "audio_end_offset": 1114.5,
+    "speaker_id": "Miranda",
+    "content": "No."
+  },
+  {
+    "audio_start_offset": 1115.0,
+    "audio_end_offset": 1116.5,
+    "speaker_id": "Shashank",
+    "content": "Like a tracker."
+  },
+  {
+    "audio_start_offset": 1117.0,
+    "audio_end_offset": 1127.5,
+    "speaker_id": "Speaker 5",
+    "content": "I mean, I have an Apple Watch. It's not a Fitbit watch right?"
+  },
+  {
+    "audio_start_offset": 1128.0,
+    "audio_end_offset": 1127.5,
+    "speaker_id": "Shashank",
+    "content": "No. [crosstalk 00:19:33]."
+  },
+  {
+    "audio_start_offset": 1128.0,
+    "audio_end_offset": 1132.5,
+    "speaker_id": "Speaker 5",
+    "content": "something about your childhood, some interesting fact."
+  },
+  {
+    "audio_start_offset": 1133.0,
+    "audio_end_offset": 1138.5,
+    "speaker_id": "Shashank",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 1139.0,
+    "audio_end_offset": 1156.5,
+    "speaker_id": "Speaker 5",
+    "content": "Or some experience that you came across, which is something really ... Maybe can be surprising for us, maybe in traveling or something happened to you that you want to share. It can be really common to us."
+  },
+  {
+    "audio_start_offset": 1157.0,
+    "audio_end_offset": 1164.5,
+    "speaker_id": "Shashank",
+    "content": "Liquid paint."
+  },
+  {
+    "audio_start_offset": 1165.0,
+    "audio_end_offset": 1171.5,
+    "speaker_id": "Speaker 5",
+    "content": "I haven't met any celebrity."
+  },
+  {
+    "audio_start_offset": 1172.0,
+    "audio_end_offset": 1176.5,
+    "speaker_id": "Shashank",
+    "content": "No, I haven't met any celebrities."
+  },
+  {
+    "audio_start_offset": 1177.0,
+    "audio_end_offset": 1176.5,
+    "speaker_id": "Miranda",
+    "content": "I have."
+  },
+  {
+    "audio_start_offset": 1177.0,
+    "audio_end_offset": 1181.5,
+    "speaker_id": "Prassad",
+    "content": "If everybody has then maybe Prassad has not and that. [crosstalk 00:20:28]."
+  },
+  {
+    "audio_start_offset": 1182.0,
+    "audio_end_offset": 1188.5,
+    "speaker_id": "Shashank",
+    "content": "[crosstalk 00:20:27] big celebrities [crosstalk 00:20:30]."
+  },
+  {
+    "audio_start_offset": 1189.0,
+    "audio_end_offset": 1189.5,
+    "speaker_id": "Speaker 5",
+    "content": "in India."
+  },
+  {
+    "audio_start_offset": 1190.0,
+    "audio_end_offset": 1192.5,
+    "speaker_id": "Prassad",
+    "content": "Miranda."
+  },
+  {
+    "audio_start_offset": 1193.0,
+    "audio_end_offset": 1193.5,
+    "speaker_id": "Miranda",
+    "content": "I have not met a celebrity."
+  },
+  {
+    "audio_start_offset": 1194.0,
+    "audio_end_offset": 1203.5,
+    "speaker_id": "Prassad",
+    "content": "Okay. Naomi, have you met anybody?"
+  },
+  {
+    "audio_start_offset": 1204.0,
+    "audio_end_offset": 1209.5,
+    "speaker_id": "Naomi",
+    "content": "I don't think so. I can't think of anyone."
+  },
+  {
+    "audio_start_offset": 1210.0,
+    "audio_end_offset": 1227.5,
+    "speaker_id": "Speaker 5",
+    "content": "Have you been to Miami? I don't know if that's a random thing. I know everyone goes to Miami if it's."
+  },
+  {
+    "audio_start_offset": 1228.0,
+    "audio_end_offset": 1234.5,
+    "speaker_id": "Naomi",
+    "content": "I have not been to Miami, but maybe we have birthdays in different months."
+  },
+  {
+    "audio_start_offset": 1235.0,
+    "audio_end_offset": 1234.5,
+    "speaker_id": "Miranda",
+    "content": "Yeah, that's a good one."
+  },
+  {
+    "audio_start_offset": 1235.0,
+    "audio_end_offset": 1240.5,
+    "speaker_id": "Shashank",
+    "content": "Has anyone been to Maine?"
+  },
+  {
+    "audio_start_offset": 1241.0,
+    "audio_end_offset": 1241.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, I've been to Maine."
+  },
+  {
+    "audio_start_offset": 1242.0,
+    "audio_end_offset": 1243.5,
+    "speaker_id": "Prassad",
+    "content": "I've been to Maine."
+  },
+  {
+    "audio_start_offset": 1244.0,
+    "audio_end_offset": 1246.5,
+    "speaker_id": "Miranda",
+    "content": "suggestion. I was born in June."
+  },
+  {
+    "audio_start_offset": 1247.0,
+    "audio_end_offset": 1249.5,
+    "speaker_id": "Prassad",
+    "content": "I was born in March."
+  },
+  {
+    "audio_start_offset": 1250.0,
+    "audio_end_offset": 1251.5,
+    "speaker_id": "Speaker 5",
+    "content": "Mine is December."
+  },
+  {
+    "audio_start_offset": 1252.0,
+    "audio_end_offset": 1255.5,
+    "speaker_id": "Naomi",
+    "content": "Mine is November."
+  },
+  {
+    "audio_start_offset": 1256.0,
+    "audio_end_offset": 1257.5,
+    "speaker_id": "Speaker 5",
+    "content": "That's sad."
+  },
+  {
+    "audio_start_offset": 1258.0,
+    "audio_end_offset": 1264.5,
+    "speaker_id": "Shashank",
+    "content": "Has anyone been ... I think everyone's been to NYC, I guess."
+  },
+  {
+    "audio_start_offset": 1265.0,
+    "audio_end_offset": 1265.5,
+    "speaker_id": "Miranda",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 1266.0,
+    "audio_end_offset": 1268.5,
+    "speaker_id": "Shashank",
+    "content": "That's pretty common."
+  },
+  {
+    "audio_start_offset": 1269.0,
+    "audio_end_offset": 1271.5,
+    "speaker_id": "Speaker 5",
+    "content": "When were you born, Prassad?"
+  },
+  {
+    "audio_start_offset": 1272.0,
+    "audio_end_offset": 1276.5,
+    "speaker_id": "Prassad",
+    "content": "I was born in 1994."
+  },
+  {
+    "audio_start_offset": 1277.0,
+    "audio_end_offset": 1279.5,
+    "speaker_id": "Speaker 5",
+    "content": "I mean the month. Which month?"
+  },
+  {
+    "audio_start_offset": 1280.0,
+    "audio_end_offset": 1280.5,
+    "speaker_id": "Prassad",
+    "content": "February."
+  },
+  {
+    "audio_start_offset": 1281.0,
+    "audio_end_offset": 1281.5,
+    "speaker_id": "Miranda",
+    "content": "Okay. Looks unique, I think."
+  },
+  {
+    "audio_start_offset": 1282.0,
+    "audio_end_offset": 1283.5,
+    "speaker_id": "Prassad",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 1284.0,
+    "audio_end_offset": 1288.5,
+    "speaker_id": "Miranda",
+    "content": "Yeah, perfect. Okay, we found your second one."
+  },
+  {
+    "audio_start_offset": 1289.0,
+    "audio_end_offset": 1314.5,
+    "speaker_id": "Maggie",
+    "content": "Beautiful. Thanks, you guys. Okay, thank you for that list. So now moving on. Hypothetically, if you were on a desert island and you could only bring one thing with you, one practical thing that would be useful, what would you bring?"
+  },
+  {
+    "audio_start_offset": 1315.0,
+    "audio_end_offset": 1320.5,
+    "speaker_id": "Speaker 5",
+    "content": "So should it be like a common answer? Just one answer or it can be different for everyone."
+  },
+  {
+    "audio_start_offset": 1321.0,
+    "audio_end_offset": 1328.5,
+    "speaker_id": "Maggie",
+    "content": "Everyone has their own answer."
+  },
+  {
+    "audio_start_offset": 1329.0,
+    "audio_end_offset": 1331.5,
+    "speaker_id": "Speaker 5",
+    "content": "I will surely bring my smartphone."
+  },
+  {
+    "audio_start_offset": 1332.0,
+    "audio_end_offset": 1336.5,
+    "speaker_id": "Shashank",
+    "content": "glasses."
+  },
+  {
+    "audio_start_offset": 1337.0,
+    "audio_end_offset": 1342.5,
+    "speaker_id": "Prassad",
+    "content": "Like a desert island you mean an island surrounded by water, saltwater or?"
+  },
+  {
+    "audio_start_offset": 1343.0,
+    "audio_end_offset": 1343.5,
+    "speaker_id": "Maggie",
+    "content": "Yeah, salt water."
+  },
+  {
+    "audio_start_offset": 1344.0,
+    "audio_end_offset": 1349.5,
+    "speaker_id": "Prassad",
+    "content": "Okay."
+  },
+  {
+    "audio_start_offset": 1350.0,
+    "audio_end_offset": 1366.5,
+    "speaker_id": "Miranda",
+    "content": "I think I would bring ... That's a good point, the salt water. so I can have water, like a desalination device. But I think smartphone is smart as well. will have service, right?"
+  },
+  {
+    "audio_start_offset": 1367.0,
+    "audio_end_offset": 1372.5,
+    "speaker_id": "Speaker 5",
+    "content": "I'm being optimistic."
+  },
+  {
+    "audio_start_offset": 1373.0,
+    "audio_end_offset": 1381.5,
+    "speaker_id": "Prassad",
+    "content": "I mean, he can only use the phone until the battery runs out. There's no charging thing."
+  },
+  {
+    "audio_start_offset": 1382.0,
+    "audio_end_offset": 1387.5,
+    "speaker_id": "Speaker 5",
+    "content": "I can share my location and I can get help."
+  },
+  {
+    "audio_start_offset": 1388.0,
+    "audio_end_offset": 1394.5,
+    "speaker_id": "Shashank",
+    "content": "That depends on if you want to get help."
+  },
+  {
+    "audio_start_offset": 1395.0,
+    "audio_end_offset": 1402.5,
+    "speaker_id": "Miranda",
+    "content": "I would say a Swiss Army knife. I'll go full survivalist."
+  },
+  {
+    "audio_start_offset": 1403.0,
+    "audio_end_offset": 1405.5,
+    "speaker_id": "Speaker 5",
+    "content": "But then what's the use of having that knife?"
+  },
+  {
+    "audio_start_offset": 1406.0,
+    "audio_end_offset": 1420.5,
+    "speaker_id": "Miranda",
+    "content": "I can kill things, I can cut plants. In my fantasy, I have a Swiss Army knife."
+  },
+  {
+    "audio_start_offset": 1421.0,
+    "audio_end_offset": 1481.5,
+    "speaker_id": "Prassad",
+    "content": "So if it's a desert island and we are surrounded by ocean water, the most practical thing would be to have a good supply of water to survive out there. So I would like to bring a roll of plastic sheet so that I can make a solar water filtration ... You can dig a pit in the sand and just fill it with salt water and cover it with a plastic sheet so that the sun evaporates the salt water to give you pure water to drink. So I would wish that I would have a roll of plastic sheet to use to filter water."
+  },
+  {
+    "audio_start_offset": 1482.0,
+    "audio_end_offset": 1485.5,
+    "speaker_id": "Miranda",
+    "content": "I never would have thought of that."
+  },
+  {
+    "audio_start_offset": 1486.0,
+    "audio_end_offset": 1490.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, that's plan."
+  },
+  {
+    "audio_start_offset": 1491.0,
+    "audio_end_offset": 1505.5,
+    "speaker_id": "Miranda",
+    "content": "I always thought you would have to have some desalination device. But I guess if you've ... Hadn't thought about that. Naomi, you haven't had a chance to say anything."
+  },
+  {
+    "audio_start_offset": 1506.0,
+    "audio_end_offset": 1514.5,
+    "speaker_id": "Naomi",
+    "content": "Oh, yeah, I was just thinking. I mean, if we can bring absolutely anything, I would bring a boat or something."
+  },
+  {
+    "audio_start_offset": 1515.0,
+    "audio_end_offset": 1518.5,
+    "speaker_id": "Speaker 5",
+    "content": "That's so smart."
+  },
+  {
+    "audio_start_offset": 1519.0,
+    "audio_end_offset": 1530.5,
+    "speaker_id": "Miranda",
+    "content": "Yeah, I think you win. A boat to get off the island. I think mine is the worst."
+  },
+  {
+    "audio_start_offset": 1531.0,
+    "audio_end_offset": 1541.5,
+    "speaker_id": "Speaker 5",
+    "content": "You will at least have a knife to cut fruits, I'll just have my glasses to look around. And there will be nothing."
+  },
+  {
+    "audio_start_offset": 1542.0,
+    "audio_end_offset": 1557.5,
+    "speaker_id": "Maggie",
+    "content": "Thank you guys. So now moving on, if you could bring one meaningful thing with you, what would you bring? And why?"
+  },
+  {
+    "audio_start_offset": 1558.0,
+    "audio_end_offset": 1559.5,
+    "speaker_id": "Shashank",
+    "content": "To the desert island?"
+  },
+  {
+    "audio_start_offset": 1560.0,
+    "audio_end_offset": 1566.5,
+    "speaker_id": "Maggie",
+    "content": "Yeah, same place."
+  },
+  {
+    "audio_start_offset": 1567.0,
+    "audio_end_offset": 1578.5,
+    "speaker_id": "Naomi",
+    "content": "I think in that case, I would probably bring my phone or something. So I could see all the pictures. Something like that."
+  },
+  {
+    "audio_start_offset": 1579.0,
+    "audio_end_offset": 1589.5,
+    "speaker_id": "Speaker 5",
+    "content": "I mean, for me, it would be at least some supplies like say water or some food for me to survive."
+  },
+  {
+    "audio_start_offset": 1590.0,
+    "audio_end_offset": 1592.5,
+    "speaker_id": "Miranda",
+    "content": "Is this survival or meaningful?"
+  },
+  {
+    "audio_start_offset": 1593.0,
+    "audio_end_offset": 1593.5,
+    "speaker_id": "Maggie",
+    "content": "Meaningful."
+  },
+  {
+    "audio_start_offset": 1594.0,
+    "audio_end_offset": 1643.5,
+    "speaker_id": "Miranda",
+    "content": "[crosstalk 00:27:19] practical. Okay. If I had to find meaningful like Naomi did in terms of more sentimental, I would definitely also bring my phone. If meaningful in terms of survival, I think that water is good. I think I'll steal Naomi's idea of the boat then. But yeah, I'd also bring my phone. I don't know how to charge it though, that's the thing. solar powered battery pack. I'll configure."
+  },
+  {
+    "audio_start_offset": 1644.0,
+    "audio_end_offset": 1644.5,
+    "speaker_id": "Speaker 5",
+    "content": "I'd bring a friend along with me."
+  },
+  {
+    "audio_start_offset": 1645.0,
+    "audio_end_offset": 1650.5,
+    "speaker_id": "Miranda",
+    "content": "We can die together."
+  },
+  {
+    "audio_start_offset": 1651.0,
+    "audio_end_offset": 1654.5,
+    "speaker_id": "Speaker 5",
+    "content": "think about something to live together."
+  },
+  {
+    "audio_start_offset": 1655.0,
+    "audio_end_offset": 1657.5,
+    "speaker_id": "Miranda",
+    "content": "But what if one of you gets really hungry and starts eating the other one?"
+  },
+  {
+    "audio_start_offset": 1658.0,
+    "audio_end_offset": 1669.5,
+    "speaker_id": "Speaker 5",
+    "content": "I'm very sure the one who turned to get hungry is me. So I'm fine with that."
+  },
+  {
+    "audio_start_offset": 1670.0,
+    "audio_end_offset": 1684.5,
+    "speaker_id": "Maggie",
+    "content": "Okay, so that's a nice segue. If you could bring someone with you, who would you bring and why?"
+  },
+  {
+    "audio_start_offset": 1685.0,
+    "audio_end_offset": 1696.5,
+    "speaker_id": "Speaker 5",
+    "content": "I just said I'd bring a friend so we can kill time together and we can both brainstorm and try and get out of that place."
+  },
+  {
+    "audio_start_offset": 1697.0,
+    "audio_end_offset": 1708.5,
+    "speaker_id": "Miranda",
+    "content": "I think I would bring my best friend and platonic soulmate, the same as Doha. I think he's only person I could spend that much time with."
+  },
+  {
+    "audio_start_offset": 1709.0,
+    "audio_end_offset": 1722.5,
+    "speaker_id": "Shashank",
+    "content": "I mean for me, if I know someone who stays nearby a desert area and knows all about ... Have knowledge about it. Because he knows all about it."
+  },
+  {
+    "audio_start_offset": 1723.0,
+    "audio_end_offset": 1737.5,
+    "speaker_id": "Prassad",
+    "content": "Yeah, the same. I would bring someone who knows about surviving. I would like to have Bear Grylls with me if I'm ever stuck on an island."
+  },
+  {
+    "audio_start_offset": 1738.0,
+    "audio_end_offset": 1753.5,
+    "speaker_id": "Naomi",
+    "content": "That's a good idea. I think I would bring my mom because she's very resourceful and good at outdoor stuff, but she's also nice to be around."
+  },
+  {
+    "audio_start_offset": 1754.0,
+    "audio_end_offset": 1762.5,
+    "speaker_id": "Miranda",
+    "content": "That's the key. Bear Grylls, it'd be nice to have around for survival, but when he starts drinking his pee in front of you, I don't know if I'd be able to cope with that level of energy."
+  },
+  {
+    "audio_start_offset": 1763.0,
+    "audio_end_offset": 1777.5,
+    "speaker_id": "Prassad",
+    "content": "But I have the plastic sheet, right? The plastic sheet for the water."
+  },
+  {
+    "audio_start_offset": 1778.0,
+    "audio_end_offset": 1797.5,
+    "speaker_id": "Maggie",
+    "content": "Great. Thank you guys. And so next, what would you miss the most about the normal world, and why?"
+  },
+  {
+    "audio_start_offset": 1798.0,
+    "audio_end_offset": 1813.5,
+    "speaker_id": "Prassad",
+    "content": "I would say I would miss the technology that we take for granted. For example, cell phones and the internet. WiFi."
+  },
+  {
+    "audio_start_offset": 1814.0,
+    "audio_end_offset": 1839.5,
+    "speaker_id": "Miranda",
+    "content": "I think that in all honesty, I would miss just people. I think as much as I invest in my career and all that, at the end of the day, it doesn't mean anything unless I have some people I care about. And so, I'll miss just being around people that I love and living life with them."
+  },
+  {
+    "audio_start_offset": 1840.0,
+    "audio_end_offset": 1841.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, Naomi. You can go ahead."
+  },
+  {
+    "audio_start_offset": 1842.0,
+    "audio_end_offset": 1856.5,
+    "speaker_id": "Naomi",
+    "content": "Okay. I was just going to say, I'd miss my friends and being able to see them and do everyday things, I guess that we take for granted."
+  },
+  {
+    "audio_start_offset": 1857.0,
+    "audio_end_offset": 1873.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, same for me. I would miss all my relatives, all my friends. But on the other hand, I'm also a big time foodie. So kosher. Food."
+  },
+  {
+    "audio_start_offset": 1874.0,
+    "audio_end_offset": 1913.5,
+    "speaker_id": "Maggie",
+    "content": "Nice. Okay. So now also assuming that everyone has been in some different version of the world with what's going on with COVID, and assuming that that means that you are having more conversations remotely or having to communicate with people online more, what are your reflections about that? And so what have those online conversations been like for you? What's been surprising? What's been hard?"
+  },
+  {
+    "audio_start_offset": 1914.0,
+    "audio_end_offset": 1956.5,
+    "speaker_id": "Miranda",
+    "content": "It's a good question. I think right now we're experiencing it in that it's hard when conversations don't flow as naturally anymore. Now we're used to even in a room Zoom call of 20 people, it's one person at a time, there is the natural way that groups break off, and you just socialize with people organically. So I think what I miss the most is just being around people without it being ... Almost there isn't as much intention and focus on every moment. Yeah, I don't know what you guys think."
+  },
+  {
+    "audio_start_offset": 1957.0,
+    "audio_end_offset": 1987.5,
+    "speaker_id": "Naomi",
+    "content": "Yeah, I feel very similarly to that. I think you have to be very intentional whenever you want have a Zoom with your friends. And it's harder to read their body language like how they're feeling, what life is like for them. And then there's also the lack of those interactions that you have when you're just walking down the street and you see a friend. Those things don't happen as often. So it's definitely a weird transition."
+  },
+  {
+    "audio_start_offset": 1988.0,
+    "audio_end_offset": 2024.5,
+    "speaker_id": "Speaker 5",
+    "content": "For me, I just want to let. So though this is a pretty obvious one, but for all older family members who may struggle to understand technology. So this was a really good way for them to be able to communicate especially for all those elderly relatives back in India. So, this was a really good opportunity and I took advantage of that and I made them understand the technology. So that is one thing on the positive side."
+  },
+  {
+    "audio_start_offset": 2025.0,
+    "audio_end_offset": 2028.5,
+    "speaker_id": "Miranda",
+    "content": "You feel like you're more connected now."
+  },
+  {
+    "audio_start_offset": 2029.0,
+    "audio_end_offset": 2045.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, more connected. Maybe if this wasn't the situation, maybe we'd never had so much of video calls. That's one thing."
+  },
+  {
+    "audio_start_offset": 2046.0,
+    "audio_end_offset": 2063.5,
+    "speaker_id": "Prassad",
+    "content": "I miss air travel because it hasn't resumed. I was planning to go to India during this month, but it's not possible, just because everything is in lockdown."
+  },
+  {
+    "audio_start_offset": 2064.0,
+    "audio_end_offset": 2074.5,
+    "speaker_id": "Miranda",
+    "content": "I guess it is possible through some weird channels I've heard. But no, it's pretty tough. Do you have family that you were hoping to see?"
+  },
+  {
+    "audio_start_offset": 2075.0,
+    "audio_end_offset": 2075.5,
+    "speaker_id": "Prassad",
+    "content": "Yes."
+  },
+  {
+    "audio_start_offset": 2076.0,
+    "audio_end_offset": 2082.5,
+    "speaker_id": "Miranda",
+    "content": "Yeah. I'm sorry about that."
+  },
+  {
+    "audio_start_offset": 2083.0,
+    "audio_end_offset": 2097.5,
+    "speaker_id": "Maggie",
+    "content": "Okay, thank you guys. So in this time, what's something new that you've learned about yourself? As in these few last months."
+  },
+  {
+    "audio_start_offset": 2098.0,
+    "audio_end_offset": 2116.5,
+    "speaker_id": "Speaker 5",
+    "content": "I think one thing that I learned about myself was that I can be organized only if I want to. And during this time, it does actually help me work on those things and I've tried and become more organized with my thoughts, with my work, probably."
+  },
+  {
+    "audio_start_offset": 2117.0,
+    "audio_end_offset": 2147.5,
+    "speaker_id": "Miranda",
+    "content": "That's good. I mean, I've learned a lot about self care. I've been doing yoga every day and cooking more for myself, and what you were saying about being organized. I've learned to be more reflective of how I'm using my time and I think it's a good skill to carry. I don't know how you feel but I look forward to carry that outside of quarantine as well."
+  },
+  {
+    "audio_start_offset": 2148.0,
+    "audio_end_offset": 2168.5,
+    "speaker_id": "Prassad",
+    "content": "I would say for me, I got a little bit better at cooking because I've been staying home and I have enough time to cook my own meals. So yeah, eating healthy and all, I would say."
+  },
+  {
+    "audio_start_offset": 2169.0,
+    "audio_end_offset": 2188.5,
+    "speaker_id": "Naomi",
+    "content": "I think I've gotten better about reaching out to people. I think at school I don't feel I have to explicitly set up times to meet with people or video call or anything. But now I'm being more intentional about it. Because otherwise I would never get to see people."
+  },
+  {
+    "audio_start_offset": 2189.0,
+    "audio_end_offset": 2238.5,
+    "speaker_id": "Shashank",
+    "content": "Same for me. I have a common opinion, that I've been more organized since the lockdown. In the initial period, I actually came across that I'm really disorganized. I'm not getting up on time and then cooking stuff. I'm not really good in cooking. So yeah, a lot of things to learn. I learned cooking, now I'm getting up on time because I have a lot of classes. So yeah, even my focus would go on the organized part. So I'd be more organized."
+  },
+  {
+    "audio_start_offset": 2239.0,
+    "audio_end_offset": 2252.5,
+    "speaker_id": "Miranda",
+    "content": "So we're organized, we're eating better, connecting with friends. [crosstalk 00:38:09] positive, I like that."
+  },
+  {
+    "audio_start_offset": 2253.0,
+    "audio_end_offset": 2278.5,
+    "speaker_id": "Maggie",
+    "content": "Great. Thank you guys. And so then next, have you observed any patterns about the kinds of mediums you're using to communicate? Audio, text, video. What do you find yourself using the most and why?"
+  },
+  {
+    "audio_start_offset": 2279.0,
+    "audio_end_offset": 2293.5,
+    "speaker_id": "Prassad",
+    "content": "Mostly audio, I would say. Talking with my family through phone calls and WhatsApp messages."
+  },
+  {
+    "audio_start_offset": 2294.0,
+    "audio_end_offset": 2309.5,
+    "speaker_id": "Shashank",
+    "content": "I've been mostly using videoconferencing for my office stuff. But when it comes down to talking to people, I'm just too caught holding the phone right in front of me for an hour. So I just do audio calls instead of video calls."
+  },
+  {
+    "audio_start_offset": 2310.0,
+    "audio_end_offset": 2339.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah, even for me, if it's really important to go video of course if it's a one on one meeting, I usually go for a videoconferencing. But I mean, if it's a normal one, I would prefer audio but I don't mind having a video. I'm totally fine. I'm not really choosy about it."
+  },
+  {
+    "audio_start_offset": 2340.0,
+    "audio_end_offset": 2352.5,
+    "speaker_id": "Naomi",
+    "content": "I'd say that most of my classes use video conferencing so I tend to use that in my personal communications as well."
+  },
+  {
+    "audio_start_offset": 2353.0,
+    "audio_end_offset": 2394.5,
+    "speaker_id": "Miranda",
+    "content": "I'm using more video calling than normal but I'm also ... And especially for classes and things, I reflect ... So you guys said in terms of the audio, sometimes I get tired of holding up the phone. So I think mostly I try to just keep things to phone calls when possible with family. Then also, I think that it's nice to just use text like Messenger just to send stupid updates and memes as a way of ... On a lower level staying in touch with people. It's a lot less effort. And so yeah, I've been doing that more with friends."
+  },
+  {
+    "audio_start_offset": 2395.0,
+    "audio_end_offset": 2427.5,
+    "speaker_id": "Maggie",
+    "content": "Thank you guys. So that's the end of our conversation. Thank you so much for participating and coming on and talking. I'm going to send the post survey in the chat in a second. Once you get the link to the post survey, and you click it and start filling it out, you should feel free to leave the Hangout. And today is Friday, so I won't be getting you your amazon gift cards by the end of this week but they should come well before the end of next week. Does that sound okay to everybody?"
+  },
+  {
+    "audio_start_offset": 2428.0,
+    "audio_end_offset": 2429.5,
+    "speaker_id": "Speaker 5",
+    "content": "Yeah."
+  },
+  {
+    "audio_start_offset": 2430.0,
+    "audio_end_offset": 2438.5,
+    "speaker_id": "Maggie",
+    "content": "Awesome. Thank you so much, everybody."
+  },
+  {
+    "audio_start_offset": 2439.0,
+    "audio_end_offset": 2442.5,
+    "speaker_id": "Miranda",
+    "content": "Okay, well."
+  },
+  {
+    "audio_start_offset": 2443.0,
+    "audio_end_offset": 2450.8,
+    "speaker_id": "Speaker 5",
+    "content": "Bye everybody, it was nice talking to everyone. Take care and stay safe."
+  }
+]
