@@ -4,6 +4,4 @@
 *.tsx
 __pycache__
 checkpoints
-data
 logs
-jupyter_notebooks
