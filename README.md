@@ -1,7 +1,9 @@
 # conversation-quality
 
-This repository contains code for a class project for the Understanding
-Public Thought class at MIT (MAS.S62), Fall 2020.
+This repository contains code for a project titled
+"Towards a Computational Method for Estimating the Quality of Spoken
+Discourse using Lexical Information".
+Submitted for MAS.S62 (Understanding Public Thought) at MIT, Fall 2020.
 
 We compute several lexical metrics from transcripts of spoken conversations
 and use them as conditioning features to try to estimate conversation quality.
