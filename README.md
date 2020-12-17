@@ -5,6 +5,8 @@ Public Thought class at MIT (MAS.S62), Fall 2020.
 
 We compute several lexical metrics from transcriptions of spoken conversations
 and use them as conditioning features to try to estimate conversation quality.
+Special thanks to Doug Beeferman for providing the baseline code for
+`utils/lexical_metrics.py` and `utils/responsivity.py`.
 
 
 ## Dependencies
